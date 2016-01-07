@@ -112,3 +112,5 @@ Independent:
 
 - [Shapeways](https://shapeways.com)
 - [Toybuilderlabs](http://toybuilderlabs.com)
+- [3D Hubs](https://www.3dhubs.com)
+

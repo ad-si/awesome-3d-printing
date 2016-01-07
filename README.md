@@ -24,6 +24,7 @@ A curated list of awesome 3D printing resources.
 ## Control Software
 
 - [Makerbot Desktop](http://www.makerbot.com/desktop) - Discover, manage and share your 3D prints.
+- [OctoPrint](http://octoprint.org) - Web interface for 3D printer.
 - [ReplicatorG](http://replicat.org) - Open source 3D printing program.
 - [Repetier](http://repetier.com) - Place, slice, preview and print.
 - [PrintRun](https://github.com/kliment/Printrun) - Pure Python 3d printing host software.
@@ -111,7 +112,7 @@ Independent:
 
 ## On Demand 3D-Printing Services
 
+- [3D Hubs](https://3dhubs.com)
 - [Shapeways](https://shapeways.com)
 - [Toybuilderlabs](http://toybuilderlabs.com)
-- [3D Hubs](https://www.3dhubs.com)
 

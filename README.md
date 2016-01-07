@@ -9,6 +9,7 @@ A curated list of awesome 3D printing resources.
 - [Formlabs](http://formlabs.com)
 - [MakerBot](http://makerbot.com)
 - [Printrbot](http://printrbot.com)
+- [RepRap](http://reprap.org) - Free desktop 3D printer.
 - [Ultimaker](https://ultimaker.com)
 
 

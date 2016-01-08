@@ -25,9 +25,9 @@ A curated list of awesome 3D printing resources.
 
 - [Makerbot Desktop](http://www.makerbot.com/desktop) - Discover, manage and share your 3D prints.
 - [OctoPrint](http://octoprint.org) - Web interface for 3D printer.
-- [ReplicatorG](http://replicat.org) - Open source 3D printing program.
-- [Repetier](http://repetier.com) - Place, slice, preview and print.
 - [PrintRun](https://github.com/kliment/Printrun) - Pure Python 3d printing host software.
+- [Repetier](http://repetier.com) - Place, slice, preview and print.
+- [ReplicatorG](http://replicat.org) - Open source 3D printing program.
 
 
 ## File Formats
@@ -60,55 +60,56 @@ A curated list of awesome 3D printing resources.
 
 ## Scanner
 
+- [123D Catch](http://www.123dapp.com/catch) - Free app to create 3D scans of virtually any object.
 - [iSense 3D scanner](http://cubify.com/products/isense)
-- [Sense](http://cubify.com/products/sense) - 3D Scanner.
-- [Matter and Form](https://matterandform.net/scanner) - Professional grade scanner.
 - [MakerBot Digitizer](http://makerbot.com/makerware-for-digitizer)
+- [Matter and Form](https://matterandform.net/scanner) - Professional grade scanner.
 - [Nextengine](http://nextengine.com)
 - [Scanify](https://www.fuel-3d.com/scanify) -  High-speed, high resolution, handheld 3D scanner.
-- [123D Catch](http://www.123dapp.com/catch) - Free app to create 3D scans of virtually any object.
+- [Sense](http://cubify.com/products/sense) - 3D Scanner.
+
 
 
 ## Online 3D-Model Repositories
 
 From 3D printer manufacturer:
 
-- [Thingiverse](https://thingiverse.com) (from Makerbot)
-- [YouMagine](https://youmagine.com) (from Ultimaker)
-- [Treasure Island](http://treasure.is) (from Pirate3D)
 - [123D Gallery](http://123dapp.com/Gallery) (from Autodesk)
 - [Cubify](http://cubify.com)
+- [Thingiverse](https://thingiverse.com) (from Makerbot)
+- [Treasure Island](http://treasure.is) (from Pirate3D)
+- [YouMagine](https://youmagine.com) (from Ultimaker)
 
 Independent:
 
-- [Shapeways](https://shapeways.com)
-- [Sculpteo](http://sculpteo.com)
-- [MakerBot Digital Store](http://makerbot.com/digital-store)
-- [CGtrader](http://cgtrader.com)
-- [Turbosquid](http://turbosquid.com)
-- [SketchFab](https://sketchfab.com)
-- [3D Via](http://3dvia.com)
-- [TF3DM](http://tf3dm.com)
-- [GrabCAD](http://grabcad.com)
-- [Uformit](http://uformit.com)
-- [Bld3r](http://bld3r.com)
-- [Redpah](https://redpah.com)
-- [3DAGOGO](https://3dagogo.com)
-- [Cults](http://en.cults3d.com)
 - [3D Model Free](http://3dmodelfree.com)
-- [FABFabbers](http://fabfabbers.com)
+- [3D Via](http://3dvia.com)
+- [3DAGOGO](https://3dagogo.com)
+- [Bld3r](http://bld3r.com)
+- [CGtrader](http://cgtrader.com)
 - [Cuboyo](http://cuboyo.com)
-- [MyMiniFactory](http://myminifactory.com)
+- [Cults](http://en.cults3d.com)
+- [FABFabbers](http://fabfabbers.com)
 - [FabMe](http://fabme.it)
-- [SproutForm](http://sproutform.com)
+- [GrabCAD](http://grabcad.com)
+- [MakerBot Digital Store](http://makerbot.com/digital-store)
+- [MyMiniFactory](http://myminifactory.com)
 - [Pinshape](https://pinshape.com)
+- [Redpah](https://redpah.com)
 - [Repables](http://repables.com)
+- [Sculpteo](http://sculpteo.com)
+- [Shapeways](https://shapeways.com)
+- [SketchFab](https://sketchfab.com)
+- [SproutForm](http://sproutform.com)
+- [TF3DM](http://tf3dm.com)
+- [Turbosquid](http://turbosquid.com)
+- [Uformit](http://uformit.com)
 
 
 ## Online Tools
 
-- [gcode.ws](http://gcode.ws) - Gcode analyzer.
 - [BotQueue](https://github.com/Hoektronics/BotQueue) - Control your 3D printers over the internet.
+- [gcode.ws](http://gcode.ws) - Gcode analyzer.
 
 
 ## On Demand 3D-Printing Services
@@ -116,4 +117,3 @@ Independent:
 - [3D Hubs](https://3dhubs.com)
 - [Shapeways](https://shapeways.com)
 - [Toybuilderlabs](http://toybuilderlabs.com)
-

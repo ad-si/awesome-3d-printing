@@ -32,21 +32,36 @@ A curated list of awesome 3D printing resources.
 
 ## File Formats
 
-- [3MF](https://en.wikipedia.org/wiki/3D_Manufacturing_Format)
-- [ACIS](https://en.wikipedia.org/wiki/ACIS#File_format)
-- [AMF](https://en.wikipedia.org/wiki/Additive_Manufacturing_File_Format)
-- [CKD](https://en.wikipedia.org/wiki/KeyCreator)
-- [DWG](https://en.wikipedia.org/wiki/.dwg)
-- [DXF](https://en.wikipedia.org/wiki/AutoCAD_DXF)
-- [DWF](https://en.wikipedia.org/wiki/Design_Web_Format)
-- [DWFX](https://en.wikipedia.org/wiki/Open_Packaging_Conventions)
-- [IGES](https://en.wikipedia.org/wiki/IGES)
-- [OBJ](https://en.wikipedia.org/wiki/Wavefront_.obj_file)
-- [OpenDWG](https://en.wikipedia.org/wiki/Open_Design_Alliance)
-- [PLY](https://en.wikipedia.org/wiki/PLY_(file_format))
-- [PSpice](https://en.wikipedia.org/wiki/PSpice_circuit_file)
-- [STL](https://en.wikipedia.org/wiki/STL_(file_format))
-- [STEP](https://en.wikipedia.org/wiki/ISO_10303)
+Name | License | Encoding | Features
+-----|---------|----------|---------
+[3MF] | Open | Compressed XML | geometry, material, metadata, signature, texture, thumbnail
+[ACIS] | | text or binary |
+[AMF] | Open | Zipped XML | color, constellations, curved triangles, formulas, geometry, material, metadata
+[CKD] | Proprietary | |
+[DWG] (Drawing) | Proprietary | OpenXPS |
+[DXF] (Drawing Exchange Format) | Proprietary | text/binary |
+[DWF] (Design Web Format) | | OpenXPS | Communicate design information
+[IGES] (Initial Graphics Exchange Specification) | Vendor-neutral | text | |
+[OBJ] (Object) | Open | text | geometry
+[PLY] (Polygon File Format) | Open | text or binary | color, geometry, normals, texture, transparency
+[STL] | Proprietary | text or binary | geometry, normals
+[STEP] | ISO | | |
+
+[3MF]: https://en.wikipedia.org/wiki/3D_Manufacturing_Format
+[ACIS]: https://en.wikipedia.org/wiki/ACIS#File_format
+[AMF]: https://en.wikipedia.org/wiki/Additive_Manufacturing_File_Format
+[CKD]: https://en.wikipedia.org/wiki/KeyCreator
+[DWG]: https://en.wikipedia.org/wiki/.dwg
+[DXF]: https://en.wikipedia.org/wiki/AutoCAD_DXF
+[DWF]: https://en.wikipedia.org/wiki/Design_Web_Format
+[DWFX]: https://en.wikipedia.org/wiki/Open_Packaging_Conventions
+[IGES]: https://en.wikipedia.org/wiki/IGES
+[OBJ]: https://en.wikipedia.org/wiki/Wavefront_.obj_file
+[OpenDWG]: https://en.wikipedia.org/wiki/Open_Design_Alliance
+[PLY]: https://en.wikipedia.org/wiki/PLY_(file_format)
+[PSpice]: https://en.wikipedia.org/wiki/PSpice_circuit_file
+[STL]: https://en.wikipedia.org/wiki/STL_(file_format)
+[STEP]: https://en.wikipedia.org/wiki/ISO_10303
 
 
 ## Slicers
@@ -94,7 +109,7 @@ Independent:
 - [GrabCAD](http://grabcad.com)
 - [MakerBot Digital Store](http://makerbot.com/digital-store)
 - [MyMiniFactory](http://myminifactory.com)
-- [Pinshape](https://pinshape.com)
+- [Pinshape](https://pinshape.com) - Find, share and sell 3D print files.
 - [Redpah](https://redpah.com)
 - [Repables](http://repables.com)
 - [Sculpteo](http://sculpteo.com)

@@ -98,9 +98,10 @@ Independent:
 - [3D Model Free](http://3dmodelfree.com)
 - [FABFabbers](http://fabfabbers.com)
 - [Cuboyo](http://cuboyo.com)
-- [MyMiniFactory ](http://myminifactory.com)
-- [FabMe](http://fabme.it/)
-- [SproutForm ](http://sproutform.com)
+- [MyMiniFactory](http://myminifactory.com)
+- [FabMe](http://fabme.it)
+- [SproutForm](http://sproutform.com)
+- [Pinshape](https://pinshape.com)
 - [Repables](http://repables.com)
 
 

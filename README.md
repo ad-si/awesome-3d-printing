@@ -134,6 +134,6 @@ Independent:
 - [Toybuilderlabs](http://toybuilderlabs.com)
 
 
-## On Demand 3D-Printing Price Comparision
+## On Demand 3D-Printing Price Comparison
  
 - [3Dprintler](https://3dprintler.com)

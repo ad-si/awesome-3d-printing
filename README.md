@@ -132,3 +132,8 @@ Independent:
 - [3D Hubs](https://3dhubs.com)
 - [Shapeways](https://shapeways.com)
 - [Toybuilderlabs](http://toybuilderlabs.com)
+
+
+## On Demand 3D-Printing Price Comparison
+ 
+- [3Dprintler](https://3dprintler.com)

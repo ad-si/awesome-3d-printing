@@ -70,11 +70,15 @@ Name | License | Encoding | Features
 
 ## Slicers
 
-- [Cura](https://ultimaker.com/en/products/cura-software) - Prepare your models for 3D printing.
-- [KISSlicer](http://kisslicer.com) - Generate path information [G-code] for a 3D Printer from 3D files [STL].
-- [MatterControl](http://mattercontrol.com) - 3D printing software.
-- [Slic3r](http://slic3r.org) - G-code generator for 3D printers.
-- [Skeinforge](http://fabmetheus.crsndoo.com/wiki/index.php/Skeinforge) - Tool chain of Python scripts to convert 3D models into G-Code.
+Convert 3D models into G-Code.
+
+- [CraftWare](https://craftunique.com/craftware)
+- [Cura](https://ultimaker.com/en/products/cura-software)
+- [Katana](http://printr.com/katana)
+- [KISSlicer](http://kisslicer.com)
+- [MatterControl](http://mattercontrol.com)
+- [Slic3r](http://slic3r.org)
+- [Skeinforge](http://fabmetheus.crsndoo.com/wiki/index.php/Skeinforge) - Tool chain of Python scripts.
 
 
 ## Scanner
@@ -144,6 +148,11 @@ Independent:
 ## On Demand 3D-Printing Price Comparison
  
 - [3Dprintler](https://3dprintler.com)
+
+
+## Remote Control
+
+- [The Element](http://printr.com/the_element) - Streaming device you can connect to your 3D printer via USB.
 
 
 ## Technologies

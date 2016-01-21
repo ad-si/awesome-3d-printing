@@ -34,6 +34,7 @@ A curated list of awesome 3D printing resources.
 - [PrintRun](https://github.com/kliment/Printrun) - Pure Python 3d printing host software.
 - [Repetier](http://repetier.com) - Place, slice, preview and print.
 - [ReplicatorG](http://replicat.org) - Open source 3D printing program.
+- [Formide](http://printr.com/formide) - Platform to manage multiple printers, multiple users and projects.
 
 
 ## File Formats

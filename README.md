@@ -11,6 +11,7 @@ A curated list of awesome 3D printing resources.
 - [Peachy Printer](http://peachyprinter.com) - The world's first 100$ 3D printer.
 - [Printrbot](http://printrbot.com)
 - [RepRap](http://reprap.org) - Free desktop 3D printer.
+- [Sharebot](https://sharebot.it) - Innovative, easy to use 3D printers for professional results.
 - [Ultimaker](https://ultimaker.com)
 - [XYZprinting](https://xyzprinting.com) - Cost-effective 3D printers.
 - [Up3d](https://up3d.com)

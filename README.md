@@ -10,6 +10,7 @@ A curated list of awesome 3D printing resources.
 - [Cubify](http://cubify.com)
 - [Formlabs](http://formlabs.com)
 - [Flashforge](http://ff3dp.com)
+- [German RepRap](https://germanreprap.com)
 - [Kentstrapper](http://kentstrapper.com/en)
 - [Lumi Industries](http://lumindustries.com)
 - [MakerBot](http://makerbot.com)

@@ -128,6 +128,7 @@ Independent:
 
 - [BotQueue](https://github.com/Hoektronics/BotQueue) - Control your 3D printers over the internet.
 - [gcode.ws](http://gcode.ws) - Gcode analyzer.
+- [WeDesign](http://wedesign.live) - Collaborative platform for 3D design.
 
 
 ## On Demand 3D-Printing Services

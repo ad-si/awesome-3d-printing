@@ -11,6 +11,7 @@ A curated list of awesome 3D printing resources.
 - [Printrbot](http://printrbot.com)
 - [RepRap](http://reprap.org) - Free desktop 3D printer.
 - [Ultimaker](https://ultimaker.com)
+- [XYZprinting](xyzprinting.com) - Cost-effective 3D printers.
 
 
 ## CAD Tools

@@ -5,6 +5,7 @@ A curated list of awesome 3D printing resources.
 
 ## 3D-Printer Brands
 
+- [Construction Zone](http://construction-zone.de)
 - [CraftUnique](https://craftunique.com)
 - [Cubify](http://cubify.com)
 - [Formlabs](http://formlabs.com)

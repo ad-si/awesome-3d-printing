@@ -157,6 +157,12 @@ Independent:
 - [The Element](http://printr.com/the_element) - Streaming device you can connect to your 3D printer via USB.
 
 
+# Search Engines
+
+- [3Dshap.es](http://3dshap.es) - Find 3D Printable Designs Using 3D shape.
+- [Yobi3d](https://yobi3d.com)
+
+
 ## Technologies
 
 - [NewPro3D](http://newpro3d.com) - Wettable membrane for high speed resin based 3D-printing.

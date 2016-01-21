@@ -129,6 +129,8 @@ Independent:
 - [BotQueue](https://github.com/Hoektronics/BotQueue) - Control your 3D printers over the internet.
 - [gcode.ws](http://gcode.ws) - Gcode analyzer.
 - [WeDesign](http://wedesign.live) - Collaborative platform for 3D design.
+- [Clara.io](https://clara.io) - Cloud-based 3D modeling, animation and rendering.
+- [Lagoa](http://home.lagoa.com) - Create kinematic assemblies, renders and photoreal interactive 3D experiences in the browser.
 
 
 ## On Demand 3D-Printing Services

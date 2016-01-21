@@ -8,6 +8,7 @@ A curated list of awesome 3D printing resources.
 - [Cubify](http://cubify.com)
 - [Formlabs](http://formlabs.com)
 - [MakerBot](http://makerbot.com)
+- [Peachy Printer](http://peachyprinter.com) - The world's first 100$ 3D printer.
 - [Printrbot](http://printrbot.com)
 - [RepRap](http://reprap.org) - Free desktop 3D printer.
 - [Ultimaker](https://ultimaker.com)

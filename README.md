@@ -140,3 +140,9 @@ Independent:
 ## On Demand 3D-Printing Price Comparison
  
 - [3Dprintler](https://3dprintler.com)
+
+
+## Technologies
+
+- [NewPro3D](http://newpro3d.com) - Wettable membrane for high speed resin based 3D-printing.
+- [Carbon3D](http://carbon3d.com/) - Balancing the interaction of light and oxygen for fast resin based 3D-printing.

@@ -155,6 +155,7 @@ Independent:
 ## On Demand 3D-Printing Price Comparison
  
 - [3Dprintler](https://3dprintler.com)
+- [3yourmind](https://3yourmind.com)
 
 
 ## Remote Control

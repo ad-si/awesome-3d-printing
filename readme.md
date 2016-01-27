@@ -1,9 +1,9 @@
-# Awesome 3D-Printing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome 3D Printing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome 3D printing resources.
 
 
-## 3D-Printer Brands
+## 3D Printer Brands
 
 - [Construction Zone](http://construction-zone.de)
 - [CraftUnique](https://craftunique.com)
@@ -100,7 +100,7 @@ Convert 3D models into G-Code.
 
 
 
-## Online 3D-Model Repositories
+## Online 3D Model Repositories
 
 From 3D printer manufacturer:
 
@@ -146,14 +146,14 @@ Independent:
 - [WeDesign](http://wedesign.live) - Collaborative platform for 3D design.
 
 
-## On Demand 3D-Printing Services
+## On Demand 3D Printing Services
 
 - [3D Hubs](https://3dhubs.com)
 - [Shapeways](https://shapeways.com)
 - [Toybuilderlabs](http://toybuilderlabs.com)
 
 
-## On Demand 3D-Printing Price Comparison
+## On Demand 3D Printing Price Comparison
 
 - [3Dprintler](https://3dprintler.com)
 - [3yourmind](https://3yourmind.com)
@@ -172,5 +172,5 @@ Independent:
 
 ## Technologies
 
-- [NewPro3D](http://newpro3d.com) - Wettable membrane for high speed resin based 3D-printing.
-- [Carbon3D](http://carbon3d.com/) - Balancing the interaction of light and oxygen for fast resin based 3D-printing.
+- [NewPro3D](http://newpro3d.com) - Wettable membrane for high speed resin based 3D printing.
+- [Carbon3D](http://carbon3d.com/) - Balancing the interaction of light and oxygen for fast resin based 3D printing.

@@ -2,6 +2,22 @@
 
 A curated list of awesome 3D printing resources.
 
+## Table of Contents
+
+- [3D Printer Brands](#3d-printer-brands)
+- [CAD Tools](#cad-tools)
+- [Control Software](#control-software)
+- [File Formats](#file-formats)
+- [Slicers](#slicers)
+- [Scanner](#scanner)
+- [Online 3D Model Repositories](#online-3d-model-repositories)
+- [Online Tools](#online-tools)
+- [On Demand 3D Printing Services](#on-demand-3d-printing-services)
+- [On Demand 3D Printing Price Comparison](#on-demand-3d-printing-price-comparison)
+- [Remote Control](#remote-control)
+- [Search Engines](#search-engines)
+- [Technologies](#technologies)
+
 
 ## 3D Printer Brands
 
@@ -97,7 +113,6 @@ Convert 3D models into G-Code.
 - [Nextengine](http://nextengine.com)
 - [Scanify](https://www.fuel-3d.com/scanify) -  High-speed, high resolution, handheld 3D scanner.
 - [Sense](http://cubify.com/products/sense) - 3D Scanner.
-
 
 
 ## Online 3D Model Repositories

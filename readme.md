@@ -18,6 +18,7 @@ A curated list of awesome 3D printing resources.
 - [Remote Control](#remote-control)
 - [Search Engines](#search-engines)
 - [Technologies](#technologies)
+- [Education](#education)
 
 
 ## 3D Printer Brands
@@ -172,6 +173,7 @@ Independent:
 ## Marketplaces
 
 - [Zazzy](https://zazzy.co) - Create and sell 3D printed accessories.
+- [Microscape](http://microscape.co) - Minature scale 3D printed architectural models.
 
 
 ## On Demand 3D Printing Price Comparison

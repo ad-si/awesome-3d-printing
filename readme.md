@@ -174,6 +174,7 @@ Independent:
 
 - [Zazzy](https://zazzy.co) - Create and sell 3D printed accessories.
 - [Microscape](http://microscape.co) - Minature scale 3D printed architectural models.
+- [iGo3D](https://igo3d.com) - 3D printing online store.
 
 
 ## On Demand 3D Printing Price Comparison

@@ -23,6 +23,7 @@ A curated list of awesome 3D printing resources.
 
 ## 3D Printer Brands
 
+- [3D Kreator](http://3dkreator.com) - Manufacturer of the "Kreator Motion" universal 3D printer.
 - [Construction Zone](http://construction-zone.de)
 - [CraftUnique](https://craftunique.com)
 - [Cubify](http://cubify.com)

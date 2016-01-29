@@ -13,6 +13,7 @@ A curated list of awesome 3D printing resources.
 - [Online 3D Model Repositories](#online-3d-model-repositories)
 - [Online Tools](#online-tools)
 - [On Demand 3D Printing Services](#on-demand-3d-printing-services)
+- [Marketplaces](#marketplaces)
 - [On Demand 3D Printing Price Comparison](#on-demand-3d-printing-price-comparison)
 - [Remote Control](#remote-control)
 - [Search Engines](#search-engines)
@@ -166,6 +167,11 @@ Independent:
 - [3D Hubs](https://3dhubs.com)
 - [Shapeways](https://shapeways.com)
 - [Toybuilderlabs](http://toybuilderlabs.com)
+
+
+## Marketplaces
+
+- [Zazzy](https://zazzy.co) - Create and sell 3D printed accessories.
 
 
 ## On Demand 3D Printing Price Comparison

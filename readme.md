@@ -195,3 +195,8 @@ Independent:
 
 - [NewPro3D](http://newpro3d.com) - Wettable membrane for high speed resin based 3D printing.
 - [Carbon3D](http://carbon3d.com/) - Balancing the interaction of light and oxygen for fast resin based 3D printing.
+
+
+## Education
+
+- [Makerclub](http://makerclub.org) - Online courses for 3D printing and the internet of things.

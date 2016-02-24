@@ -123,7 +123,6 @@ Convert 3D models into G-Code.
 From 3D printer manufacturer:
 
 - [123D Gallery](http://123dapp.com/Gallery) (from Autodesk)
-- [Cubify](http://cubify.com)
 - [Thingiverse](https://thingiverse.com) (from Makerbot)
 - [Treasure Island](http://treasure.is) (from Pirate3D)
 - [YouMagine](https://youmagine.com) (from Ultimaker)

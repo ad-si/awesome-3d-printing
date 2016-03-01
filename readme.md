@@ -174,6 +174,12 @@ Independent:
 - [Shapeways](https://shapeways.com)
 - [Toybuilderlabs](http://toybuilderlabs.com)
 
+From game assets:
+
+- [Whispering Gibbon](http://whisperinggibbon.com) - 3D printing virtual content.
+- [Fabzat](http://fabzat.com) - In app custom merchandising.
+- [Toyze](http://toyze.com) - Bring game characters to life as customized toys.
+
 
 ## Marketplaces
 

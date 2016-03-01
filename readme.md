@@ -38,6 +38,7 @@ A curated list of awesome 3D printing resources.
 - [Printrbot](http://printrbot.com)
 - [RepRap](http://reprap.org) - Free desktop 3D printer.
 - [Sharebot](https://sharebot.it) - Innovative, easy to use 3D printers for professional results.
+- [Sindoh](http://3dprinter.sindoh.com) - Enclosed xyz 3D printer "3DWOX".
 - [Tractus3D](http://tractus3d.com) - Delta 3D printers in 3 sizes.
 - [Trideo3D](http://trideo3d.com) - FDM 3D printers focusing on the experience in 3 sizes.
 - [Ultimaker](https://ultimaker.com)

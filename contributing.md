@@ -29,5 +29,5 @@ if you don't know how to use GitHub to contribute to this list.
 
 ## Updating a pull request
 
-Check out [this post](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md)
+Check out [this post](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
 on how to change a pull request and the different ways it can be done.

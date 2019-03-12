@@ -25,26 +25,25 @@ A curated list of awesome 3D printing resources.
 ## 3D Printer Brands
 
 - [3D Kreator](http://3dkreator.com) - Manufacturer of the "Kreator Motion" universal 3D printer.
-- [3D SYSTEMS](http://www.3dsystems.com) - Desktop to Commercial 3d printers
+- [3D Systems](http://www.3dsystems.com) - 3D printers, print materials, on-demand parts services and digital design tools.
 - [Construction Zone](http://construction-zone.de)
 - [CraftUnique](https://craftunique.com)
 - [Cubify](http://cubify.com)
-- [Dremel](https://3dprinter.dremel.com) Dremel 3D Printers
+- [Dremel](https://digilab.dremel.com) - 3D printers and laser cutters.
 - [Formlabs](http://formlabs.com)
 - [Flashforge](http://ff3dp.com)
 - [German RepRap](https://germanreprap.com)
 - [Kentstrapper](http://kentstrapper.com/en)
 - [Lumi Industries](http://lumindustries.com)
-- [Lulzbot](https://www.lulzbot.com) Opensource Printer 
+- [Lulzbot](https://www.lulzbot.com) - Open hardware 3D printers and accessories.
 - [MakerBot](http://makerbot.com)
-- [Makergear](http://www.makergear.com)
-- [Monoprice](http://www.monoprice.com/pages/3d_printers) Monoprice branded Wanhao Printers
-- [New Matter](https://newmatter.com)
+- [Makergear](https://www.makergear.com)
+- [Monoprice](https://www.monoprice.com/pages/3d_printers) - Monoprice branded Wanhao printers.
 - [Peachy Printer](http://peachyprinter.com) - The world's first 100$ 3D printer.
 - [Printrbot](http://printrbot.com)
-- [Prusa Research](http://www.prusa3d.com) - The original Prusa I3
+- [Prusa Research](http://www.prusa3d.com) - 3D printers from Josef Prusa.
 - [RepRap](http://reprap.org) - Free desktop 3D printer.
-- [Robo3d](https://robo3d.com) - Robo R1, R2 and C2 3d Printers
+- [Robo3d](https://robo3d.com) - Robo R1, R2 and C2 3D printers.
 - [Sharebot](https://sharebot.it) - Innovative, easy to use 3D printers for professional results.
 - [Sindoh](http://3dprinter.sindoh.com) - Enclosed xyz 3D printer "3DWOX".
 - [Tractus3D](http://tractus3d.com) - Delta 3D printers in 3 sizes.
@@ -52,7 +51,7 @@ A curated list of awesome 3D printing resources.
 - [Ultimaker](https://ultimaker.com)
 - [XYZprinting](https://xyzprinting.com) - Cost-effective 3D printers.
 - [Up3d](https://up3d.com)
-- [Wanhao USA](http://wanhaousa.com)
+- [Wanhao](https://www.wanhao3dprinter.com)
 
 
 ## CAD Tools
@@ -61,7 +60,7 @@ A curated list of awesome 3D printing resources.
 - [FreeCAD](http://freecadweb.org)
 - [OpenSCAD](http://openscad.org)
 - [Solidworks](http://solidworks.com) [commercial]
-- [Tinkercad](https://www.tinkercad.com) Browser-based 3D design and modeling.
+- [Tinkercad](https://www.tinkercad.com) - Browser based free app for 3D design, electronics, and coding.
 
 
 ## Control Software

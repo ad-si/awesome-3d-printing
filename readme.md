@@ -26,6 +26,7 @@ A curated list of awesome 3D printing resources.
 
 - [3D Kreator](http://3dkreator.com) - Manufacturer of the "Kreator Motion" universal 3D printer.
 - [3D Systems](http://www.3dsystems.com) - 3D printers, print materials, on-demand parts services and digital design tools.
+- [Alfawise](https://www.alfawise.com) - Own brand from Gearbest
 - [Construction Zone](http://construction-zone.de)
 - [CraftUnique](https://craftunique.com)
 - [Cubify](http://cubify.com)
@@ -58,13 +59,16 @@ A curated list of awesome 3D printing resources.
 
 - [AutoCAD](http://autodesk.com/products/autocad/overview) [commercial]
 - [FreeCAD](http://freecadweb.org)
+- [Fusion360](https://www.autodesk.de/products/fusion-360/overview)
 - [OpenSCAD](http://openscad.org)
+- [Sharpr3D](https://www.shapr3d.com)
 - [Solidworks](http://solidworks.com) [commercial]
 - [Tinkercad](https://www.tinkercad.com) - Browser based free app for 3D design, electronics, and coding.
 
 
 ## Control Software
 
+- [Astroprint](www.astroprint.com)
 - [Makerbot Desktop](http://www.makerbot.com/desktop) - Discover, manage and share your 3D prints.
 - [OctoPrint](http://octoprint.org) - Web interface for 3D printer.
 - [PrintRun](https://github.com/kliment/Printrun) - Pure Python 3d printing host software.
@@ -110,6 +114,7 @@ Name | License | Encoding | Features
 
 Convert 3D models into G-Code.
 
+- [Astroprint](www.astroprint.com)
 - [CraftWare](https://craftunique.com/craftware)
 - [Cura](https://ultimaker.com/en/products/cura-software)
 - [Katana](http://printr.com/katana)

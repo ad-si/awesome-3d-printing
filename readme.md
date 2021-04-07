@@ -182,6 +182,7 @@ Independent:
 - [3D Hubs](https://3dhubs.com)
 - [Shapeways](https://shapeways.com)
 - [Toybuilderlabs](http://toybuilderlabs.com)
+- [Jiga](https://jiga3d.com)
 
 From game assets:
 

@@ -164,6 +164,9 @@ Independent:
 - [Turbosquid](http://turbosquid.com)
 - [Uformit](http://uformit.com)
 
+Self-Hostable:
+
+- [van_dam](https://github.com/Floppy/van_dam)
 
 ## Online Tools
 

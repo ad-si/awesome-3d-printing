@@ -138,6 +138,7 @@ From 3D printer manufacturer:
 - [Thingiverse](https://thingiverse.com) (from Makerbot)
 - [Treasure Island](http://treasure.is) (from Pirate3D)
 - [YouMagine](https://youmagine.com) (from Ultimaker)
+- [Printables](https://printables.com) (from Prusa Research)
 
 Independent:
 

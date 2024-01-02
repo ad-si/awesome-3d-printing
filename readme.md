@@ -182,7 +182,7 @@ Independent:
 - [3D Hubs](https://3dhubs.com)
 - [Shapeways](https://shapeways.com)
 - [Toybuilderlabs](http://toybuilderlabs.com)
-- [Jiga](https://jiga3d.com)
+- [Jiga](https://jiga.io) - Manufacturing as a service with known machine shops.
 
 From game assets:
 

@@ -113,6 +113,7 @@ Convert 3D models into G-Code.
 - [CraftWare](https://craftunique.com/craftware)
 - [Cura](https://ultimaker.com/en/products/cura-software)
 - [Katana](http://printr.com/katana)
+- [Kiri:Moto](https://grid.space/kiri/) - Web based slicer for 3D printers, CNC mills, and Laser cutters.
 - [KISSlicer](http://kisslicer.com)
 - [MatterControl](http://mattercontrol.com)
 - [Slic3r](http://slic3r.org)

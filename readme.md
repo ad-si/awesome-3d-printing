@@ -166,7 +166,8 @@ Independent:
 
 Self-Hostable:
 
-- [van_dam](https://github.com/Floppy/van_dam)
+- [Manyfold](https://github.com/manyfold3d/manyfold)
+
 
 ## Online Tools
 

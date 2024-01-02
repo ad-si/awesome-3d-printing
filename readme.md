@@ -57,11 +57,11 @@ A curated list of awesome 3D printing resources.
 ## CAD Tools
 
 - [AutoCAD](http://autodesk.com/products/autocad/overview) [commercial]
+- [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/personal) [free for personal / non-commercial use]
 - [FreeCAD](http://freecadweb.org)
 - [OpenSCAD](http://openscad.org)
 - [Solidworks](http://solidworks.com) [commercial]
 - [Tinkercad](https://www.tinkercad.com) - Browser based free app for 3D design, electronics, and coding.
-- [Fusion 360](https://www.autodesk.com/campaigns/fusion-360-for-hobbyists) [free for personal / non commercial use]
 
 
 ## Control Software

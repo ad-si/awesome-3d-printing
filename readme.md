@@ -161,6 +161,10 @@ Independent:
 - [Turbosquid](https://www.turbosquid.com)
 - [Uformit](http://uformit.com)
 
+Self-Hostable:
+
+- [Manyfold](https://github.com/manyfold3d/manyfold)
+
 
 ## Online Tools
 

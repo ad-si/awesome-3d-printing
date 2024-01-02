@@ -138,6 +138,7 @@ From 3D printer manufacturer:
 - [123D Gallery](http://123dapp.com/Gallery) (from Autodesk)
 - [Thingiverse](https://thingiverse.com) (from Makerbot)
 - [YouMagine](https://youmagine.com) (from Ultimaker)
+- [Printables](https://printables.com) (from Prusa Research)
 
 Independent:
 

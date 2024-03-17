@@ -1,8 +1,10 @@
-# Awesome 3D Printing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome 3D Printing
 
 A curated list of awesome 3D printing resources.
 
-## Table of Contents
+**Table Of Contents**
+
+<!-- toc -->
 
 - [3D Printer Brands](#3d-printer-brands)
 - [CAD Tools](#cad-tools)
@@ -15,62 +17,98 @@ A curated list of awesome 3D printing resources.
 - [On Demand 3D Printing Services](#on-demand-3d-printing-services)
 - [Marketplaces](#marketplaces)
 - [On Demand 3D Printing Price Comparison](#on-demand-3d-printing-price-comparison)
-- [Remote Control](#remote-control)
 - [Search Engines](#search-engines)
 - [Technologies](#technologies)
 - [Education](#education)
-- [Accessories](#accessories)
+- [Filaments](#filaments)
 
+<!-- tocstop -->
 
 ## 3D Printer Brands
 
-- [3D Kreator](http://3dkreator.com) - Manufacturer of the "Kreator Motion" universal 3D printer.
-- [3D Systems](http://www.3dsystems.com) - 3D printers, print materials, on-demand parts services and digital design tools.
-- [Construction Zone](http://construction-zone.de)
-- [CraftUnique](https://craftunique.com)
-- [Cubify](http://cubify.com)
-- [Dremel](https://digilab.dremel.com) - 3D printers and laser cutters.
-- [Formlabs](http://formlabs.com)
-- [Flashforge](http://ff3dp.com)
-- [German RepRap](https://germanreprap.com)
-- [Kentstrapper](http://kentstrapper.com/en)
-- [Lumi Industries](http://lumindustries.com)
-- [Lulzbot](https://www.lulzbot.com) - Open hardware 3D printers and accessories.
-- [MakerBot](http://makerbot.com)
-- [Makergear](https://www.makergear.com)
-- [Monoprice](https://www.monoprice.com/pages/3d_printers) - Monoprice branded Wanhao printers.
-- [Peachy Printer](http://peachyprinter.com) - The world's first 100$ 3D printer.
-- [Printrbot](http://printrbot.com)
-- [Prusa Research](http://www.prusa3d.com) - 3D printers from Josef Prusa.
-- [RepRap](http://reprap.org) - Free desktop 3D printer.
-- [Robo3d](https://robo3d.com) - Robo R1, R2 and C2 3D printers.
-- [Sharebot](https://sharebot.it) - Innovative, easy to use 3D printers for professional results.
-- [Sindoh](http://3dprinter.sindoh.com) - Enclosed xyz 3D printer "3DWOX".
-- [Tractus3D](http://tractus3d.com) - Delta 3D printers in 3 sizes.
-- [Trideo3D](http://trideo3d.com) - FDM 3D printers focusing on the experience in 3 sizes.
-- [Ultimaker](https://ultimaker.com)
-- [XYZprinting](https://xyzprinting.com) - Cost-effective 3D printers.
-- [Up3d](https://up3d.com)
-- [Wanhao](https://www.wanhao3dprinter.com)
+- [3D Kreator] - Manufacturer of the "Kreator Motion" universal 3D printer.
+- [3D Systems] - 3D printers, print materials, on-demand parts services
+    and digital design tools.
+- [CraftUnique]
+- [Cubify]
+- [Dremel] - 3D printers and laser cutters.
+- [Flashforge]
+- [Formlabs]
+- [German RepRap]
+- [Kentstrapper]
+- [Lulzbot] - Open hardware 3D printers and accessories.
+- [Lumi Industries]
+- [MakerBot]
+- [Makergear]
+- [Monoprice] - Monoprice branded Wanhao printers.
+- [Printrbot]
+- [Prusa Research] - 3D printers from Josef Prusa.
+- [RepRap] - Free desktop 3D printer.
+- [Robo3d] - Robo R1, R2 and C2 3D printers.
+- [Sharebot] - Innovative, easy to use 3D printers for professional results.
+- [Sindoh] - Enclosed xyz 3D printer "3DWOX".
+- [Tractus3D] - Delta 3D printers in 3 sizes.
+- [Trideo3D] - FDM 3D printers focusing on the experience in 3 sizes.
+- [Ultimaker]
+- [Up3d]
+- [Wanhao]
+
+[3D Kreator]: https://3dkreator.com
+[3D Systems]: https://www.3dsystems.com
+[CraftUnique]: https://craftunique.com
+[Cubify]: https://cubify.com
+[Dremel]: https://digilab.dremel.com
+[Flashforge]: https://www.flashforge.com
+[Formlabs]: https://formlabs.com
+[German RepRap]: https://germanreprap.com
+[Kentstrapper]: https://kentstrapper.com/en
+[Lulzbot]: https://www.lulzbot.com
+[Lumi Industries]: https://lumindustries.com
+[MakerBot]: https://makerbot.com
+[Makergear]: https://www.makergear.com
+[Monoprice]: https://www.monoprice.com/pages/3d_printers
+[Printrbot]: https://printrbot.com
+[Prusa Research]: https://www.prusa3d.com
+[RepRap]: https://reprap.org
+[Robo3d]: https://robo3d.com
+[Sharebot]: https://sharebot.it
+[Sindoh]: https://3dprinter.sindoh.com
+[Tractus3D]: https://tractus3d.com
+[Trideo3D]: https://trideo3d.com
+[Ultimaker]: https://ultimaker.com
+[Up3d]: https://up3d.com
+[Wanhao]: https://www.wanhao3dprinter.com
 
 
 ## CAD Tools
 
-- [AutoCAD](http://autodesk.com/products/autocad/overview) [commercial]
-- [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/personal) [free for personal / non-commercial use]
-- [FreeCAD](http://freecadweb.org)
-- [OpenSCAD](http://openscad.org)
-- [Solidworks](http://solidworks.com) [commercial]
-- [Tinkercad](https://www.tinkercad.com) - Browser based free app for 3D design, electronics, and coding.
+- [AutoCAD] - 2D and 3D CAD design software (commercial)
+- [Autodesk Fusion 360] - 3D CAD, CAM, and CAE tool for product design
+    and manufacturing (free for personal / non-commercial use)
+- [FreeCAD]
+- [OpenSCAD]
+- [Solidworks] - 3D CAD design software (commercial)
+- [Tinkercad] - Browser based free app for 3D design, electronics, and coding.
+
+[AutoCAD]: https://autodesk.com/products/autocad/overview
+[Autodesk Fusion 360]: https://www.autodesk.com/products/fusion-360/personal
+[FreeCAD]: https://freecadweb.org
+[OpenSCAD]: https://openscad.org
+[Solidworks]: https://solidworks.com
+[Tinkercad]: https://www.tinkercad.com
 
 
 ## Control Software
 
-- [Makerbot Desktop](http://www.makerbot.com/desktop) - Discover, manage and share your 3D prints.
-- [OctoPrint](http://octoprint.org) - Web interface for 3D printer.
-- [PrintRun](https://github.com/kliment/Printrun) - Pure Python 3d printing host software.
-- [Repetier](http://repetier.com) - Place, slice, preview and print.
-- [ReplicatorG](http://replicat.org) - Open source 3D printing program.
+- [Makerbot Desktop] - Discover, manage and share your 3D prints.
+- [OctoPrint] - Web interface for 3D printer.
+- [PrintRun] - Pure Python 3d printing host software.
+- [Repetier] - Place, slice, preview and print.
+
+[Makerbot Desktop]: https://www.makerbot.com/desktop
+[OctoPrint]: https://octoprint.org
+[PrintRun]: https://github.com/kliment/Printrun
+[Repetier]: https://repetier.com
 
 
 ## File Formats
@@ -111,128 +149,165 @@ Name | License | Encoding | Features
 
 Convert 3D models into G-Code.
 
-- [CraftWare](https://craftunique.com/craftware)
-- [Cura](https://ultimaker.com/en/products/cura-software)
-- [Katana](http://printr.com/katana)
-- [Kiri:Moto](https://grid.space/kiri/) - Web based slicer for 3D printers, CNC mills, and Laser cutters.
-- [KISSlicer](http://kisslicer.com)
-- [MatterControl](http://mattercontrol.com)
-- [Slic3r](http://slic3r.org)
-- [Skeinforge](http://fabmetheus.crsndoo.com/wiki/index.php/Skeinforge) - Tool chain of Python scripts.
+- [CraftWare] - Free slicer for 3D printers.
+- [Cura] - Open source 3D printer / slicing GUI by Ultimaker.
+- [Kiri:Moto] - Web based slicer for 3D printers, CNC mills, and Laser cutters.
+- [KISSlicer] - Cross-platform slicer for STL files.
+- [MatterControl] - 3D printing software.
+- [Slic3r] - Open source 3D printing toolbox.
+
+[CraftWare]: https://craftbot.com/craftware
+[Cura]: https://ultimaker.com/software/ultimaker-cura/
+[Kiri:Moto]: https://grid.space/kiri/
+[KISSlicer]: https://kisslicer.com
+[MatterControl]: https://github.com/MatterHackers/MatterControl
+[Slic3r]: https://slic3r.org
 
 
 ## Scanner
 
-- [123D Catch](http://www.123dapp.com/catch) - Free app to create 3D scans of virtually any object.
-- [iSense 3D scanner](http://cubify.com/products/isense)
-- [MakerBot Digitizer](http://makerbot.com/makerware-for-digitizer)
-- [Matter and Form](https://matterandform.net/scanner) - Professional grade scanner.
-- [Nextengine](http://nextengine.com)
-- [Scanify](https://www.fuel-3d.com/scanify) -  High-speed, high resolution, handheld 3D scanner.
-- [Sense](http://cubify.com/products/sense) - 3D Scanner.
+- [iSense 3D scanner]
+- [MakerBot Digitizer]
+- [Matter and Form] - Professional grade scanner.
+- [Sense] - 3D Scanner.
+
+[iSense 3D scanner]: https://cubify.com/products/isense
+[MakerBot Digitizer]: https://makerbot.com/makerware-for-digitizer
+[Matter and Form]: https://matterandform.net/scanner
+[Sense]: https://cubify.com/products/sense
 
 
 ## Online 3D Model Repositories
 
 From 3D printer manufacturer:
 
-- [123D Gallery](http://123dapp.com/Gallery) (from Autodesk)
-- [Thingiverse](https://thingiverse.com) (from Makerbot)
-- [YouMagine](https://youmagine.com) (from Ultimaker)
-- [Printables](https://printables.com) (from Prusa Research)
+- [Thingiverse] - (from Ultimaker)
+- [Printables] - (from Prusa Research)
 
 Independent:
 
-- [3D Model Free](http://3dmodelfree.com)
-- [3D Via](https://www.3ds.com/products/3dvia)
-- [Astroprint](https://www.astroprint.com/)
-- [CGtrader](https://www.cgtrader.com/)
-- [Cuboyo](http://cuboyo.com)
-- [Cults](https://cults3d.com) - Find, share and sell 3D print files.
-- [GrabCAD](https://grabcad.com)
-- [MyMiniFactory](https://www.myminifactory.com/)
-- [Pinshape](https://pinshape.com) - Find, share and sell 3D print files.
-- [Redpah](https://redpah.com)
-- [Repables](https://repables.com)
-- [Sculpteo](https://www.sculpteo.com)
-- [Shapeways](https://www.shapeways.com)
-- [SketchFab](https://sketchfab.com)
-- [TF3DM](http://tf3dm.com)
-- [Turbosquid](https://www.turbosquid.com)
-- [Uformit](http://uformit.com)
+- [3D Via]
+- [Astroprint]
+- [CGtrader]
+- [Cults] - Find, share and sell 3D print files.
+- [GrabCAD]
+- [MyMiniFactory]
+- [Pinshape] - Find, share and sell 3D print files.
+- [Redpah]
+- [Repables]
+- [Sculpteo]
+- [Shapeways]
+- [SketchFab]
+- [TF3DM]
+- [Turbosquid]
 
 Self-Hostable:
 
-- [Manyfold](https://github.com/manyfold3d/manyfold)
+- [Manyfold]
+
+
+[3D Via]: https://www.3ds.com/products/3dvia
+[Astroprint]: https://www.astroprint.com/
+[CGtrader]: https://www.cgtrader.com/
+[Cults]: https://cults3d.com
+[GrabCAD]: https://grabcad.com
+[Manyfold]: https://github.com/manyfold3d/manyfold
+[MyMiniFactory]: https://www.myminifactory.com/
+[Pinshape]: https://pinshape.com
+[Printables]: https://www.printables.com
+[Redpah]: https://redpah.com
+[Repables]: https://repables.com
+[Sculpteo]: https://www.sculpteo.com
+[Shapeways]: https://www.shapeways.com
+[SketchFab]: https://sketchfab.com
+[TF3DM]: https://tf3dm.com
+[Thingiverse]: https://thingiverse.com
+[Turbosquid]: https://www.turbosquid.com
+[YouMagine]: https://youmagine.com
 
 
 ## Online Tools
 
-- [BotQueue](https://github.com/Hoektronics/BotQueue) - Control your 3D printers over the internet.
-- [Clara.io](https://clara.io) - Cloud-based 3D modeling, animation and rendering.
-- [gcode.ws](http://gcode.ws) - Gcode analyzer.
-- [GetAnywhere](https://www.getanywhere.io) - Remotely monitor your OctoPrint.
-- [Lagoa](http://home.lagoa.com) - Create kinematic assemblies, renders and photoreal interactive 3D experiences in the browser.
-- [Meshify](http://meshify.dk) - Convert a 3D model into a 3D printable mesh-like lattice structure.
-- [WeDesign](http://wedesign.live) - Collaborative platform for 3D design.
-- [Vectary](http://vectary.com) - Browser-based 3D modeling.
+- [BotQueue] - Control your 3D printers over the internet.
+- [Clara.io] - Cloud-based 3D modeling, animation and rendering.
+- [gcode.ws] - Gcode analyzer.
+- [GetAnywhere] - Remotely monitor your OctoPrint.
+- [Vectary] - Browser-based 3D modeling.
+- [WeDesign] - Collaborative platform for 3D design.
+
+[BotQueue]: https://github.com/Hoektronics/BotQueue
+[Clara.io]: https://clara.io
+[gcode.ws]: https://gcode.ws
+[GetAnywhere]: https://www.getanywhere.io
+[Vectary]: https://vectary.com
+[WeDesign]: https://wedesign.live
 
 
 ## On Demand 3D Printing Services
 
-- [3D Hubs](https://3dhubs.com)
-- [Shapeways](https://shapeways.com)
-- [Toybuilderlabs](http://toybuilderlabs.com)
-- [Jiga](https://jiga.io) - Manufacturing as a service with known machine shops.
+- [3D Hubs]
+- [Beamler] - Global industrial 3D printer network.
+- [Jiga] - Manufacturing as a service with known machine shops.
+- [Shapeways]
+- [Toybuilderlabs]
 
 From game assets:
 
-- [Whispering Gibbon](http://whisperinggibbon.com) - 3D printing virtual content.
-- [Fabzat](http://fabzat.com) - In app custom merchandising.
-- [Toyze](http://toyze.com) - Bring game characters to life as customized toys.
+- [Fabzat] - In app custom merchandising.
+- [Toyze] - Bring game characters to life as customized toys.
+
+
+[3D Hubs]: https://3dhubs.com
+[Beamler]: https://www.beamler.com/
+[Fabzat]: https://fabzat.com
+[Jiga]: https://jiga.io
+[Shapeways]: https://shapeways.com
+[Toybuilderlabs]: https://toybuilderlabs.com
+[Toyze]: https://toyze.com
 
 
 ## Marketplaces
 
-- [Zazzy](https://zazzy.co) - Create and sell 3D printed accessories.
-- [Microscape](http://microscape.co) - Minature scale 3D printed architectural models.
-- [iGo3D](https://igo3d.com) - 3D printing online store.
+- [Microscape] - Minature scale 3D printed architectural models.
+- [iGo3D] - 3D printing online store.
+
+[Microscape]: https://microscape.co
+[iGo3D]: https://igo3d.com
 
 
 ## On Demand 3D Printing Price Comparison
 
-- [3Dprintler](https://3dprintler.com)
-- [3yourmind](https://3yourmind.com)
+- [3yourmind]
+
+[3yourmind]: https://3yourmind.com
 
 
-## Remote Control
+## Search Engines
 
-- [The Element](http://printr.com/the_element) - Streaming device you can connect to your 3D printer via USB.
+- [3Dshap.es] - Find 3D Printable Designs Using 3D shapes.
 
-
-# Search Engines
-
-- [3Dshap.es](http://3dshap.es) - Find 3D Printable Designs Using 3D shapes.
-- [Yobi3d](https://yobi3d.com) - 3D model search engine with direct 3D printing support via [3D Hubs](https://3dhubs.com).
+[3Dshap.es]: https://3dshap.es
 
 
 ## Technologies
 
-- [NewPro3D](http://newpro3d.com) - Wettable membrane for high speed resin based 3D printing.
-- [Carbon3D](http://carbon3d.com/) - Balancing the interaction of light and oxygen for fast resin based 3D printing.
-- [iopscience.iop.org/article/10.1088](http://iopscience.iop.org/article/10.1088/0964-1726/25/2/02LT01) - 3D printed components with ultrasonically arranged microscale structure.
+- [Carbon3D] - Balancing the interaction of light and oxygen for fast resin based 3D printing.
+- [iopscience.iop.org/article/10.1088] - 3D printed components with ultrasonically arranged microscale structure.
+
+[Carbon3D]: https://carbon3d.com
+[iopscience.iop.org/article/10.1088]:
+  https://iopscience.iop.org/article/10.1088/0964-1726/25/2/02LT01
 
 
 ## Education
 
-- [Makerclub](http://makerclub.org) - Online courses for 3D printing and the internet of things.
+- [Makerclub] - Online courses for 3D printing and the internet of things.
 
-
-## Accessories
-
-- [REVOcaster](http://magicmaker.ca/#revo11) - Desktop rotational casting machine.
+[Makerclub]: https://makerclub.org
 
 
 ## Filaments
 
-- [Protopasta](https://www.proto-pasta.com) 
+- [Protopasta]
+
+[Protopasta]: https://www.proto-pasta.com

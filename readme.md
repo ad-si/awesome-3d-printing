@@ -51,6 +51,7 @@ A curated list of awesome 3D printing resources.
 - [Trideo3D] - FDM 3D printers focusing on the experience in 3 sizes.
 - [Ultimaker]
 - [Up3d]
+- [VoronDesign] - Open source 3D printer designs.
 - [Wanhao]
 
 [3D Kreator]: https://3dkreator.com
@@ -77,6 +78,7 @@ A curated list of awesome 3D printing resources.
 [Trideo3D]: https://trideo3d.com
 [Ultimaker]: https://ultimaker.com
 [Up3d]: https://up3d.com
+[VoronDesign]: https://github.com/VoronDesign
 [Wanhao]: https://www.wanhao3dprinter.com
 
 
@@ -87,6 +89,7 @@ A curated list of awesome 3D printing resources.
     and manufacturing (free for personal / non-commercial use)
 - [FreeCAD]
 - [OpenSCAD]
+- [Rhinoceros 3D] - CAD application software. (commercial)
 - [Solidworks] - 3D CAD design software (commercial)
 - [Tinkercad] - Browser based free app for 3D design, electronics, and coding.
 
@@ -94,6 +97,7 @@ A curated list of awesome 3D printing resources.
 [Autodesk Fusion 360]: https://www.autodesk.com/products/fusion-360/personal
 [FreeCAD]: https://freecadweb.org
 [OpenSCAD]: https://openscad.org
+[Rhinoceros 3D]: https://www.rhino3d.com
 [Solidworks]: https://solidworks.com
 [Tinkercad]: https://www.tinkercad.com
 
@@ -186,10 +190,12 @@ From 3D printer manufacturer:
 
 Independent:
 
+- [3D Kitbash] - Premium 3D-printable 3D models of toys.
 - [3D Via]
 - [Astroprint]
 - [CGtrader]
 - [Cults] - Find, share and sell 3D print files.
+- [Free3D] - Free and premium 3D models.
 - [GrabCAD]
 - [MyMiniFactory]
 - [Pinshape] - Find, share and sell 3D print files.
@@ -206,10 +212,12 @@ Self-Hostable:
 - [Manyfold]
 
 
+[3D Kitbash]: https://3dkitbash.com
 [3D Via]: https://www.3ds.com/products/3dvia
 [Astroprint]: https://www.astroprint.com/
 [CGtrader]: https://www.cgtrader.com/
 [Cults]: https://cults3d.com
+[Free3D]: https://free3d.com
 [GrabCAD]: https://grabcad.com
 [Manyfold]: https://github.com/manyfold3d/manyfold
 [MyMiniFactory]: https://www.myminifactory.com/
@@ -248,8 +256,12 @@ Self-Hostable:
 - [3D Hubs]
 - [Beamler] - Global industrial 3D printer network.
 - [Jiga] - Manufacturing as a service with known machine shops.
+- [Murtfeldt Additive Solutions] - Industrical 3D printing service.
+- [Rapidobject] - 3D printing solution provider.
+- [Scultpeo] - Online 3D printing service.
 - [Shapeways]
 - [Toybuilderlabs]
+- [Vikings] - 3D printing and fulfillment on demand.
 
 From game assets:
 
@@ -261,9 +273,13 @@ From game assets:
 [Beamler]: https://www.beamler.com/
 [Fabzat]: https://fabzat.com
 [Jiga]: https://jiga.io
+[Murtfeldt Additive Solutions]: https://murtfeldt-as.de
+[Rapidobject]: https://www.rapidobject.com/en/
+[Scultpeo]: https://www.sculpteo.com/en/
 [Shapeways]: https://shapeways.com
 [Toybuilderlabs]: https://toybuilderlabs.com
 [Toyze]: https://toyze.com
+[Vikings]: https://3dvikings.com/
 
 
 ## Marketplaces

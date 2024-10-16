@@ -29,6 +29,7 @@ A curated list of awesome 3D printing resources.
 - [3D Kreator] - Manufacturer of the "Kreator Motion" universal 3D printer.
 - [3D Systems] - 3D printers, print materials, on-demand parts services
     and digital design tools.
+- [Bambu Lab]
 - [CraftUnique]
 - [Cubify]
 - [Dremel] - 3D printers and laser cutters.
@@ -57,6 +58,7 @@ A curated list of awesome 3D printing resources.
 [3D Kreator]: https://3dkreator.com
 [3D Systems]: https://www.3dsystems.com
 [CraftUnique]: https://craftunique.com
+[Bambu Lab]: https://bambulab.com
 [Cubify]: https://cubify.com
 [Dremel]: https://digilab.dremel.com
 [Flashforge]: https://www.flashforge.com

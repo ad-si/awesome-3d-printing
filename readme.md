@@ -265,22 +265,17 @@ Self-Hostable:
 - [Toybuilderlabs]
 - [Vikings] - 3D printing and fulfillment on demand.
 
-From game assets:
 
-- [Fabzat] - In app custom merchandising.
-- [Toyze] - Bring game characters to life as customized toys.
 
 
 [3D Hubs]: https://3dhubs.com
 [Beamler]: https://www.beamler.com/
-[Fabzat]: https://fabzat.com
 [Jiga]: https://jiga.io
 [Murtfeldt Additive Solutions]: https://murtfeldt-as.de
 [Rapidobject]: https://www.rapidobject.com/en/
 [Scultpeo]: https://www.sculpteo.com/en/
 [Shapeways]: https://shapeways.com
 [Toybuilderlabs]: https://toybuilderlabs.com
-[Toyze]: https://toyze.com
 [Vikings]: https://3dvikings.com/
 
 

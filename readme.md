@@ -19,7 +19,6 @@ A curated list of awesome 3D printing resources.
 - [On Demand 3D Printing Price Comparison](#on-demand-3d-printing-price-comparison)
 - [Search Engines](#search-engines)
 - [Technologies](#technologies)
-- [Education](#education)
 - [Filaments](#filaments)
 
 <!-- tocstop -->

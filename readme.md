@@ -244,7 +244,6 @@ Self-Hostable:
 - [gcode.ws] - Gcode analyzer.
 - [GetAnywhere] - Remotely monitor your OctoPrint.
 - [Vectary] - Browser-based 3D modeling.
-- [WeDesign] - Collaborative platform for 3D design.
 
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 [Clara.io]: https://clara.io

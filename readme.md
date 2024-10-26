@@ -189,6 +189,7 @@ From 3D printer manufacturer:
 
 - [Thingiverse] - (from Ultimaker)
 - [Printables] - (from Prusa Research)
+- [Makerworld] - (from Bambu Labs)
 
 Independent:
 
@@ -234,6 +235,7 @@ Self-Hostable:
 [Thingiverse]: https://thingiverse.com
 [Turbosquid]: https://www.turbosquid.com
 [YouMagine]: https://youmagine.com
+[Makerworld]: https://makerworld.com
 
 
 ## Online Tools
@@ -250,7 +252,6 @@ Self-Hostable:
 [gcode.ws]: https://gcode.ws
 [GetAnywhere]: https://www.getanywhere.io
 [Vectary]: https://vectary.com
-[WeDesign]: https://wedesign.live
 
 
 ## On Demand 3D Printing Services
@@ -310,13 +311,6 @@ Self-Hostable:
 [Carbon3D]: https://carbon3d.com
 [iopscience.iop.org/article/10.1088]:
   https://iopscience.iop.org/article/10.1088/0964-1726/25/2/02LT01
-
-
-## Education
-
-- [Makerclub] - Online courses for 3D printing and the internet of things.
-
-[Makerclub]: https://makerclub.org
 
 
 ## Filaments

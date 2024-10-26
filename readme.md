@@ -25,62 +25,58 @@ A curated list of awesome 3D printing resources.
 
 ## 3D Printer Brands
 
-- [3D Kreator] - Manufacturer of the "Kreator Motion" universal 3D printer.
 - [3D Systems] - 3D printers, print materials, on-demand parts services
     and digital design tools.
 - [Bambu Lab]
-- [CraftUnique]
-- [Cubify]
+- [Craftbot]
 - [Dremel] - 3D printers and laser cutters.
 - [Flashforge]
 - [Formlabs]
-- [German RepRap]
+- [innovatiQ]
 - [Kentstrapper]
 - [Lulzbot] - Open hardware 3D printers and accessories.
 - [Lumi Industries]
 - [MakerBot]
 - [Makergear]
 - [Monoprice] - Monoprice branded Wanhao printers.
-- [Printrbot]
+- [Nexum3D] - Delta 3D printers in 3 sizes.
 - [Prusa Research] - 3D printers from Josef Prusa.
+- [QIDI]
 - [RepRap] - Free desktop 3D printer.
 - [Robo3d] - Robo R1, R2 and C2 3D printers.
 - [Sharebot] - Innovative, easy to use 3D printers for professional results.
 - [Sindoh] - Enclosed xyz 3D printer "3DWOX".
-- [Tractus3D] - Delta 3D printers in 3 sizes.
+- [Tiertime]
 - [Trideo3D] - FDM 3D printers focusing on the experience in 3 sizes.
 - [Ultimaker]
-- [Up3d]
 - [VoronDesign] - Open source 3D printer designs.
 - [Wanhao]
 
-[3D Kreator]: https://3dkreator.com
 [3D Systems]: https://www.3dsystems.com
-[CraftUnique]: https://craftunique.com
+[Craftbot]: https://craftbot.com
 [Bambu Lab]: https://bambulab.com
-[Cubify]: https://cubify.com
 [Dremel]: https://digilab.dremel.com
 [Flashforge]: https://www.flashforge.com
 [Formlabs]: https://formlabs.com
-[German RepRap]: https://germanreprap.com
+[innovatiQ]: https://www.innovatiq.com/
 [Kentstrapper]: https://kentstrapper.com/en
 [Lulzbot]: https://www.lulzbot.com
 [Lumi Industries]: https://lumindustries.com
 [MakerBot]: https://makerbot.com
 [Makergear]: https://www.makergear.com
 [Monoprice]: https://www.monoprice.com/pages/3d_printers
-[Printrbot]: https://printrbot.com
 [Prusa Research]: https://www.prusa3d.com
+[QIDI]: https://qidi3d.com
 [RepRap]: https://reprap.org
 [Robo3d]: https://robo3d.com
-[Sharebot]: https://sharebot.it
+[Sharebot]: https://www.sharebot.it/en/
 [Sindoh]: https://3dprinter.sindoh.com
-[Tractus3D]: https://tractus3d.com
+[Nexum3D]: https://nexum3d.com
 [Trideo3D]: https://trideo3d.com
 [Ultimaker]: https://ultimaker.com
-[Up3d]: https://up3d.com
+[Tiertime]: https://tiertime.com
 [VoronDesign]: https://github.com/VoronDesign
-[Wanhao]: https://www.wanhao3dprinter.com
+[Wanhao]: https://wanhao.store
 
 
 ## CAD Tools

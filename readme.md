@@ -19,67 +19,64 @@ A curated list of awesome 3D printing resources.
 - [On Demand 3D Printing Price Comparison](#on-demand-3d-printing-price-comparison)
 - [Search Engines](#search-engines)
 - [Technologies](#technologies)
-- [Education](#education)
 - [Filaments](#filaments)
 
 <!-- tocstop -->
 
 ## 3D Printer Brands
 
-- [3D Kreator] - Manufacturer of the "Kreator Motion" universal 3D printer.
 - [3D Systems] - 3D printers, print materials, on-demand parts services
     and digital design tools.
-- [CraftUnique]
-- [Cubify]
+- [Bambu Lab]
+- [Craftbot]
 - [Dremel] - 3D printers and laser cutters.
 - [Flashforge]
 - [Formlabs]
-- [German RepRap]
+- [innovatiQ]
 - [Kentstrapper]
 - [Lulzbot] - Open hardware 3D printers and accessories.
 - [Lumi Industries]
 - [MakerBot]
 - [Makergear]
 - [Monoprice] - Monoprice branded Wanhao printers.
-- [Printrbot]
+- [Nexum3D] - Delta 3D printers in 3 sizes.
 - [Prusa Research] - 3D printers from Josef Prusa.
+- [QIDI]
 - [RepRap] - Free desktop 3D printer.
 - [Robo3d] - Robo R1, R2 and C2 3D printers.
 - [Sharebot] - Innovative, easy to use 3D printers for professional results.
 - [Sindoh] - Enclosed xyz 3D printer "3DWOX".
-- [Tractus3D] - Delta 3D printers in 3 sizes.
+- [Tiertime]
 - [Trideo3D] - FDM 3D printers focusing on the experience in 3 sizes.
 - [Ultimaker]
-- [Up3d]
 - [VoronDesign] - Open source 3D printer designs.
 - [Wanhao]
 
-[3D Kreator]: https://3dkreator.com
 [3D Systems]: https://www.3dsystems.com
-[CraftUnique]: https://craftunique.com
-[Cubify]: https://cubify.com
+[Craftbot]: https://craftbot.com
+[Bambu Lab]: https://bambulab.com
 [Dremel]: https://digilab.dremel.com
 [Flashforge]: https://www.flashforge.com
 [Formlabs]: https://formlabs.com
-[German RepRap]: https://germanreprap.com
+[innovatiQ]: https://www.innovatiq.com/
 [Kentstrapper]: https://kentstrapper.com/en
 [Lulzbot]: https://www.lulzbot.com
 [Lumi Industries]: https://lumindustries.com
 [MakerBot]: https://makerbot.com
 [Makergear]: https://www.makergear.com
 [Monoprice]: https://www.monoprice.com/pages/3d_printers
-[Printrbot]: https://printrbot.com
 [Prusa Research]: https://www.prusa3d.com
+[QIDI]: https://qidi3d.com
 [RepRap]: https://reprap.org
 [Robo3d]: https://robo3d.com
-[Sharebot]: https://sharebot.it
+[Sharebot]: https://www.sharebot.it/en/
 [Sindoh]: https://3dprinter.sindoh.com
-[Tractus3D]: https://tractus3d.com
+[Nexum3D]: https://nexum3d.com
 [Trideo3D]: https://trideo3d.com
 [Ultimaker]: https://ultimaker.com
-[Up3d]: https://up3d.com
+[Tiertime]: https://tiertime.com
 [VoronDesign]: https://github.com/VoronDesign
-[Wanhao]: https://www.wanhao3dprinter.com
+[Wanhao]: https://wanhao.store
 
 
 ## CAD Tools
@@ -189,6 +186,7 @@ From 3D printer manufacturer:
 
 - [Thingiverse] - (from Ultimaker)
 - [Printables] - (from Prusa Research)
+- [Makerworld] - (from Bambu Labs)
 
 Independent:
 
@@ -234,6 +232,7 @@ Self-Hostable:
 [Thingiverse]: https://thingiverse.com
 [Turbosquid]: https://www.turbosquid.com
 [YouMagine]: https://youmagine.com
+[Makerworld]: https://makerworld.com
 
 
 ## Online Tools
@@ -243,14 +242,12 @@ Self-Hostable:
 - [gcode.ws] - Gcode analyzer.
 - [GetAnywhere] - Remotely monitor your OctoPrint.
 - [Vectary] - Browser-based 3D modeling.
-- [WeDesign] - Collaborative platform for 3D design.
 
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 [Clara.io]: https://clara.io
 [gcode.ws]: https://gcode.ws
 [GetAnywhere]: https://www.getanywhere.io
 [Vectary]: https://vectary.com
-[WeDesign]: https://wedesign.live
 
 
 ## On Demand 3D Printing Services
@@ -265,22 +262,17 @@ Self-Hostable:
 - [Toybuilderlabs]
 - [Vikings] - 3D printing and fulfillment on demand.
 
-From game assets:
 
-- [Fabzat] - In app custom merchandising.
-- [Toyze] - Bring game characters to life as customized toys.
 
 
 [3D Hubs]: https://3dhubs.com
 [Beamler]: https://www.beamler.com/
-[Fabzat]: https://fabzat.com
 [Jiga]: https://jiga.io
 [Murtfeldt Additive Solutions]: https://murtfeldt-as.de
 [Rapidobject]: https://www.rapidobject.com/en/
 [Scultpeo]: https://www.sculpteo.com/en/
 [Shapeways]: https://shapeways.com
 [Toybuilderlabs]: https://toybuilderlabs.com
-[Toyze]: https://toyze.com
 [Vikings]: https://3dvikings.com/
 
 
@@ -315,13 +307,6 @@ From game assets:
 [Carbon3D]: https://carbon3d.com
 [iopscience.iop.org/article/10.1088]:
   https://iopscience.iop.org/article/10.1088/0964-1726/25/2/02LT01
-
-
-## Education
-
-- [Makerclub] - Online courses for 3D printing and the internet of things.
-
-[Makerclub]: https://makerclub.org
 
 
 ## Filaments

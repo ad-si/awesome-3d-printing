@@ -84,6 +84,7 @@ A curated list of awesome 3D printing resources.
 - [AutoCAD] - 2D and 3D CAD design software (commercial)
 - [Autodesk Fusion 360] - 3D CAD, CAM, and CAE tool for product design
     and manufacturing (free for personal / non-commercial use)
+- [Blender] - 3D modeling and sculpting app. (open source)
 - [FreeCAD]
 - [OpenSCAD]
 - [Rhinoceros 3D] - CAD application software. (commercial)
@@ -93,6 +94,7 @@ A curated list of awesome 3D printing resources.
 
 [AutoCAD]: https://autodesk.com/products/autocad/overview
 [Autodesk Fusion 360]: https://www.autodesk.com/products/fusion-360/personal
+[Blender]: https://www.blender.org/
 [FreeCAD]: https://freecadweb.org
 [OpenSCAD]: https://openscad.org
 [Rhinoceros 3D]: https://www.rhino3d.com
@@ -152,18 +154,24 @@ Name | License | Encoding | Features
 
 Convert 3D models into G-Code.
 
+- [BambuStudio] - Slicer specific to Bambu Printers.
 - [CraftWare] - Free slicer for 3D printers.
 - [Cura] - Open source 3D printer / slicing GUI by Ultimaker.
 - [Kiri:Moto] - Web based slicer for 3D printers, CNC mills, and Laser cutters.
 - [KISSlicer] - Cross-platform slicer for STL files.
 - [MatterControl] - 3D printing software.
+- [OrcaSlicer] - Slicer forked from [PrusaSlicer] and [BambuStudio].
+- [PrusaSlicer] - Slicer specific to Prusa Printers.
 - [Slic3r] - Open source 3D printing toolbox.
 
+[BambuStudio]: https://bambulab.com/en/download/studio
 [CraftWare]: https://craftbot.com/craftware
 [Cura]: https://ultimaker.com/software/ultimaker-cura/
 [Kiri:Moto]: https://grid.space/kiri/
 [KISSlicer]: https://kisslicer.com
 [MatterControl]: https://github.com/MatterHackers/MatterControl
+[OrcaSlicer]: https://github.com/SoftFever/OrcaSlicer
+[PrusaSlicer]: https://www.prusa3d.com/page/prusaslicer_424/
 [Slic3r]: https://slic3r.org
 
 
@@ -186,7 +194,7 @@ From 3D printer manufacturer:
 
 - [Thingiverse] - (from Ultimaker)
 - [Printables] - (from Prusa Research)
-- [Makerworld] - (from Bambu Labs)
+- [Makerworld] - (from Bambu Lab)
 
 Independent:
 
@@ -197,7 +205,7 @@ Independent:
 - [Cults] - Find, share and sell 3D print files.
 - [Free3D] - Free and premium 3D models.
 - [GrabCAD]
-- [MyMiniFactory]
+- [MyMiniFactory] - 3D print files for tabletop gaming, toys, gadgets.
 - [Pinshape] - Find, share and sell 3D print files.
 - [Redpah]
 - [Repables]
@@ -219,6 +227,7 @@ Self-Hostable:
 [Cults]: https://cults3d.com
 [Free3D]: https://free3d.com
 [GrabCAD]: https://grabcad.com
+[Makerworld]: https://makerworld.com/en
 [Manyfold]: https://github.com/manyfold3d/manyfold
 [MyMiniFactory]: https://www.myminifactory.com/
 [Pinshape]: https://pinshape.com
@@ -232,7 +241,6 @@ Self-Hostable:
 [Thingiverse]: https://thingiverse.com
 [Turbosquid]: https://www.turbosquid.com
 [YouMagine]: https://youmagine.com
-[Makerworld]: https://makerworld.com
 
 
 ## Online Tools
@@ -261,9 +269,6 @@ Self-Hostable:
 - [Shapeways]
 - [Toybuilderlabs]
 - [Vikings] - 3D printing and fulfillment on demand.
-
-
-
 
 [3D Hubs]: https://3dhubs.com
 [Beamler]: https://www.beamler.com/
@@ -311,6 +316,14 @@ Self-Hostable:
 
 ## Filaments
 
+- [Creality]
+- [Elegoo]
+- [eSun]
+- [Inland] - Micro Center Specific Filament
 - [Protopasta]
 
+[Creality]: https://www.creality.com/products/creality-filament-resin
+[Elegoo]: https://us.elegoo.com/collections/filaments
+[eSun]: https://www.esun3d.com/filaments/
+[Inland]: https://www.microcenter.com/category/4294866996/filaments-and-resins
 [Protopasta]: https://www.proto-pasta.com

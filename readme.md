@@ -103,7 +103,6 @@ A curated list of awesome 3D printing resources.
 [Tinkercad]: https://www.tinkercad.com
 
 
-
 ## Control Software
 
 - [Makerbot Desktop] - Discover, manage and share your 3D prints.

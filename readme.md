@@ -87,6 +87,7 @@ A curated list of awesome 3D printing resources.
 - [AutoCAD] - 2D and 3D CAD design software (commercial)
 - [Autodesk Fusion 360] - 3D CAD, CAM, and CAE tool for product design
     and manufacturing (free for personal / non-commercial use)
+- [Blender] - Free Animation Software with Sculpting and Modeling capabilities
 - [FreeCAD]
 - [OpenSCAD]
 - [Rhinoceros 3D] - CAD application software. (commercial)
@@ -100,6 +101,8 @@ A curated list of awesome 3D printing resources.
 [Rhinoceros 3D]: https://www.rhino3d.com
 [Solidworks]: https://solidworks.com
 [Tinkercad]: https://www.tinkercad.com
+[Blender]: https://www.blender.org/ 
+
 
 
 ## Control Software
@@ -117,20 +120,20 @@ A curated list of awesome 3D printing resources.
 
 ## File Formats
 
-Name | License | Encoding | Features
------|---------|----------|---------
-[3MF] | Open | Compressed XML | geometry, material, metadata, signature, texture, thumbnail
-[ACIS] | | text or binary |
-[AMF] | Open | Zipped XML | color, constellations, curved triangles, formulas, geometry, material, metadata
-[CKD] | Proprietary | |
-[DWG] (Drawing) | Proprietary | OpenXPS |
-[DXF] (Drawing Exchange Format) | Proprietary | text/binary |
-[DWF] (Design Web Format) | | OpenXPS | Communicate design information
-[IGES] (Initial Graphics Exchange Specification) | Vendor-neutral | text | |
-[OBJ] (Object) | Open | text | geometry
-[PLY] (Polygon File Format) | Open | text or binary | color, geometry, normals, texture, transparency
-[STL] | Proprietary | text or binary | geometry, normals
-[STEP] | ISO | | |
+| Name                                             | License        | Encoding       | Features                                                                        |
+| ------------------------------------------------ | -------------- | -------------- | ------------------------------------------------------------------------------- |
+| [3MF]                                            | Open           | Compressed XML | geometry, material, metadata, signature, texture, thumbnail                     |
+| [ACIS]                                           |                | text or binary |                                                                                 |
+| [AMF]                                            | Open           | Zipped XML     | color, constellations, curved triangles, formulas, geometry, material, metadata |
+| [CKD]                                            | Proprietary    |                |                                                                                 |
+| [DWG] (Drawing)                                  | Proprietary    | OpenXPS        |                                                                                 |
+| [DXF] (Drawing Exchange Format)                  | Proprietary    | text/binary    | 2D geometry                                                                     |
+| [DWF] (Design Web Format)                        |                | OpenXPS        | Communicate design information                                                  |
+| [IGES] (Initial Graphics Exchange Specification) | Vendor-neutral | text           |                                                                                 |
+| [OBJ] (Object)                                   | Open           | text           | geometry                                                                        |
+| [PLY] (Polygon File Format)                      | Open           | text or binary | color, geometry, normals, texture, transparency                                 |
+| [STL]                                            | Proprietary    | text or binary | geometry, normals                                                               |
+| [STEP]                                           | ISO            |                |                                                                                 |
 
 [3MF]: https://en.wikipedia.org/wiki/3D_Manufacturing_Format
 [ACIS]: https://en.wikipedia.org/wiki/ACIS#File_format
@@ -153,18 +156,24 @@ Name | License | Encoding | Features
 
 Convert 3D models into G-Code.
 
+- [BambuStudio] - Free slicer specific to Bambu Printers; Bambu Printer device monitoring and filament profiles.
 - [CraftWare] - Free slicer for 3D printers.
 - [Cura] - Open source 3D printer / slicing GUI by Ultimaker.
 - [Kiri:Moto] - Web based slicer for 3D printers, CNC mills, and Laser cutters.
 - [KISSlicer] - Cross-platform slicer for STL files.
 - [MatterControl] - 3D printing software.
+- [OrcaSlicer] - Global compatibility free slicer based on features of [PrusaSlicer] and [BambuStudio]
+- [PrusaSlicer] - Free slicer specific to Prusa Printers; Prusa Printer device monitoring and filament profiles.
 - [Slic3r] - Open source 3D printing toolbox.
 
+[BambuStudio]: https://bambulab.com/en/download/studio
 [CraftWare]: https://craftbot.com/craftware
 [Cura]: https://ultimaker.com/software/ultimaker-cura/
 [Kiri:Moto]: https://grid.space/kiri/
 [KISSlicer]: https://kisslicer.com
 [MatterControl]: https://github.com/MatterHackers/MatterControl
+[OrcaSlicer]: https://github.com/SoftFever/OrcaSlicer
+[PrusaSlicer]: https://www.prusa3d.com/page/prusaslicer_424/
 [Slic3r]: https://slic3r.org
 
 
@@ -187,6 +196,7 @@ From 3D printer manufacturer:
 
 - [Thingiverse] - (from Ultimaker)
 - [Printables] - (from Prusa Research)
+- [Makerworld] - (from BambuLab)
 
 Independent:
 
@@ -197,7 +207,7 @@ Independent:
 - [Cults] - Find, share and sell 3D print files.
 - [Free3D] - Free and premium 3D models.
 - [GrabCAD]
-- [MyMiniFactory]
+- [MyMiniFactory] - 3D print files for tabletop gaming, toys, gadgets
 - [Pinshape] - Find, share and sell 3D print files.
 - [Redpah]
 - [Repables]
@@ -220,6 +230,7 @@ Self-Hostable:
 [Free3D]: https://free3d.com
 [GrabCAD]: https://grabcad.com
 [Manyfold]: https://github.com/manyfold3d/manyfold
+[Makerworld]: https://makerworld.com/en
 [MyMiniFactory]: https://www.myminifactory.com/
 [Pinshape]: https://pinshape.com
 [Printables]: https://www.printables.com
@@ -324,6 +335,14 @@ From game assets:
 
 ## Filaments
 
+- [Creality]
+- [Elegoo]
+- [eSun]
+- [Inland] - Micro Center Specific Filament
 - [Protopasta]
 
+[Creality]: https://www.amazon.com/Creality-PLA/s?k=Creality+PLA
+[Elegoo]: https://us.elegoo.com/collections/filaments
+[eSun]: https://www.esun3d.com/filaments/
+[Inland]: https://www.microcenter.com/category/4294866996/filaments-and-resins
 [Protopasta]: https://www.proto-pasta.com

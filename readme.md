@@ -91,6 +91,7 @@ A curated list of awesome 3D printing resources.
 - [OpenSCAD]
 - [Rhinoceros 3D] - CAD application software. (commercial)
 - [Solidworks] - 3D CAD design software (commercial)
+- [SolveSpace] - Minimalist CAD software. (open source)
 - [Tinkercad] - Browser based free app for 3D design, electronics, and coding.
 
 [AutoCAD]: https://autodesk.com/products/autocad/overview
@@ -99,6 +100,7 @@ A curated list of awesome 3D printing resources.
 [OpenSCAD]: https://openscad.org
 [Rhinoceros 3D]: https://www.rhino3d.com
 [Solidworks]: https://solidworks.com
+[SolveSpace]: https://solvespace.com
 [Tinkercad]: https://www.tinkercad.com
 
 

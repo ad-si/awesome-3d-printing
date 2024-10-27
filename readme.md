@@ -84,7 +84,7 @@ A curated list of awesome 3D printing resources.
 - [AutoCAD] - 2D and 3D CAD design software (commercial)
 - [Autodesk Fusion 360] - 3D CAD, CAM, and CAE tool for product design
     and manufacturing (free for personal / non-commercial use)
-- [Blender] - Free Animation Software with Sculpting and Modeling capabilities
+- [Blender] - 3D modeling and sculpting app. (open source)
 - [FreeCAD]
 - [OpenSCAD]
 - [Rhinoceros 3D] - CAD application software. (commercial)
@@ -94,13 +94,13 @@ A curated list of awesome 3D printing resources.
 
 [AutoCAD]: https://autodesk.com/products/autocad/overview
 [Autodesk Fusion 360]: https://www.autodesk.com/products/fusion-360/personal
+[Blender]: https://www.blender.org/
 [FreeCAD]: https://freecadweb.org
 [OpenSCAD]: https://openscad.org
 [Rhinoceros 3D]: https://www.rhino3d.com
 [Solidworks]: https://solidworks.com
 [SolveSpace]: https://solvespace.com
 [Tinkercad]: https://www.tinkercad.com
-[Blender]: https://www.blender.org/ 
 
 
 
@@ -119,20 +119,20 @@ A curated list of awesome 3D printing resources.
 
 ## File Formats
 
-| Name                                             | License        | Encoding       | Features                                                                        |
-| ------------------------------------------------ | -------------- | -------------- | ------------------------------------------------------------------------------- |
-| [3MF]                                            | Open           | Compressed XML | geometry, material, metadata, signature, texture, thumbnail                     |
-| [ACIS]                                           |                | text or binary |                                                                                 |
-| [AMF]                                            | Open           | Zipped XML     | color, constellations, curved triangles, formulas, geometry, material, metadata |
-| [CKD]                                            | Proprietary    |                |                                                                                 |
-| [DWG] (Drawing)                                  | Proprietary    | OpenXPS        |                                                                                 |
-| [DXF] (Drawing Exchange Format)                  | Proprietary    | text/binary    | 2D geometry                                                                     |
-| [DWF] (Design Web Format)                        |                | OpenXPS        | Communicate design information                                                  |
-| [IGES] (Initial Graphics Exchange Specification) | Vendor-neutral | text           |                                                                                 |
-| [OBJ] (Object)                                   | Open           | text           | geometry                                                                        |
-| [PLY] (Polygon File Format)                      | Open           | text or binary | color, geometry, normals, texture, transparency                                 |
-| [STL]                                            | Proprietary    | text or binary | geometry, normals                                                               |
-| [STEP]                                           | ISO            |                |                                                                                 |
+Name | License | Encoding | Features
+-----|---------|----------|---------
+[3MF] | Open | Compressed XML | geometry, material, metadata, signature, texture, thumbnail
+[ACIS] | | text or binary |
+[AMF] | Open | Zipped XML | color, constellations, curved triangles, formulas, geometry, material, metadata
+[CKD] | Proprietary | |
+[DWG] (Drawing) | Proprietary | OpenXPS |
+[DXF] (Drawing Exchange Format) | Proprietary | text/binary |
+[DWF] (Design Web Format) | | OpenXPS | Communicate design information
+[IGES] (Initial Graphics Exchange Specification) | Vendor-neutral | text | |
+[OBJ] (Object) | Open | text | geometry
+[PLY] (Polygon File Format) | Open | text or binary | color, geometry, normals, texture, transparency
+[STL] | Proprietary | text or binary | geometry, normals
+[STEP] | ISO | | |
 
 [3MF]: https://en.wikipedia.org/wiki/3D_Manufacturing_Format
 [ACIS]: https://en.wikipedia.org/wiki/ACIS#File_format
@@ -155,14 +155,14 @@ A curated list of awesome 3D printing resources.
 
 Convert 3D models into G-Code.
 
-- [BambuStudio] - Free slicer specific to Bambu Printers; Bambu Printer device monitoring and filament profiles.
+- [BambuStudio] - Slicer specific to Bambu Printers.
 - [CraftWare] - Free slicer for 3D printers.
 - [Cura] - Open source 3D printer / slicing GUI by Ultimaker.
 - [Kiri:Moto] - Web based slicer for 3D printers, CNC mills, and Laser cutters.
 - [KISSlicer] - Cross-platform slicer for STL files.
 - [MatterControl] - 3D printing software.
-- [OrcaSlicer] - Global compatibility free slicer based on features of [PrusaSlicer] and [BambuStudio]
-- [PrusaSlicer] - Free slicer specific to Prusa Printers; Prusa Printer device monitoring and filament profiles.
+- [OrcaSlicer] - Slicer forked from [PrusaSlicer] and [BambuStudio].
+- [PrusaSlicer] - Slicer specific to Prusa Printers.
 - [Slic3r] - Open source 3D printing toolbox.
 
 [BambuStudio]: https://bambulab.com/en/download/studio
@@ -206,7 +206,7 @@ Independent:
 - [Cults] - Find, share and sell 3D print files.
 - [Free3D] - Free and premium 3D models.
 - [GrabCAD]
-- [MyMiniFactory] - 3D print files for tabletop gaming, toys, gadgets
+- [MyMiniFactory] - 3D print files for tabletop gaming, toys, gadgets.
 - [Pinshape] - Find, share and sell 3D print files.
 - [Redpah]
 - [Repables]
@@ -271,7 +271,6 @@ Self-Hostable:
 - [Toybuilderlabs]
 - [Vikings] - 3D printing and fulfillment on demand.
 
-
 [3D Hubs]: https://3dhubs.com
 [Beamler]: https://www.beamler.com/
 [Jiga]: https://jiga.io
@@ -324,7 +323,7 @@ Self-Hostable:
 - [Inland] - Micro Center Specific Filament
 - [Protopasta]
 
-[Creality]: https://www.amazon.com/Creality-PLA/s?k=Creality+PLA
+[Creality]: https://www.creality.com/products/creality-filament-resin
 [Elegoo]: https://us.elegoo.com/collections/filaments
 [eSun]: https://www.esun3d.com/filaments/
 [Inland]: https://www.microcenter.com/category/4294866996/filaments-and-resins

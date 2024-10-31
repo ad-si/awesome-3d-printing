@@ -297,13 +297,6 @@ Self-Hostable:
 [3yourmind]: https://3yourmind.com
 
 
-## Search Engines
-
-- [3Dshap.es] - Find 3D Printable Designs Using 3D shapes.
-
-[3Dshap.es]: https://3dshap.es
-
-
 ## Technologies
 
 - [Carbon3D] - Balancing the interaction of light and oxygen for fast resin based 3D printing.

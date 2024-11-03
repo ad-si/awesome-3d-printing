@@ -41,7 +41,7 @@ A curated list of awesome 3D printing resources.
 - [Monoprice] - Monoprice branded Wanhao printers.
 - [Nexum3D] - Delta 3D printers in 3 sizes.
 - [Prusa Research] - 3D printers from Josef Prusa.
-- [QIDI]
+- [QIDI] - Affordable, fast, large scale printers.
 - [RepRap] - Free desktop 3D printer.
 - [Robo3d] - Robo R1, R2 and C2 3D printers.
 - [Sharebot] - Innovative, easy to use 3D printers for professional results.
@@ -269,6 +269,7 @@ Self-Hostable:
 - [Shapeways]
 - [Toybuilderlabs]
 - [Vikings] - 3D printing and fulfillment on demand.
+- [DIVO3D] - Washington State 3D printing, 3D design and 3D Scanning with local pickup and national shipping.
 
 [3D Hubs]: https://3dhubs.com
 [Beamler]: https://www.beamler.com/
@@ -279,6 +280,7 @@ Self-Hostable:
 [Shapeways]: https://shapeways.com
 [Toybuilderlabs]: https://toybuilderlabs.com
 [Vikings]: https://3dvikings.com/
+[DIVO3D]: https://divo3d.com
 
 
 ## Marketplaces

@@ -9,6 +9,7 @@ A curated list of awesome 3D printing resources.
 - [3D Printer Brands](#3d-printer-brands)
 - [CAD Tools](#cad-tools)
 - [Control Software](#control-software)
+- [3D Printer Firmware](#3d-printer-firmware)
 - [File Formats](#file-formats)
 - [Slicers](#slicers)
 - [Scanner](#scanner)
@@ -114,6 +115,68 @@ A curated list of awesome 3D printing resources.
 [OctoPrint]: https://octoprint.org
 [PrintRun]: https://github.com/kliment/Printrun
 [Repetier]: https://repetier.com
+
+
+## 3D Printer Firmware
+
+- [Marlin] - Marlin is an one of the most widely used firmware. (open source)
+- [Klipper] - Offloads processing to a host for faster, more precise printing with advanced features. (open source)
+- [RepRap Firmware] - Highly customizable firmware with strong network capabilities and web-based control. (open source)
+- [Smoothieware] - CNC controller written in Object-Oriented C++. (open source)
+- [Sprinter] - Firmware for RepRap printers and similar devices. (open source)
+- [Teacup_Firmware] - Firmware for RepRap and other 3D printers. (open source)
+- [Repetier-Firmware] - Supports multiple extruders, network connectivity, and a web interface. (open source)
+- [Prusa Firmware] - Custom firmware for Prusa printers, based on Marlin. (open source)
+- [UnifiedFirmware] -  Both 8 bit and 32 bit based machines/boards. (open source)
+- [AnetA8] -  Marlin 3D Printer Firmware for AnetA8. (open source)
+- [Sailfish] -  Sailfish, faster than a Marlin. (open source)
+- [Grbl] -  CNC milling controller written in optimized C that will run on a straight Arduino. (open source)
+- [G3Firmware] -   The firmware for generation 3 and later RepRap electronics. (open source)
+- [SMI-Taz-Firmware] -   Marlin firmware for the Lulzbot Taz 3 with the E3Dv6 head. (open source)
+- [CR-30 Firmware] -   Creality CR-30 Belt Printer. (open source)
+
+[Marlin]: https://github.com/MarlinFirmware/Marlin
+[Klipper]: https://github.com/Klipper3d/klipper
+[RepRap Firmware]: https://github.com/Duet3D/RepRapFirmware
+[Smoothieware]: https://github.com/Smoothieware/Smoothieware
+[Sprinter]: https://github.com/kliment/Sprinter
+[Teacup_Firmware]: https://github.com/Traumflug/Teacup_Firmware
+[Repetier-Firmware]: https://github.com/repetier/Repetier-Firmware
+[Prusa Firmware]: https://github.com/prusa3d/Prusa-Firmware
+[UnifiedFirmware]: https://github.com/th3dstudio/UnifiedFirmware
+[AnetA8]: https://github.com/cyclemat/Marlin-2.0.0-for-Anet-A8-
+[Sailfish]: https://github.com/jetty840/Sailfish-MightyBoardFirmware
+[Grbl]: https://github.com/grbl/grbl
+[G3Firmware]: https://github.com/makerbot/G3Firmware
+[SMI-Taz-Firmware]: https://github.com/somakeit/SMI-Taz-Firmware
+[CR-30 Firmware]: https://github.com/NAK3DDesigns/CR-30-Firmware
+
+
+## 3D printer controllers Firmware
+
+- [TouchScreenFirmware] -  BigTreeTech's TFT touchscreen 3D printer controllers
+
+[TouchScreenFirmware]: https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware
+
+
+
+## 3D Printer Hardware
+
+- [Reprap] -   RepRap Electronics 
+- [Prusa MINI] -    Original Prusa MINI 3D printer hardware 
+- [Voron-Hardware] -    Cool Hardware designed by the Voron Design group
+- [HevORT] -     Advanced DIY 3D Printer 
+- [Babybelt] -    Babybelt Printer
+- [BabyBeltPro] -    BabyBeltPro Print at 30 or 45 degrees. Better underbed 
+- [White-Knight] -     Build you own White Knight Belt printer
+
+[Reprap]: https://github.com/reprap/electronics
+[Prusa MINI]: https://github.com/prusa3d/Original-Prusa-MINI
+[Voron-Hardware]: https://github.com/VoronDesign/Voron-Hardware
+[HevORT]: https://github.com/MirageC79/HevORT
+[Babybelt]: https://github.com/RobMink/Babybelt
+[BabyBeltPro]: https://github.com/RobMink/BabyBeltPro
+[White-Knight]: https://github.com/NAK3DDesigns/White-Knight
 
 
 ## File Formats

@@ -352,13 +352,14 @@ Self-Hostable:
 
 
 ## Filaments
-
+- [Hatchbox]
 - [Creality]
 - [Elegoo]
 - [eSun]
 - [Inland] - Micro Center Specific Filament
 - [Protopasta]
 
+[Hatchbox]: https://www.hatchbox3d.com/
 [Creality]: https://www.creality.com/products/creality-filament-resin
 [Elegoo]: https://us.elegoo.com/collections/filaments
 [eSun]: https://www.esun3d.com/filaments/

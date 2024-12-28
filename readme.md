@@ -1,4 +1,4 @@
-# Awesome 3D Printing
+# Awesome 3D Printing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome 3D printing resources.
 

@@ -352,7 +352,7 @@ Self-Hostable:
 
 
 ## Filaments
-- [Hatchbox]
+- [Hatchbox 3D] - High-accuracy affordable filament, includes PLA, PLA PRO, ABS, PETG, TPU, carbon fiber, wood, glow-in-the-dark, and color changing with multiple surface finishes.
 - [Creality]
 - [Elegoo]
 - [eSun]

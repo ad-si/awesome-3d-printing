@@ -97,7 +97,7 @@ A curated list of awesome 3D printing resources.
 - [SolveSpace] - Minimalist CAD software. (open source)
 - [Tinkercad] - Browser based free app for 3D design, electronics, and coding.
 
-[AutoCAD]: https://autodesk.com/products/autocad/overview
+[AutoCAD]: https://www.autodesk.com/products/autocad/overview
 [Autodesk Fusion 360]: https://www.autodesk.com/products/fusion-360/personal
 [Blender]: https://www.blender.org/
 [FreeCAD]: https://freecadweb.org
@@ -226,7 +226,7 @@ Convert 3D models into G-Code.
 
 [iSense 3D scanner]: https://cubify.com/products/isense
 [MakerBot Digitizer]: https://makerbot.com/makerware-for-digitizer
-[Matter and Form]: https://matterandform.net/scanner
+[Matter and Form]: https://matterandform.net
 [Sense]: https://cubify.com/products/sense
 
 

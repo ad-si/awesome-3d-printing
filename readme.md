@@ -309,7 +309,6 @@ Self-Hostable:
 - [Rapidobject] - 3D printing solution provider.
 - [Scultpeo] - Online 3D printing service.
 - [Shapeways]
-- [Toybuilderlabs]
 - [Vikings] - 3D printing and fulfillment on demand.
 - [DIVO3D] - Washington State 3D printing, 3D design and 3D Scanning with local pickup and national shipping.
 
@@ -320,7 +319,6 @@ Self-Hostable:
 [Rapidobject]: https://www.rapidobject.com/en/
 [Scultpeo]: https://www.sculpteo.com/en/
 [Shapeways]: https://shapeways.com
-[Toybuilderlabs]: https://toybuilderlabs.com
 [Vikings]: https://3dvikings.com/
 [DIVO3D]: https://divo3d.com
 

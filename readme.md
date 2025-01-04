@@ -26,14 +26,13 @@ A curated list of awesome 3D printing resources.
 
 ## 3D Printer Brands
 
-- [3D Systems] - 3D printers, print materials, on-demand parts services
-    and digital design tools.
+- [3D Systems] - 3D printers, print materials, on-demand parts services and digital design tools.
 - [Bambu Lab]
 - [Craftbot]
 - [Dremel] - 3D printers and laser cutters.
 - [Flashforge]
 - [Formlabs]
-- [HevORT] - Advanced DIY 3D Printer
+- [HevORT] - Advanced DIY 3D Printer.
 - [innovatiQ]
 - [Kentstrapper]
 - [Lulzbot] - Open hardware 3D printers and accessories.
@@ -55,6 +54,7 @@ A curated list of awesome 3D printing resources.
 - [VoronDesign] - Open source 3D printer designs.
 - [Wanhao]
 
+<!--lint disable definition-case-->
 [3D Systems]: https://www.3dsystems.com
 [Craftbot]: https://craftbot.com
 [Bambu Lab]: https://bambulab.com
@@ -82,21 +82,22 @@ A curated list of awesome 3D printing resources.
 [Tiertime]: https://tiertime.com
 [VoronDesign]: https://github.com/VoronDesign
 [Wanhao]: https://wanhao.store
+<!--lint enable definition-case-->
 
 
 ## CAD Tools
 
-- [AutoCAD] - 2D and 3D CAD design software (commercial)
-- [Autodesk Fusion 360] - 3D CAD, CAM, and CAE tool for product design
-    and manufacturing (free for personal / non-commercial use)
-- [Blender] - 3D modeling and sculpting app. (open source)
+- [AutoCAD] - 2D and 3D CAD design software (commercial).
+- [Autodesk Fusion 360] - 3D CAD, CAM, and CAE tool for product design and manufacturing (free for personal / non-commercial use).
+- [Blender] - 3D modeling and sculpting app (open source).
 - [FreeCAD]
 - [OpenSCAD]
-- [Rhinoceros 3D] - CAD application software. (commercial)
-- [Solidworks] - 3D CAD design software (commercial)
-- [SolveSpace] - Minimalist CAD software. (open source)
+- [Rhinoceros 3D] - CAD application software (commercial).
+- [Solidworks] - 3D CAD design software (commercial).
+- [SolveSpace] - Minimalist CAD software (open source).
 - [Tinkercad] - Browser based free app for 3D design, electronics, and coding.
 
+<!--lint disable definition-case-->
 [AutoCAD]: https://autodesk.com/products/autocad/overview
 [Autodesk Fusion 360]: https://www.autodesk.com/products/fusion-360/personal
 [Blender]: https://www.blender.org/
@@ -106,6 +107,7 @@ A curated list of awesome 3D printing resources.
 [Solidworks]: https://solidworks.com
 [SolveSpace]: https://solvespace.com
 [Tinkercad]: https://www.tinkercad.com
+<!--lint enable definition-case-->
 
 
 ## Control Software
@@ -115,10 +117,12 @@ A curated list of awesome 3D printing resources.
 - [PrintRun] - Pure Python 3d printing host software.
 - [Repetier] - Place, slice, preview and print.
 
+<!--lint disable definition-case-->
 [Makerbot Desktop]: https://www.makerbot.com/desktop
 [OctoPrint]: https://octoprint.org
 [PrintRun]: https://github.com/kliment/Printrun
 [Repetier]: https://repetier.com
+<!--lint enable definition-case-->
 
 
 ## 3D Printer Firmware
@@ -141,6 +145,7 @@ Open source if not labeled differently.
 - [Teacup_Firmware] - Firmware for RepRap and other 3D printers.
 - [UnifiedFirmware] - Both 8 bit and 32 bit based machines/boards.
 
+<!--lint disable definition-case-->
 [AnetA8]: https://github.com/cyclemat/Marlin-2.0.0-for-Anet-A8-
 [CR-30 Firmware]: https://github.com/NAK3DDesigns/CR-30-Firmware
 [G3Firmware]: https://github.com/makerbot/G3Firmware
@@ -156,6 +161,7 @@ Open source if not labeled differently.
 [Sprinter]: https://github.com/kliment/Sprinter
 [Teacup_Firmware]: https://github.com/Traumflug/Teacup_Firmware
 [UnifiedFirmware]: https://github.com/th3dstudio/UnifiedFirmware
+<!--lint enable definition-case-->
 
 
 ## File Formats
@@ -175,6 +181,7 @@ Name | License | Encoding | Features
 [STL] | Proprietary | text or binary | geometry, normals
 [STEP] | ISO | | |
 
+<!--lint disable definition-case-->
 [3MF]: https://en.wikipedia.org/wiki/3D_Manufacturing_Format
 [ACIS]: https://en.wikipedia.org/wiki/ACIS#File_format
 [AMF]: https://en.wikipedia.org/wiki/Additive_Manufacturing_File_Format
@@ -190,6 +197,7 @@ Name | License | Encoding | Features
 [PSpice]: https://en.wikipedia.org/wiki/PSpice_circuit_file
 [STL]: https://en.wikipedia.org/wiki/STL_(file_format)
 [STEP]: https://en.wikipedia.org/wiki/ISO_10303
+<!--lint enable definition-case-->
 
 
 ## Slicers
@@ -206,6 +214,7 @@ Convert 3D models into G-Code.
 - [PrusaSlicer] - Slicer specific to Prusa Printers.
 - [Slic3r] - Open source 3D printing toolbox.
 
+<!--lint disable definition-case-->
 [BambuStudio]: https://bambulab.com/en/download/studio
 [CraftWare]: https://craftbot.com/craftware
 [Cura]: https://ultimaker.com/software/ultimaker-cura/
@@ -215,6 +224,7 @@ Convert 3D models into G-Code.
 [OrcaSlicer]: https://github.com/SoftFever/OrcaSlicer
 [PrusaSlicer]: https://www.prusa3d.com/page/prusaslicer_424/
 [Slic3r]: https://slic3r.org
+<!--lint enable definition-case-->
 
 
 ## Scanner
@@ -224,19 +234,21 @@ Convert 3D models into G-Code.
 - [Matter and Form] - Professional grade scanner.
 - [Sense] - 3D Scanner.
 
+<!--lint disable definition-case-->
 [iSense 3D scanner]: https://cubify.com/products/isense
 [MakerBot Digitizer]: https://makerbot.com/makerware-for-digitizer
 [Matter and Form]: https://matterandform.net/scanner
 [Sense]: https://cubify.com/products/sense
+<!--lint enable definition-case-->
 
 
 ## Online 3D Model Repositories
 
 From 3D printer manufacturer:
 
-- [Thingiverse] - (from Ultimaker)
-- [Printables] - (from Prusa Research)
-- [Makerworld] - (from Bambu Lab)
+- [Thingiverse] - From Ultimaker.
+- [Printables] - From Prusa Research.
+- [Makerworld] - From Bambu Lab.
 
 Independent:
 
@@ -262,6 +274,7 @@ Self-Hostable:
 - [Manyfold]
 
 
+<!--lint disable definition-case-->
 [3D Kitbash]: https://3dkitbash.com
 [3D Via]: https://www.3ds.com/products/3dvia
 [Astroprint]: https://www.astroprint.com/
@@ -283,6 +296,7 @@ Self-Hostable:
 [Thingiverse]: https://thingiverse.com
 [Turbosquid]: https://www.turbosquid.com
 [YouMagine]: https://youmagine.com
+<!--lint enable definition-case-->
 
 
 ## Online Tools
@@ -293,11 +307,13 @@ Self-Hostable:
 - [GetAnywhere] - Remotely monitor your OctoPrint.
 - [Vectary] - Browser-based 3D modeling.
 
+<!--lint disable definition-case-->
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 [Clara.io]: https://clara.io
 [gcode.ws]: https://gcode.ws
 [GetAnywhere]: https://www.getanywhere.io
 [Vectary]: https://vectary.com
+<!--lint enable definition-case-->
 
 
 ## On Demand 3D Printing Services
@@ -313,6 +329,7 @@ Self-Hostable:
 - [Vikings] - 3D printing and fulfillment on demand.
 - [DIVO3D] - Washington State 3D printing, 3D design and 3D Scanning with local pickup and national shipping.
 
+<!--lint disable definition-case-->
 [3D Hubs]: https://3dhubs.com
 [Beamler]: https://www.beamler.com/
 [Jiga]: https://jiga.io
@@ -323,6 +340,7 @@ Self-Hostable:
 [Toybuilderlabs]: https://toybuilderlabs.com
 [Vikings]: https://3dvikings.com/
 [DIVO3D]: https://divo3d.com
+<!--lint enable definition-case-->
 
 
 ## Marketplaces
@@ -330,15 +348,19 @@ Self-Hostable:
 - [Microscape] - Minature scale 3D printed architectural models.
 - [iGo3D] - 3D printing online store.
 
+<!--lint disable definition-case-->
 [Microscape]: https://microscape.co
 [iGo3D]: https://igo3d.com
+<!--lint enable definition-case-->
 
 
 ## On Demand 3D Printing Price Comparison
 
 - [3yourmind]
 
+<!--lint disable definition-case-->
 [3yourmind]: https://3yourmind.com
+<!--lint enable definition-case-->
 
 
 ## Technologies
@@ -346,9 +368,10 @@ Self-Hostable:
 - [Carbon3D] - Balancing the interaction of light and oxygen for fast resin based 3D printing.
 - [iopscience.iop.org/article/10.1088] - 3D printed components with ultrasonically arranged microscale structure.
 
+<!--lint disable definition-case-->
 [Carbon3D]: https://carbon3d.com
-[iopscience.iop.org/article/10.1088]:
-  https://iopscience.iop.org/article/10.1088/0964-1726/25/2/02LT01
+[iopscience.iop.org/article/10.1088]: https://iopscience.iop.org/article/10.1088/0964-1726/25/2/02LT01
+<!--lint enable definition-case-->
 
 
 ## Filaments
@@ -356,11 +379,13 @@ Self-Hostable:
 - [Creality]
 - [Elegoo]
 - [eSun]
-- [Inland] - Micro Center Specific Filament
+- [Inland] - Micro Center Specific Filament.
 - [Protopasta]
 
+<!--lint disable definition-case-->
 [Creality]: https://www.creality.com/products/creality-filament-resin
 [Elegoo]: https://us.elegoo.com/collections/filaments
 [eSun]: https://www.esun3d.com/filaments/
 [Inland]: https://www.microcenter.com/category/4294866996/filaments-and-resins
 [Protopasta]: https://www.proto-pasta.com
+<!--lint enable definition-case-->

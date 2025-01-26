@@ -15,9 +15,9 @@ A curated list of awesome 3D printing resources.
 - [Scanner](#scanner)
 - [Online 3D Model Repositories](#online-3d-model-repositories)
 - [Online Tools](#online-tools)
-- [On Demand 3D Printing Services](#on-demand-3d-printing-services)
+- [On Demand 3D Printing Services](#-3d-printing-services)
 - [Marketplaces](#marketplaces)
-- [On Demand 3D Printing Price Comparison](#on-demand-3d-printing-price-comparison)
+- [On Demand 3D Printing Price Comparison](#-3d-printing-price-comparison)
 - [Search Engines](#search-engines)
 - [Technologies](#technologies)
 - [Filaments](#filaments)
@@ -26,7 +26,7 @@ A curated list of awesome 3D printing resources.
 
 ## 3D Printer Brands
 
-- [3D Systems] - 3D printers, print materials, on-demand parts services
+- [3D Systems] - 3D printers, print materials,  parts services
     and digital design tools.
 - [Bambu Lab]
 - [Craftbot]
@@ -312,6 +312,7 @@ Self-Hostable:
 - [Toybuilderlabs]
 - [Vikings] - 3D printing and fulfillment on demand.
 - [DIVO3D] - Washington State 3D printing, 3D design and 3D Scanning with local pickup and national shipping.
+- [craftscloud] - Streamlined 3D Printing Service
 
 [3D Hubs]: https://3dhubs.com
 [Beamler]: https://www.beamler.com/
@@ -323,6 +324,7 @@ Self-Hostable:
 [Toybuilderlabs]: https://toybuilderlabs.com
 [Vikings]: https://3dvikings.com/
 [DIVO3D]: https://divo3d.com
+[craftscloud]: https://craftcloud3d.com/
 
 
 ## Marketplaces

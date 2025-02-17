@@ -358,9 +358,9 @@ Self-Hostable:
 - [Micro Center Filaments & Resins]
 - [Protopasta]
 
-[Hatchbox]: https://www.hatchbox3d.com/
 [Creality]: https://www.creality.com/products/creality-filament-resin
 [Elegoo]: https://us.elegoo.com/collections/filaments
 [eSun]: https://www.esun3d.com/filaments/
+[Hatchbox 3D]: https://www.hatchbox3d.com/
 [Micro Center Filaments & Resins]: https://www.microcenter.com/category/4294866996/filaments-and-resins
 [Protopasta]: https://www.proto-pasta.com

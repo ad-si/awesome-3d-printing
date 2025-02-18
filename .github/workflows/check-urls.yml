@@ -1,0 +1,22 @@
+name: 🌐 Check URLs
+
+on:
+  push:
+  pull_request:
+  schedule:
+    # runs at 00:00 UTC every day
+    - cron: "0 0 * * *"
+
+jobs:
+  check-urls:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check links
+        uses: lycheeverse/lychee-action@f796c8b7d468feb9b8c0a46da3fac0af6874d374 # v2.2.0
+        with:
+          args: |
+            --accept 403,429 --exclude 'https://www\.autodesk\.com'
+            --verbose --no-progress './**/*.md' './**/*.html' './**/*.rst'
+      - name: Fail if there were broken links
+        run: exit ${{ steps.lc.outputs.exit_code }}

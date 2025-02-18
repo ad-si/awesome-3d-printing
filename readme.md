@@ -1,4 +1,4 @@
-# Awesome 3D Printing
+# Awesome 3D Printing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome 3D printing resources.
 
@@ -98,7 +98,7 @@ A curated list of awesome 3D printing resources.
 - [Tinkercad] - Browser based free app for 3D design, electronics, and coding.
 
 <!--lint disable definition-case-->
-[AutoCAD]: https://autodesk.com/products/autocad/overview
+[AutoCAD]: https://www.autodesk.com/products/autocad/overview
 [Autodesk Fusion 360]: https://www.autodesk.com/products/fusion-360/personal
 [Blender]: https://www.blender.org/
 [FreeCAD]: https://freecadweb.org
@@ -237,7 +237,7 @@ Convert 3D models into G-Code.
 <!--lint disable definition-case-->
 [iSense 3D scanner]: https://cubify.com/products/isense
 [MakerBot Digitizer]: https://makerbot.com/makerware-for-digitizer
-[Matter and Form]: https://matterandform.net/scanner
+[Matter and Form]: https://matterandform.net
 [Sense]: https://cubify.com/products/sense
 <!--lint enable definition-case-->
 
@@ -304,14 +304,14 @@ Self-Hostable:
 - [BotQueue] - Control your 3D printers over the internet.
 - [Clara.io] - Cloud-based 3D modeling, animation and rendering.
 - [gcode.ws] - Gcode analyzer.
-- [GetAnywhere] - Remotely monitor your OctoPrint.
+- [OctoEverywhere] - Remotely monitor your OctoPrint.
 - [Vectary] - Browser-based 3D modeling.
 
 <!--lint disable definition-case-->
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 [Clara.io]: https://clara.io
 [gcode.ws]: https://gcode.ws
-[GetAnywhere]: https://www.getanywhere.io
+[OctoEverywhere]: https://octoeverywhere.com
 [Vectary]: https://vectary.com
 <!--lint enable definition-case-->
 
@@ -325,7 +325,6 @@ Self-Hostable:
 - [Rapidobject] - 3D printing solution provider.
 - [Scultpeo] - Online 3D printing service.
 - [Shapeways]
-- [Toybuilderlabs]
 - [Vikings] - 3D printing and fulfillment on demand.
 - [DIVO3D] - Washington State 3D printing, 3D design and 3D Scanning with local pickup and national shipping.
 
@@ -337,7 +336,6 @@ Self-Hostable:
 [Rapidobject]: https://www.rapidobject.com/en/
 [Scultpeo]: https://www.sculpteo.com/en/
 [Shapeways]: https://shapeways.com
-[Toybuilderlabs]: https://toybuilderlabs.com
 [Vikings]: https://3dvikings.com/
 [DIVO3D]: https://divo3d.com
 <!--lint enable definition-case-->
@@ -379,13 +377,15 @@ Self-Hostable:
 - [Creality]
 - [Elegoo]
 - [eSun]
-- [Inland] - Micro Center Specific Filament.
+- [Hatchbox 3D] - High-accuracy affordable filament, includes PLA, PLA PRO, ABS, PETG, TPU, carbon fiber, wood, glow-in-the-dark, and color changing with multiple surface finishes.
+- [Micro Center Filaments & Resins]
 - [Protopasta]
 
 <!--lint disable definition-case-->
 [Creality]: https://www.creality.com/products/creality-filament-resin
 [Elegoo]: https://us.elegoo.com/collections/filaments
 [eSun]: https://www.esun3d.com/filaments/
-[Inland]: https://www.microcenter.com/category/4294866996/filaments-and-resins
+[Hatchbox 3D]: https://www.hatchbox3d.com/
+[Micro Center Filaments & Resins]: https://www.microcenter.com/category/4294866996/filaments-and-resins
 [Protopasta]: https://www.proto-pasta.com
 <!--lint enable definition-case-->

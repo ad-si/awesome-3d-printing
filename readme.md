@@ -79,7 +79,7 @@ A curated list of awesome 3D printing resources.
 [Nexum3D]: https://nexum3d.com
 [Trideo3D]: https://trideo3d.com
 [Ultimaker]: https://ultimaker.com
-[Tiertime]: https://tiertime.com
+[Tiertime]: https://www.tiertime.com/
 [VoronDesign]: https://github.com/VoronDesign
 [Wanhao]: https://wanhao.store
 
@@ -328,7 +328,7 @@ Self-Hostable:
 - [Microscape] - Minature scale 3D printed architectural models.
 - [iGo3D] - 3D printing online store.
 
-[Microscape]: https://microscape.co
+[Microscape]: https://microscape.us/
 [iGo3D]: https://igo3d.com
 
 

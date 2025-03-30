@@ -63,7 +63,7 @@ A curated list of awesome 3D printing resources.
 [Formlabs]: https://formlabs.com
 [HevORT]: https://hevort.com/
 [innovatiQ]: https://www.innovatiq.com/
-[Kentstrapper]: https://kentstrapper.com/en
+[Kentstrapper]: https://kentstrapper.com
 [Lulzbot]: https://www.lulzbot.com
 [Lumi Industries]: https://lumindustries.com
 [MakerBot]: https://makerbot.com

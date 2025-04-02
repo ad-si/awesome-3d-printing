@@ -4,8 +4,8 @@ on:
   push:
   pull_request:
   schedule:
-    # runs at 00:00 UTC every day
-    - cron: "0 0 * * *"
+    # runs at 00:00 UTC every 5 days
+    - cron: "0 0 */5 * *"
 
 jobs:
   check-urls:

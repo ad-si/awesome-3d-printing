@@ -290,14 +290,14 @@ Self-Hostable:
 - [BotQueue] - Control your 3D printers over the internet.
 - [Clara.io] - Cloud-based 3D modeling, animation and rendering.
 - [gcode.ws] - Gcode analyzer.
-- [HelloTrangle] - Cloud-based 3D modeling using Python.
+- [HelloTriangle] - Cloud-based 3D modeling using Python.
 - [OctoEverywhere] - Remotely monitor your OctoPrint.
 - [Vectary] - Browser-based 3D modeling.
 
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 [Clara.io]: https://clara.io
 [gcode.ws]: https://gcode.ws
-[HelloTriangle.io]: https://hellotriangle.io
+[HelloTriangle]: https://hellotriangle.io
 [OctoEverywhere]: https://octoeverywhere.com
 [Vectary]: https://vectary.com
 

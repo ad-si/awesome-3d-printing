@@ -2,7 +2,7 @@
 
 A curated list of awesome 3D printing resources.
 
-**Table Of Contents**
+## Contents
 
 <!-- toc -->
 

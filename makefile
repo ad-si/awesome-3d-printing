@@ -8,4 +8,7 @@ update-toc:
 
 .PHONY: test
 test:
-	lychee readme.md
+	lychee \
+		--max-redirects 0 \
+		--require-https \
+		readme.md

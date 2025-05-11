@@ -1,4 +1,4 @@
-# Awesome 3D Printing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome 3D Printing [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
 A curated list of awesome 3D printing resources.
 
@@ -18,7 +18,6 @@ A curated list of awesome 3D printing resources.
 - [On Demand 3D Printing Services](#on-demand-3d-printing-services)
 - [Marketplaces](#marketplaces)
 - [On Demand 3D Printing Price Comparison](#on-demand-3d-printing-price-comparison)
-- [Search Engines](#search-engines)
 - [Technologies](#technologies)
 - [Filaments](#filaments)
 
@@ -57,17 +56,17 @@ A curated list of awesome 3D printing resources.
 
 [3D Systems]: https://www.3dsystems.com
 [Craftbot]: https://craftbot.com
-[Bambu Lab]: https://bambulab.com
-[Dremel]: https://digilab.dremel.com
+[Bambu Lab]: https://bambulab.com/en
+[Dremel]: https://www.dremel.com/us/en/digilab
 [Flashforge]: https://www.flashforge.com
 [Formlabs]: https://formlabs.com
 [HevORT]: https://hevort.com/
 [innovatiQ]: https://www.innovatiq.com/
 [Kentstrapper]: https://kentstrapper.com
-[Lulzbot]: https://www.lulzbot.com
-[Lumi Industries]: https://lumindustries.com
-[MakerBot]: https://makerbot.com
-[Makergear]: https://www.makergear.com
+[Lulzbot]: https://lulzbot.com/
+[Lumi Industries]: https://www.lumindustries.com/
+[MakerBot]: https://www.makerbot.com/
+[Makergear]: https://makergear.com/
 [Monoprice]: https://www.monoprice.com/pages/3d_printers
 [Printcepts]: https://www.printcepts.com/
 [Prusa Research]: https://www.prusa3d.com
@@ -75,9 +74,9 @@ A curated list of awesome 3D printing resources.
 [RepRap]: https://reprap.org
 [Robo3d]: https://robo3d.com
 [Sharebot]: https://www.sharebot.it/en/
-[Sindoh]: https://3dprinter.sindoh.com
+[Sindoh]: https://www.sindoh.com/en/
 [Nexum3D]: https://nexum3d.com
-[Trideo3D]: https://trideo3d.com
+[Trideo3D]: https://www.trideo3d.com/en
 [Ultimaker]: https://ultimaker.com
 [Tiertime]: https://www.tiertime.com/
 [VoronDesign]: https://github.com/VoronDesign
@@ -100,25 +99,23 @@ A curated list of awesome 3D printing resources.
 [AutoCAD]: https://www.autodesk.com/products/autocad/overview
 [Autodesk Fusion 360]: https://www.autodesk.com/products/fusion-360/personal
 [Blender]: https://www.blender.org/
-[FreeCAD]: https://freecadweb.org
+[FreeCAD]: https://www.freecad.org/
 [OpenSCAD]: https://openscad.org
 [Rhinoceros 3D]: https://www.rhino3d.com
-[Solidworks]: https://solidworks.com
-[SolveSpace]: https://solvespace.com
+[Solidworks]: https://www.solidworks.com/
+[SolveSpace]: https://solvespace.com/index.pl
 [Tinkercad]: https://www.tinkercad.com
 
 
 ## Control Software
 
-- [Makerbot Desktop] - Discover, manage and share your 3D prints.
 - [OctoPrint] - Web interface for 3D printer.
 - [PrintRun] - Pure Python 3d printing host software.
 - [Repetier] - Place, slice, preview and print.
 
-[Makerbot Desktop]: https://www.makerbot.com/desktop
 [OctoPrint]: https://octoprint.org
 [PrintRun]: https://github.com/kliment/Printrun
-[Repetier]: https://repetier.com
+[Repetier]: https://www.repetier.com/
 
 
 ## 3D Printer Firmware
@@ -210,7 +207,7 @@ Convert 3D models into G-Code.
 [CraftWare]: https://craftbot.com/craftware
 [Cura]: https://ultimaker.com/software/ultimaker-cura/
 [Kiri:Moto]: https://grid.space/kiri/
-[KISSlicer]: https://kisslicer.com
+[KISSlicer]: https://www.kisslicer.com
 [MatterControl]: https://github.com/MatterHackers/MatterControl
 [OrcaSlicer]: https://github.com/SoftFever/OrcaSlicer
 [PrusaSlicer]: https://www.prusa3d.com/page/prusaslicer_424/
@@ -219,15 +216,11 @@ Convert 3D models into G-Code.
 
 ## Scanner
 
-- [iSense 3D scanner]
 - [MakerBot Digitizer]
 - [Matter and Form] - Professional grade scanner.
-- [Sense] - 3D Scanner.
 
-[iSense 3D scanner]: https://cubify.com/products/isense
-[MakerBot Digitizer]: https://makerbot.com/makerware-for-digitizer
-[Matter and Form]: https://matterandform.net
-[Sense]: https://cubify.com/products/sense
+[MakerBot Digitizer]: https://www.youtube.com/watch?v=AYq5n7jwe40
+[Matter and Form]: https://www.matterandform.net/
 
 
 ## Online 3D Model Repositories
@@ -254,7 +247,6 @@ Independent:
 - [Sculpteo]
 - [Shapeways]
 - [SketchFab]
-- [TF3DM]
 - [Turbosquid]
 
 Self-Hostable:
@@ -267,7 +259,7 @@ Self-Hostable:
 [Astroprint]: https://www.astroprint.com/
 [CGtrader]: https://www.cgtrader.com/
 [Cults]: https://cults3d.com
-[Free3D]: https://free3d.com
+[Free3D]: https://free3d.com/
 [GrabCAD]: https://grabcad.com
 [Makerworld]: https://makerworld.com/en
 [Manyfold]: https://github.com/manyfold3d/manyfold
@@ -276,11 +268,10 @@ Self-Hostable:
 [Printables]: https://www.printables.com
 [Redpah]: https://redpah.com
 [Repables]: https://repables.com
-[Sculpteo]: https://www.sculpteo.com
+[Sculpteo]: https://www.sculpteo.com/en/
 [Shapeways]: https://www.shapeways.com
 [SketchFab]: https://sketchfab.com
-[TF3DM]: https://tf3dm.com
-[Thingiverse]: https://thingiverse.com
+[Thingiverse]: https://www.thingiverse.com/
 [Turbosquid]: https://www.turbosquid.com
 [YouMagine]: https://youmagine.com
 
@@ -297,9 +288,9 @@ Self-Hostable:
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 [Clara.io]: https://clara.io
 [gcode.ws]: https://gcode.ws
-[HelloTriangle]: https://hellotriangle.io
+[HelloTriangle]: https://www.hellotriangle.io/
 [OctoEverywhere]: https://octoeverywhere.com
-[Vectary]: https://vectary.com
+[Vectary]: https://www.vectary.com/
 
 
 ## On Demand 3D Printing Services
@@ -314,7 +305,7 @@ Self-Hostable:
 - [Vikings] - 3D printing and fulfillment on demand.
 - [DIVO3D] - Washington State 3D printing, 3D design and 3D Scanning with local pickup and national shipping.
 
-[3D Hubs]: https://3dhubs.com
+[3D Hubs]: https://www.hubs.com/
 [Beamler]: https://www.beamler.com/
 [Jiga]: https://jiga.io
 [Murtfeldt Additive Solutions]: https://murtfeldt-as.de
@@ -331,14 +322,14 @@ Self-Hostable:
 - [iGo3D] - 3D printing online store.
 
 [Microscape]: https://microscape.us/
-[iGo3D]: https://igo3d.com
+[iGo3D]: https://www.igo3d.com/
 
 
 ## On Demand 3D Printing Price Comparison
 
 - [3yourmind]
 
-[3yourmind]: https://3yourmind.com
+[3yourmind]: https://www.3yourmind.com/
 
 
 ## Technologies
@@ -346,7 +337,7 @@ Self-Hostable:
 - [Carbon3D] - Balancing the interaction of light and oxygen for fast resin based 3D printing.
 - [iopscience.iop.org/article/10.1088] - 3D printed components with ultrasonically arranged microscale structure.
 
-[Carbon3D]: https://carbon3d.com
+[Carbon3D]: https://www.carbon3d.com
 [iopscience.iop.org/article/10.1088]:
   https://iopscience.iop.org/article/10.1088/0964-1726/25/2/02LT01
 
@@ -365,4 +356,4 @@ Self-Hostable:
 [eSun]: https://www.esun3d.com/filaments/
 [Hatchbox 3D]: https://www.hatchbox3d.com/
 [Micro Center Filaments & Resins]: https://www.microcenter.com/category/4294866996/filaments-and-resins
-[Protopasta]: https://www.proto-pasta.com
+[Protopasta]: https://proto-pasta.com/

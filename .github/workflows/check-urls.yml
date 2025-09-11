@@ -15,6 +15,9 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+
       - name: Run Awesome Lint
         run: make lint
 
@@ -24,6 +27,9 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
 
       - name: Check links
         uses: lycheeverse/lychee-action@f796c8b7d468feb9b8c0a46da3fac0af6874d374 # v2.2.0

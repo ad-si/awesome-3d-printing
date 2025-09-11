@@ -6,8 +6,13 @@ update-toc:
 		readme.md
 
 
+.PHONY: lint
+lint:
+	bun x awesome-lint
+
+
 .PHONY: test
-test:
+test: lint
 	lychee \
 		--max-redirects 0 \
 		--require-https \

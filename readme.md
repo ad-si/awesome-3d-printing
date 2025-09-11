@@ -1,8 +1,8 @@
-# Awesome 3D Printing [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+# Awesome 3D Printing [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome 3D printing resources.
 
-**Table Of Contents**
+## Contents
 
 <!-- toc -->
 
@@ -23,6 +23,9 @@ A curated list of awesome 3D printing resources.
 
 <!-- tocstop -->
 
+<!-- lint disable definition-case -->
+
+
 ## 3D Printer Brands
 
 - [3D Systems] - 3D printers, print materials, on-demand parts services
@@ -32,7 +35,7 @@ A curated list of awesome 3D printing resources.
 - [Dremel] - 3D printers and laser cutters.
 - [Flashforge]
 - [Formlabs]
-- [HevORT] - Advanced DIY 3D Printer
+- [HevORT] - Advanced DIY 3D Printer.
 - [innovatiQ]
 - [Kentstrapper]
 - [Lulzbot] - Open hardware 3D printers and accessories.
@@ -85,14 +88,14 @@ A curated list of awesome 3D printing resources.
 
 ## CAD Tools
 
-- [AutoCAD] - 2D and 3D CAD design software (commercial)
+- [AutoCAD] - 2D and 3D CAD design software. (commercial)
 - [Autodesk Fusion 360] - 3D CAD, CAM, and CAE tool for product design
-    and manufacturing (free for personal / non-commercial use)
+    and manufacturing. (free for personal / non-commercial use)
 - [Blender] - 3D modeling and sculpting app. (open source)
 - [FreeCAD]
 - [OpenSCAD]
 - [Rhinoceros 3D] - CAD application software. (commercial)
-- [Solidworks] - 3D CAD design software (commercial)
+- [Solidworks] - 3D CAD design software. (commercial)
 - [SolveSpace] - Minimalist CAD software. (open source)
 - [Tinkercad] - Browser based free app for 3D design, electronics, and coding.
 
@@ -179,12 +182,9 @@ Name | License | Encoding | Features
 [DWG]: https://en.wikipedia.org/wiki/.dwg
 [DXF]: https://en.wikipedia.org/wiki/AutoCAD_DXF
 [DWF]: https://en.wikipedia.org/wiki/Design_Web_Format
-[DWFX]: https://en.wikipedia.org/wiki/Open_Packaging_Conventions
 [IGES]: https://en.wikipedia.org/wiki/IGES
 [OBJ]: https://en.wikipedia.org/wiki/Wavefront_.obj_file
-[OpenDWG]: https://en.wikipedia.org/wiki/Open_Design_Alliance
 [PLY]: https://en.wikipedia.org/wiki/PLY_(file_format)
-[PSpice]: https://en.wikipedia.org/wiki/PSpice_circuit_file
 [STL]: https://en.wikipedia.org/wiki/STL_(file_format)
 [STEP]: https://en.wikipedia.org/wiki/ISO_10303
 
@@ -227,9 +227,9 @@ Convert 3D models into G-Code.
 
 From 3D printer manufacturer:
 
-- [Thingiverse] - (from Ultimaker)
-- [Printables] - (from Prusa Research)
-- [Makerworld] - (from Bambu Lab)
+- [Thingiverse] - From Ultimaker.
+- [Printables] - From Prusa Research.
+- [Makerworld] - From Bambu Lab.
 
 Independent:
 
@@ -248,6 +248,7 @@ Independent:
 - [Shapeways]
 - [SketchFab]
 - [Turbosquid]
+- [YouMagine] - Community for RC creators and makers.
 
 Self-Hostable:
 
@@ -297,7 +298,7 @@ Self-Hostable:
 
 - [3D Hubs]
 - [Beamler] - Global industrial 3D printer network.
-- [Craftcloud] - Streamlined 3D Printing Service
+- [Craftcloud] - Streamlined 3D Printing Service.
 - [Jiga] - Manufacturing as a service with known machine shops.
 - [Murtfeldt Additive Solutions] - Industrical 3D printing service.
 - [Rapidobject] - 3D printing solution provider.

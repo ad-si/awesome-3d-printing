@@ -1,4 +1,4 @@
-name: 🌐 Check URLs
+name: Lint Markdown and Check URLs
 
 on:
   push:
@@ -8,15 +8,29 @@ on:
     - cron: "0 0 */5 * *"
 
 jobs:
+  awesome-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Run Awesome Lint
+        run: make lint
+
   check-urls:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - name: Check links
         uses: lycheeverse/lychee-action@f796c8b7d468feb9b8c0a46da3fac0af6874d374 # v2.2.0
         with:
           args: |
             --accept 403,429 --exclude 'https://www\.autodesk\.com'
             --verbose --no-progress './**/*.md' './**/*.html' './**/*.rst'
+
       - name: Fail if there were broken links
         run: exit ${{ steps.lc.outputs.exit_code }}

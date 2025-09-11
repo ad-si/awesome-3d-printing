@@ -297,6 +297,7 @@ Self-Hostable:
 
 - [3D Hubs]
 - [Beamler] - Global industrial 3D printer network.
+- [Craftcloud] - Streamlined 3D Printing Service
 - [Jiga] - Manufacturing as a service with known machine shops.
 - [Murtfeldt Additive Solutions] - Industrical 3D printing service.
 - [Rapidobject] - 3D printing solution provider.
@@ -307,6 +308,7 @@ Self-Hostable:
 
 [3D Hubs]: https://www.hubs.com/
 [Beamler]: https://www.beamler.com/
+[Craftcloud]: https://craftcloud3d.com/
 [Jiga]: https://jiga.io
 [Murtfeldt Additive Solutions]: https://murtfeldt-as.de
 [Rapidobject]: https://www.rapidobject.com/en/

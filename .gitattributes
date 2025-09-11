@@ -2,3 +2,4 @@ readme.md linguist-detectable
 makefile -linguist-detectable
 flake.nix -linguist-detectable
 flake.lock -linguist-detectable
+.envrc -linguist-detectable

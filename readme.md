@@ -9,6 +9,7 @@ A curated list of awesome 3D printing resources.
 - [3D Printer Brands](#3d-printer-brands)
 - [CAD Tools](#cad-tools)
 - [Control Software](#control-software)
+- [AMS / Filament Changer](#ams--filament-changer)
 - [3D Printer Firmware](#3d-printer-firmware)
 - [File Formats](#file-formats)
 - [Slicers](#slicers)
@@ -119,6 +120,23 @@ A curated list of awesome 3D printing resources.
 [OctoPrint]: https://octoprint.org
 [PrintRun]: https://github.com/kliment/Printrun
 [Repetier]: https://www.repetier.com/
+
+
+## AMS / Filament Changer
+
+- [3DChameleon] - Multi-color filament changer for single extruder 3D printers.
+- [BoxTurtle] - Open source multi-color filament system.
+- [EnragedRabbitProject] - Multi-color addon for Voron 3D printers.
+- [MOSAIC Palette 3] - Multi-filament device for single extruder 3D printers.
+- [MOSAIC Palette 3 Pro] - Professional multi-filament device for single extruder 3D printers.
+- [AMS] - Bambu Lab Automatic Material System for multi-color printing.
+
+[3DChameleon]: https://www.3dchameleon.com/
+[BoxTurtle]: https://github.com/ArmoredTurtle/BoxTurtle
+[EnragedRabbitProject]: https://github.com/EtteGit/EnragedRabbitProject
+[MOSAIC Palette 3]: https://www.mosaicmfg.com/products/palette-3
+[MOSAIC Palette 3 Pro]: https://www.mosaicmfg.com/products/palette-3-pro
+[AMS]: https://eu.store.bambulab.com/de/products/ams-mehrfarbendruck
 
 
 ## 3D Printer Firmware

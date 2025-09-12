@@ -242,6 +242,7 @@ Independent:
 - [GrabCAD]
 - [MyMiniFactory] - 3D print files for tabletop gaming, toys, gadgets.
 - [Pinshape] - Find, share and sell 3D print files.
+- [PrintPal] - 3D printing model-sharing website + marketplace + AI tool + manufacturing/distribution platform.
 - [Redpah]
 - [Repables]
 - [Sculpteo]
@@ -266,6 +267,7 @@ Self-Hostable:
 [Manyfold]: https://github.com/manyfold3d/manyfold
 [MyMiniFactory]: https://www.myminifactory.com/
 [Pinshape]: https://pinshape.com
+[PrintPal]: https://printpal.io
 [Printables]: https://www.printables.com
 [Redpah]: https://redpah.com
 [Repables]: https://repables.com

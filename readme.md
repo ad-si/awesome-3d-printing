@@ -20,6 +20,7 @@ A curated list of awesome 3D printing resources.
 - [On Demand 3D Printing Price Comparison](#on-demand-3d-printing-price-comparison)
 - [Technologies](#technologies)
 - [Filaments](#filaments)
+- [Related](#related)
 
 <!-- tocstop -->
 
@@ -362,3 +363,10 @@ Self-Hostable:
 [Hatchbox 3D]: https://www.hatchbox3d.com/
 [Micro Center Filaments & Resins]: https://www.microcenter.com/category/4294866996/filaments-and-resins
 [Protopasta]: https://proto-pasta.com/
+
+
+## Related
+
+- [Awesome-Extruders] - Curated list of 3D printable extruder designs.
+
+[Awesome-Extruders]: https://github.com/SartorialGrunt0/Awesome-Extruders

@@ -242,7 +242,7 @@ Independent:
 - [GrabCAD]
 - [MyMiniFactory] - 3D print files for tabletop gaming, toys, gadgets.
 - [Pinshape] - Find, share and sell 3D print files.
-- [PrintPal] - 3D printing model-sharing website + marketplace + AI tool + manufacturing/distribution platform.
+- [PrintPal] - Model-sharing + marketplace + AI tool + manufacturing platform.
 - [Redpah]
 - [Repables]
 - [Sculpteo]

@@ -94,6 +94,7 @@ A curated list of awesome 3D printing resources.
 - [Autodesk Fusion 360] - 3D CAD, CAM, and CAE tool for product design
     and manufacturing. (free for personal / non-commercial use)
 - [Blender] - 3D modeling and sculpting app. (open source)
+- [build123d] - 3D CAD design software for python programmers (open source)
 - [FreeCAD]
 - [OpenSCAD]
 - [Rhinoceros 3D] - CAD application software. (commercial)
@@ -104,6 +105,7 @@ A curated list of awesome 3D printing resources.
 [AutoCAD]: https://www.autodesk.com/products/autocad/overview
 [Autodesk Fusion 360]: https://www.autodesk.com/products/fusion-360/personal
 [Blender]: https://www.blender.org/
+[build123d]: https://github.com/gumyr/build123d
 [FreeCAD]: https://www.freecad.org/
 [OpenSCAD]: https://openscad.org
 [Rhinoceros 3D]: https://www.rhino3d.com

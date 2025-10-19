@@ -223,6 +223,7 @@ Convert 3D models into G-Code.
 - [OrcaSlicer] - Slicer forked from [PrusaSlicer] and [BambuStudio].
 - [PrusaSlicer] - Slicer specific to Prusa Printers.
 - [Slic3r] - Open source 3D printing toolbox.
+- [Strecs3D] - Generate optimized infill based on structural analysis.
 
 [BambuStudio]: https://bambulab.com/en/download/studio
 [CraftWare]: https://craftbot.com/craftware
@@ -233,6 +234,7 @@ Convert 3D models into G-Code.
 [OrcaSlicer]: https://github.com/SoftFever/OrcaSlicer
 [PrusaSlicer]: https://www.prusa3d.com/page/prusaslicer_424/
 [Slic3r]: https://slic3r.org
+[Strecs3D]: https://github.com/tomohiron907/Strecs3D
 
 
 ## Scanner

@@ -101,6 +101,7 @@ A curated list of awesome 3D printing resources.
 - [Solidworks] - 3D CAD design software. (commercial)
 - [SolveSpace] - Minimalist CAD software. (open source)
 - [Tinkercad] - Browser based free app for 3D design, electronics, and coding.
+- [Truck](https://github.com/ricosjp/truck) - Rust based CAD Kernel.
 
 [AutoCAD]: https://www.autodesk.com/products/autocad/overview
 [Autodesk Fusion 360]: https://www.autodesk.com/products/fusion-360/personal

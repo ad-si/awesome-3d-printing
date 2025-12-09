@@ -140,7 +140,7 @@ A curated list of awesome 3D printing resources.
 [EnragedRabbitProject]: https://github.com/EtteGit/EnragedRabbitProject
 [MOSAIC Palette 3]: https://www.mosaicmfg.com/products/palette-3
 [MOSAIC Palette 3 Pro]: https://www.mosaicmfg.com/products/palette-3-pro
-[AMS]: https://eu.store.bambulab.com/de/products/ams-mehrfarbendruck
+[AMS]: https://us.store.bambulab.com/products/ams-multicolor-printing
 
 
 ## 3D Printer Firmware

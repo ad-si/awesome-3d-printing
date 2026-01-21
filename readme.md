@@ -45,6 +45,7 @@ A curated list of awesome 3D printing resources.
 - [MakerBot]
 - [Makergear]
 - [Monoprice] - Monoprice branded Wanhao printers.
+- [Mosaic] - High-Volume Automated 3D Printing.
 - [Nexum3D] - Delta 3D printers in 3 sizes.
 - [Printcepts] - Innovative printer concepts.
 - [Prusa Research] - 3D printers from Josef Prusa.
@@ -52,7 +53,6 @@ A curated list of awesome 3D printing resources.
 - [RepRap] - Free desktop 3D printer.
 - [Robo3d] - Robo R1, R2 and C2 3D printers.
 - [Sharebot] - Innovative, easy to use 3D printers for professional results.
-- [Sindoh] - Enclosed xyz 3D printer "3DWOX".
 - [Tiertime]
 - [Trideo3D] - FDM 3D printers focusing on the experience in 3 sizes.
 - [Ultimaker]
@@ -73,17 +73,17 @@ A curated list of awesome 3D printing resources.
 [MakerBot]: https://www.makerbot.com/
 [Makergear]: https://makergear.com/
 [Monoprice]: https://www.monoprice.com/pages/3d_printers
+[Mosaic]: https://mosaicmfg.com
+[Nexum3D]: https://nexum3d.com
 [Printcepts]: https://www.printcepts.com/
 [Prusa Research]: https://www.prusa3d.com
 [QIDI]: https://qidi3d.com
 [RepRap]: https://reprap.org
 [Robo3d]: https://robo3d.com
 [Sharebot]: https://www.sharebot.it/en/
-[Sindoh]: https://www.sindoh.com/en/
-[Nexum3D]: https://nexum3d.com
+[Tiertime]: https://www.tiertime.com/
 [Trideo3D]: https://www.trideo3d.com/en
 [Ultimaker]: https://ultimaker.com
-[Tiertime]: https://www.tiertime.com/
 [VoronDesign]: https://github.com/VoronDesign
 [Wanhao]: https://wanhao.store
 
@@ -129,25 +129,20 @@ A curated list of awesome 3D printing resources.
 ## AMS / Filament Changer
 
 - [3DChameleon] - Multi-color filament changer for single extruder 3D printers.
+- [AMS] - Bambu Lab Automatic Material System for multi-color printing.
 - [BoxTurtle] - Open source multi-color filament system.
 - [EnragedRabbitProject] - Multi-color addon for Voron 3D printers.
-- [MOSAIC Palette 3] - Multi-filament device for single extruder 3D printers.
-- [MOSAIC Palette 3 Pro] - Professional multi-filament device for single extruder 3D printers.
-- [AMS] - Bambu Lab Automatic Material System for multi-color printing.
 
 [3DChameleon]: https://www.3dchameleon.com/
+[AMS]: https://us.store.bambulab.com/products/ams-multicolor-printing
 [BoxTurtle]: https://github.com/ArmoredTurtle/BoxTurtle
 [EnragedRabbitProject]: https://github.com/EtteGit/EnragedRabbitProject
-[MOSAIC Palette 3]: https://www.mosaicmfg.com/products/palette-3
-[MOSAIC Palette 3 Pro]: https://www.mosaicmfg.com/products/palette-3-pro
-[AMS]: https://us.store.bambulab.com/products/ams-multicolor-printing
 
 
 ## 3D Printer Firmware
 
 Open source if not labeled differently.
 
-- [AnetA8] - Marlin 3D Printer Firmware for AnetA8.
 - [CR-30 Firmware] - Creality CR-30 Belt Printer.
 - [G3Firmware] - The firmware for generation 3 and later RepRap electronics.
 - [Grbl] - CNC milling controller written in optimized C that will run on a straight Arduino.
@@ -163,7 +158,6 @@ Open source if not labeled differently.
 - [Teacup_Firmware] - Firmware for RepRap and other 3D printers.
 - [UnifiedFirmware] - Both 8 bit and 32 bit based machines/boards.
 
-[AnetA8]: https://github.com/cyclemat/Marlin-2.0.0-for-Anet-A8-
 [CR-30 Firmware]: https://github.com/NAK3DDesigns/CR-30-Firmware
 [G3Firmware]: https://github.com/makerbot/G3Firmware
 [Grbl]: https://github.com/grbl/grbl

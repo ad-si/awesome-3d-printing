@@ -305,6 +305,7 @@ Self-Hostable:
 - [HelloTriangle] - Cloud-based 3D modeling using Python.
 - [OctoEverywhere] - Remotely monitor your OctoPrint.
 - [Vectary] - Browser-based 3D modeling.
+- [Vectiler](https://halfmaps.io/) - Online tool to generate 3D printable map and terrain models from real-world geographic data.
 
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 [Clara.io]: https://clara.io

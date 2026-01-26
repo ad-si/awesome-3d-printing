@@ -176,20 +176,20 @@ Open source if not labeled differently.
 
 ## File Formats
 
-Name | License | Encoding | Features
------|---------|----------|---------
-[3MF] | Open | Compressed XML | geometry, material, metadata, signature, texture, thumbnail
-[ACIS] | | text or binary |
-[AMF] | Open | Zipped XML | color, constellations, curved triangles, formulas, geometry, material, metadata
-[CKD] | Proprietary | |
-[DWG] (Drawing) | Proprietary | OpenXPS |
-[DXF] (Drawing Exchange Format) | Proprietary | text/binary |
-[DWF] (Design Web Format) | | OpenXPS | Communicate design information
-[IGES] (Initial Graphics Exchange Specification) | Vendor-neutral | text | |
-[OBJ] (Object) | Open | text | geometry
-[PLY] (Polygon File Format) | Open | text or binary | color, geometry, normals, texture, transparency
-[STL] | Proprietary | text or binary | geometry, normals
-[STEP] | ISO | | |
+| Name                                              | License        | Encoding       | Features                                                                        |
+| ------------------------------------------------- | -------------- | -------------- | ------------------------------------------------------------------------------- |
+| [3MF]                                             | Open           | Compressed XML | geometry, material, metadata, signature, texture, thumbnail                     |
+| [ACIS]                                            |                | text or binary |                                                                                 |
+| [AMF]                                             | Open           | Zipped XML     | color, constellations, curved triangles, formulas, geometry, material, metadata |
+| [CKD]                                             | Proprietary    |                |                                                                                 |
+| [DWG] (Drawing)                                   | Proprietary    | OpenXPS        |                                                                                 |
+| [DXF] (Drawing Exchange Format)                   | Proprietary    | text/binary    |                                                                                 |
+| [DWF] (Design Web Format)                         |                | OpenXPS        | Communicate design information                                                  |
+| [IGES] (Initial Graphics Exchange Specification)  | Vendor-neutral | text           |                                                                                 |
+| [OBJ] (Object)                                    | Open           | text           | geometry                                                                        |
+| [PLY] (Polygon File Format)                       | Open           | text or binary | color, geometry, normals, texture, transparency                                 |
+| [STL]                                             | Proprietary    | text or binary | geometry, normals                                                               |
+| [STEP]                                            | ISO            |                |                                                                                 |
 
 [3MF]: https://en.wikipedia.org/wiki/3D_Manufacturing_Format
 [ACIS]: https://en.wikipedia.org/wiki/ACIS#File_format

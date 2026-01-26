@@ -35,8 +35,11 @@ jobs:
         uses: lycheeverse/lychee-action@f796c8b7d468feb9b8c0a46da3fac0af6874d374 # v2.2.0
         with:
           args: |
-            --accept 403,429 --exclude 'https://www\.autodesk\.com'
-            --verbose --no-progress './**/*.md' './**/*.html' './**/*.rst'
+            --accept 403,429
+            --exclude 'https://www\.autodesk\.com'
+            --exclude 'https://www\.igo3d\.com'
+            --verbose
+            --no-progress './**/*.md' './**/*.html' './**/*.rst'
 
       - name: Fail if there were broken links
         run: exit ${{ steps.lc.outputs.exit_code }}

@@ -305,6 +305,7 @@ Self-Hostable:
 - [HelloTriangle] - Cloud-based 3D modeling using Python.
 - [OctoEverywhere] - Remotely monitor your OctoPrint.
 - [Vectary] - Browser-based 3D modeling.
+- [Filameter] - Filament Inventory Management.
 
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 [Clara.io]: https://clara.io
@@ -312,6 +313,7 @@ Self-Hostable:
 [HelloTriangle]: https://www.hellotriangle.io/
 [OctoEverywhere]: https://octoeverywhere.com
 [Vectary]: https://www.vectary.com/
+[Filameter]: https://filameter.com
 
 
 ## On Demand 3D Printing Services

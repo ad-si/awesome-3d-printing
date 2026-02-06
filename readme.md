@@ -117,10 +117,12 @@ A curated list of awesome 3D printing resources.
 
 ## Control Software
 
+- [Bambuddy] - Self-hosted print management tool for Bambu Lab printers with real-time monitoring, print archiving, scheduling, and notifications.
 - [OctoPrint] - Web interface for 3D printer.
 - [PrintRun] - Pure Python 3d printing host software.
 - [Repetier] - Place, slice, preview and print.
 
+[Bambuddy]: https://bambuddy.cool
 [OctoPrint]: https://octoprint.org
 [PrintRun]: https://github.com/kliment/Printrun
 [Repetier]: https://www.repetier.com/

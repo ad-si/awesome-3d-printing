@@ -308,7 +308,7 @@ Self-Hostable:
 - [OctoEverywhere] - Remotely monitor your OctoPrint.
 - [Vectary] - Browser-based 3D modeling.
 
-[3d Box Generator]: https://github.com/javisperez/box-stl-generator
+[3D Box Generator]: https://github.com/javisperez/box-stl-generator
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 [Clara.io]: https://clara.io
 [Filameter]: https://filameter.com

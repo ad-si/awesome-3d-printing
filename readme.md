@@ -299,6 +299,7 @@ Self-Hostable:
 
 ## Online Tools
 
+- [3D Box Generator] - Webapp to generate STL files for boxes of custom size.
 - [BotQueue] - Control your 3D printers over the internet.
 - [Clara.io] - Cloud-based 3D modeling, animation and rendering.
 - [Filameter] - Filament Inventory Management.
@@ -307,6 +308,7 @@ Self-Hostable:
 - [OctoEverywhere] - Remotely monitor your OctoPrint.
 - [Vectary] - Browser-based 3D modeling.
 
+[3D Box Generator]: https://github.com/javisperez/box-stl-generator
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 [Clara.io]: https://clara.io
 [Filameter]: https://filameter.com

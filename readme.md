@@ -117,10 +117,12 @@ A curated list of awesome 3D printing resources.
 
 ## Control Software
 
+- [Kiln] - Open-source MCP server and CLI for AI agents to control 3D printers (OctoPrint, Moonraker, Bambu Lab, Prusa Link, Elegoo). 230 tools for fleet management, slicing, safety, and fulfillment.
 - [OctoPrint] - Web interface for 3D printer.
 - [PrintRun] - Pure Python 3d printing host software.
 - [Repetier] - Place, slice, preview and print.
 
+[Kiln]: https://github.com/codeofaxel/Kiln
 [OctoPrint]: https://octoprint.org
 [PrintRun]: https://github.com/kliment/Printrun
 [Repetier]: https://www.repetier.com/

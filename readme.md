@@ -32,9 +32,13 @@ A curated list of awesome 3D printing resources.
 
 - [3D Systems] - 3D printers, print materials, on-demand parts services
     and digital design tools.
+- Annex Engineering
+- Artillery
 - [Bambu Lab]
 - [Craftbot]
+- Creality
 - [Dremel] - 3D printers and laser cutters.
+- Elegoo
 - [Flashforge]
 - [Formlabs]
 - [HevORT] - Advanced DIY 3D Printer.
@@ -50,9 +54,11 @@ A curated list of awesome 3D printing resources.
 - [Printcepts] - Innovative printer concepts.
 - [Prusa Research] - 3D printers from Josef Prusa.
 - [QIDI] - Affordable, fast, large scale printers.
+- Rat Rig
 - [RepRap] - Free desktop 3D printer.
 - [Robo3d] - Robo R1, R2 and C2 3D printers.
 - [Sharebot] - Innovative, easy to use 3D printers for professional results.
+- SToN
 - [Tiertime]
 - [Trideo3D] - FDM 3D printers focusing on the experience in 3 sizes.
 - [Ultimaker]
@@ -93,11 +99,15 @@ A curated list of awesome 3D printing resources.
 - [AutoCAD] - 2D and 3D CAD design software. (commercial)
 - [Autodesk Fusion 360] - 3D CAD, CAM, and CAE tool for product design
     and manufacturing. (free for personal / non-commercial use)
+- Autodesk Inventor
 - [Blender] - 3D modeling and sculpting app. (open source)
 - [build123d] - 3D CAD design software for python programmers. (open source)
 - [FreeCAD]
 - [OpenSCAD]
+- Onshape
+- Plasticity
 - [Rhinoceros 3D] - CAD application software. (commercial)
+- Shapr3D
 - [Solidworks] - 3D CAD design software. (commercial)
 - [SolveSpace] - Minimalist CAD software. (open source)
 - [Tinkercad] - Browser based free app for 3D design, electronics, and coding.

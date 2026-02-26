@@ -283,7 +283,7 @@ Self-Hostable:
 [Free3D]: https://free3d.com/
 [GrabCAD]: https://grabcad.com
 [Makerworld]: https://makerworld.com/en
-[MakerRepo]: https://github.com/makerrepo/makerrepo
+[MakerRepo]: https://makerrepo.com
 [Manyfold]: https://github.com/manyfold3d/manyfold
 [MyMiniFactory]: https://www.myminifactory.com/
 [Pinshape]: https://pinshape.com

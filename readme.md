@@ -32,13 +32,13 @@ A curated list of awesome 3D printing resources.
 
 - [3D Systems] - 3D printers, print materials, on-demand parts services
     and digital design tools.
-- Annex Engineering
-- Artillery
+- [Annex Engineering]
+- [Artillery]
 - [Bambu Lab]
 - [Craftbot]
-- Creality
+- [Creality]
 - [Dremel] - 3D printers and laser cutters.
-- Elegoo
+- [Elegoo]
 - [Flashforge]
 - Flsun
 - [Formlabs]
@@ -55,11 +55,11 @@ A curated list of awesome 3D printing resources.
 - [Printcepts] - Innovative printer concepts.
 - [Prusa Research] - 3D printers from Josef Prusa.
 - [QIDI] - Affordable, fast, large scale printers.
-- Rat Rig
+- [Rat Rig]
 - [RepRap] - Free desktop 3D printer.
 - [Robo3d] - Robo R1, R2 and C2 3D printers.
 - [Sharebot] - Innovative, easy to use 3D printers for professional results.
-- SToN
+- [SToN]
 - [Tiertime]
 - [Trideo3D] - FDM 3D printers focusing on the experience in 3 sizes.
 - [Ultimaker]
@@ -67,9 +67,12 @@ A curated list of awesome 3D printing resources.
 - [Wanhao]
 
 [3D Systems]: https://www.3dsystems.com
+[Annex Engineering]: https://github.com/Annex-Engineering
+[Artillery]: https://www.artillery3d.com/
 [Craftbot]: https://craftbot.com
 [Bambu Lab]: https://bambulab.com/en
 [Dremel]: https://www.dremel.com/us/en/digilab
+[Elegoo]: https://www.elegoo.com/
 [Flashforge]: https://www.flashforge.com
 [Formlabs]: https://formlabs.com
 [HevORT]: https://hevort.com/
@@ -85,9 +88,11 @@ A curated list of awesome 3D printing resources.
 [Printcepts]: https://www.printcepts.com/
 [Prusa Research]: https://www.prusa3d.com
 [QIDI]: https://qidi3d.com
+[Rat Rig]: https://ratrig.com/
 [RepRap]: https://reprap.org
 [Robo3d]: https://robo3d.com
 [Sharebot]: https://www.sharebot.it/en/
+[SToN]: https://ston-3d.com/
 [Tiertime]: https://www.tiertime.com/
 [Trideo3D]: https://www.trideo3d.com/en
 [Ultimaker]: https://ultimaker.com
@@ -100,15 +105,15 @@ A curated list of awesome 3D printing resources.
 - [AutoCAD] - 2D and 3D CAD design software. (commercial)
 - [Autodesk Fusion 360] - 3D CAD, CAM, and CAE tool for product design
     and manufacturing. (free for personal / non-commercial use)
-- Autodesk Inventor
+- [Autodesk Inventor]
 - [Blender] - 3D modeling and sculpting app. (open source)
 - [build123d] - 3D CAD design software for python programmers. (open source)
 - [FreeCAD]
 - [OpenSCAD]
-- Onshape
-- Plasticity
+- [Onshape]
+- [Plasticity]
 - [Rhinoceros 3D] - CAD application software. (commercial)
-- Shapr3D
+- [Shapr3D]
 - [Solidworks] - 3D CAD design software. (commercial)
 - [SolveSpace] - Minimalist CAD software. (open source)
 - [Tinkercad] - Browser based free app for 3D design, electronics, and coding.
@@ -116,11 +121,15 @@ A curated list of awesome 3D printing resources.
 
 [AutoCAD]: https://www.autodesk.com/products/autocad/overview
 [Autodesk Fusion 360]: https://www.autodesk.com/products/fusion-360/personal
+[Autodesk Inventor]: https://www.autodesk.com/products/inventor/
 [Blender]: https://www.blender.org/
 [build123d]: https://github.com/gumyr/build123d
 [FreeCAD]: https://www.freecad.org/
+[Onshape]: https://www.onshape.com/
 [OpenSCAD]: https://openscad.org
+[Plasticity]: https://www.plasticity.xyz/
 [Rhinoceros 3D]: https://www.rhino3d.com
+[Shapr3D]: https://www.shapr3d.com/
 [Solidworks]: https://www.solidworks.com/
 [SolveSpace]: https://solvespace.com/index.pl
 [Tinkercad]: https://www.tinkercad.com

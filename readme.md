@@ -33,17 +33,20 @@ A curated list of awesome 3D printing resources.
 - [3D Systems] - 3D printers, print materials, on-demand parts services
     and digital design tools.
 - [Annex Engineering]
+- [Anycubic]
 - [Artillery]
 - [Bambu Lab]
 - [Craftbot]
+- [Co Print]
 - [Creality]
 - [Dremel] - 3D printers and laser cutters.
 - [Elegoo]
 - [Flashforge]
-- Flsun
+- [Flsun]
 - [Formlabs]
 - [HevORT] - Advanced DIY 3D Printer.
 - [innovatiQ]
+- [Infimech]
 - [Kentstrapper]
 - [Lulzbot] - Open hardware 3D printers and accessories.
 - [Lumi Industries]
@@ -57,26 +60,33 @@ A curated list of awesome 3D printing resources.
 - [QIDI] - Affordable, fast, large scale printers.
 - [Rat Rig]
 - [RepRap] - Free desktop 3D printer.
+- [RoloHaun 3D]
 - [Robo3d] - Robo R1, R2 and C2 3D printers.
 - [Sharebot] - Innovative, easy to use 3D printers for professional results.
 - [SToN]
 - [Tiertime]
+- [Tronxy]
 - [Trideo3D] - FDM 3D printers focusing on the experience in 3 sizes.
+- [TwoTrees]
 - [Ultimaker]
 - [VoronDesign] - Open source 3D printer designs.
 - [Wanhao]
 
 [3D Systems]: https://www.3dsystems.com
+[Anycubic]: https://www.anycubic.com/
 [Annex Engineering]: https://github.com/Annex-Engineering
 [Artillery]: https://www.artillery3d.com/
 [Craftbot]: https://craftbot.com
+[Co Print]: https://coprint3d.com/
 [Bambu Lab]: https://bambulab.com/en
 [Dremel]: https://www.dremel.com/us/en/digilab
 [Elegoo]: https://www.elegoo.com/
 [Flashforge]: https://www.flashforge.com
+[Flsun]: https://flsun3d.com/
 [Formlabs]: https://formlabs.com
 [HevORT]: https://hevort.com/
 [innovatiQ]: https://www.innovatiq.com/
+[Infimech]: https://infimech.com/
 [Kentstrapper]: https://kentstrapper.com
 [Lulzbot]: https://lulzbot.com/
 [Lumi Industries]: https://www.lumindustries.com/
@@ -90,11 +100,14 @@ A curated list of awesome 3D printing resources.
 [QIDI]: https://qidi3d.com
 [Rat Rig]: https://ratrig.com/
 [RepRap]: https://reprap.org
+[RoloHaun 3D]: https://www.rolohaun3d.ca/
 [Robo3d]: https://robo3d.com
 [Sharebot]: https://www.sharebot.it/en/
 [SToN]: https://ston-3d.com/
 [Tiertime]: https://www.tiertime.com/
+[Tronxy]: https://www.tronxy3d.com/
 [Trideo3D]: https://www.trideo3d.com/en
+[TwoTrees]: https://us.twotrees3d.com/
 [Ultimaker]: https://ultimaker.com
 [VoronDesign]: https://github.com/VoronDesign
 [Wanhao]: https://wanhao.store
@@ -265,9 +278,14 @@ Convert 3D models into G-Code.
 
 From 3D printer manufacturer:
 
-- [Thingiverse] - From Ultimaker.
-- [Printables] - From Prusa Research.
+- [Creality Cloud] - From Creality.
+- [MakerOnline] - From Anycubic.
+- [MakeItReal] - From Eufy Make (formerly Ankermake).
+- [MakerRoad] - From SUNLU.
 - [Makerworld] - From Bambu Lab.
+- [NexPrint] - From Elegoo.
+- [Printables] - From Prusa Research.
+- [Thingiverse] - From Ultimaker.
 
 Independent:
 
@@ -298,12 +316,17 @@ Self-Hostable:
 [3D Via]: https://www.3ds.com/products/3dvia
 [Astroprint]: https://www.astroprint.com/
 [CGtrader]: https://www.cgtrader.com/
+[Creality Cloud]: https://www.crealitycloud.com/
 [Cults]: https://cults3d.com
 [Free3D]: https://free3d.com/
 [GrabCAD]: https://grabcad.com
+[MakerOnline]: https://www.makeronline.com/
+[MakeItReal]: https://makeitreal.eufymake.com/
+[MakerRoad]: https://www.makeroad.com/
 [Makerworld]: https://makerworld.com/en
 [Manyfold]: https://github.com/manyfold3d/manyfold
 [MyMiniFactory]: https://www.myminifactory.com/
+[NexPrint]: https://www.nexprint.com/
 [Pinshape]: https://pinshape.com
 [PrintPal]: https://printpal.io
 [Printables]: https://www.printables.com
@@ -393,17 +416,20 @@ Self-Hostable:
 
 - [Creality]
 - [Elegoo]
-- [eSun]
 - [Hatchbox 3D] - High-accuracy affordable filament, includes PLA, PLA PRO, ABS, PETG, TPU, carbon fiber, wood, glow-in-the-dark, and color changing with multiple surface finishes.
 - [Micro Center Filaments & Resins]
 - [Protopasta]
+- [SUNLU]
+- [eSun]
 
 [Creality]: https://www.creality.com/products/creality-filament-resin
 [Elegoo]: https://us.elegoo.com/collections/filaments
-[eSun]: https://www.esun3d.com/filaments/
+
 [Hatchbox 3D]: https://www.hatchbox3d.com/
 [Micro Center Filaments & Resins]: https://www.microcenter.com/category/4294866996/filaments-and-resins
 [Protopasta]: https://proto-pasta.com/
+[SUNLU]: https://store.sunlu.com/
+[eSun]: https://www.esun3d.com/filaments/
 
 
 ## Related

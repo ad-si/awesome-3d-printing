@@ -40,6 +40,7 @@ A curated list of awesome 3D printing resources.
 - [Dremel] - 3D printers and laser cutters.
 - Elegoo
 - [Flashforge]
+- Flsun
 - [Formlabs]
 - [HevORT] - Advanced DIY 3D Printer.
 - [innovatiQ]

@@ -389,5 +389,7 @@ Self-Hostable:
 ## Related
 
 - [Awesome-Extruders] - Curated list of 3D printable extruder designs.
+- [PiSpot Watch] - Raspberry Pi wristwatch with 3D-printable case.
 
 [Awesome-Extruders]: https://github.com/SartorialGrunt0/Awesome-Extruders
+[PiSpot Watch]: https://github.com/GeiserX/PiSpot-Watch

@@ -306,6 +306,7 @@ Self-Hostable:
 - [gcode.ws] - Gcode analyzer.
 - [HelloTriangle] - Cloud-based 3D modeling using Python.
 - [OctoEverywhere] - Remotely monitor your OctoPrint.
+- [Polyvia3D] - Browser-based 3D file converter, viewer, and repair tool supporting OBJ, STL, GLB, PLY, and 3MF. Runs locally via WebAssembly.
 - [Vectary] - Browser-based 3D modeling.
 
 [3D Box Generator]: https://github.com/javisperez/box-stl-generator
@@ -315,6 +316,7 @@ Self-Hostable:
 [gcode.ws]: https://gcode.ws
 [HelloTriangle]: https://www.hellotriangle.io/
 [OctoEverywhere]: https://octoeverywhere.com
+[Polyvia3D]: https://polyvia3d.com
 [Vectary]: https://www.vectary.com/
 
 

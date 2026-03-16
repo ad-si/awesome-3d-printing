@@ -260,6 +260,7 @@ Independent:
 - [Cults] - Find, share and sell 3D print files.
 - [Free3D] - Free and premium 3D models.
 - [GrabCAD]
+- [MakerRepo] - Git-based platform to share and collaborate on parametric CAD models.
 - [MyMiniFactory] - 3D print files for tabletop gaming, toys, gadgets.
 - [Pinshape] - Find, share and sell 3D print files.
 - [PrintPal] - Model-sharing + marketplace + AI tool + manufacturing platform.
@@ -284,6 +285,7 @@ Self-Hostable:
 [Free3D]: https://free3d.com/
 [GrabCAD]: https://grabcad.com
 [Makerworld]: https://makerworld.com/en
+[MakerRepo]: https://makerrepo.com
 [Manyfold]: https://github.com/manyfold3d/manyfold
 [MyMiniFactory]: https://www.myminifactory.com/
 [Pinshape]: https://pinshape.com

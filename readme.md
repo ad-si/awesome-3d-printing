@@ -121,6 +121,7 @@ A curated list of awesome 3D printing resources.
 - [Autodesk Inventor]
 - [Blender] - 3D modeling and sculpting app. (open source)
 - [build123d] - 3D CAD design software for python programmers. (open source)
+- [DeclaraCAD] - 3D CAD tool using Python. (open source)
 - [FreeCAD]
 - [OpenSCAD]
 - [Onshape]
@@ -137,6 +138,7 @@ A curated list of awesome 3D printing resources.
 [Autodesk Inventor]: https://www.autodesk.com/products/inventor/
 [Blender]: https://www.blender.org/
 [build123d]: https://github.com/gumyr/build123d
+[DeclaraCAD]: https://declaracad.com
 [FreeCAD]: https://www.freecad.org/
 [Onshape]: https://www.onshape.com/
 [OpenSCAD]: https://openscad.org

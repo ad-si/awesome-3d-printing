@@ -331,6 +331,7 @@ Self-Hostable:
 - [Shapeways]
 - [Vikings] - 3D printing and fulfillment on demand.
 - [DIVO3D] - Washington State 3D printing, 3D design and 3D Scanning with local pickup and national shipping.
+- [Upside Parts] - Greater Boston 3D printing service offering FDM, SLA and SLS with nationwide shipping.
 
 [3D Hubs]: https://www.hubs.com/
 [Beamler]: https://www.beamler.com/
@@ -342,6 +343,7 @@ Self-Hostable:
 [Shapeways]: https://shapeways.com
 [Vikings]: https://3dvikings.com/
 [DIVO3D]: https://divo3d.com
+[Upside Parts]: https://www.upsideparts.com/3d-printing
 
 
 ## Marketplaces

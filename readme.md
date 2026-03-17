@@ -448,5 +448,7 @@ Self-Hostable:
 ## Related
 
 - [Awesome-Extruders] - Curated list of 3D printable extruder designs.
+- [PiSpot Show] - Raspberry Pi kiosk display with 3D-printable enclosure.
 
 [Awesome-Extruders]: https://github.com/SartorialGrunt0/Awesome-Extruders
+[PiSpot Show]: https://github.com/GeiserX/PiSpot-Show

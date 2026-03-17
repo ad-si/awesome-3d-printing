@@ -351,6 +351,7 @@ Self-Hostable:
 - [3D Box Generator] - Webapp to generate STL files for boxes of custom size.
 - [BotQueue] - Control your 3D printers over the internet.
 - [Clara.io] - Cloud-based 3D modeling, animation and rendering.
+- [FilamentProfilesHub](https://filamentprofileshub.com) - Database of community-verified print settings (nozzle temp, bed temp, speed, retraction) for any printer + filament combination.
 - [Filameter] - Filament Inventory Management.
 - [gcode.ws] - Gcode analyzer.
 - [HelloTriangle] - Cloud-based 3D modeling using Python.
@@ -358,6 +359,7 @@ Self-Hostable:
 - [Polyvia3D] - Browser-based 3D file converter, viewer, and repair tool supporting OBJ, STL, GLB, PLY, and 3MF. Runs locally via WebAssembly.
 - [Vectary] - Browser-based 3D modeling.
 - [Vectiler](https://www.halfmaps.io/3d-map-exporter) - Online tool to generate 3D printable map and terrain models from real-world geographic data.
+  
 
 [3D Box Generator]: https://github.com/javisperez/box-stl-generator
 [BotQueue]: https://github.com/Hoektronics/BotQueue

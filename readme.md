@@ -353,6 +353,7 @@ Self-Hostable:
 - [Clara.io] - Cloud-based 3D modeling, animation and rendering.
 - [FilamentProfilesHub](https://filamentprofileshub.com) - Database of community-verified print settings (nozzle temp, bed temp, speed, retraction) for any printer + filament combination.
 - [Filameter] - Filament Inventory Management.
+- [Filwiz](https://filwiz.com/) - AI-powered filament profile generator from TDS, multi-slicer export, inventory tracking, and print troubleshooting.
 - [gcode.ws] - Gcode analyzer.
 - [HelloTriangle] - Cloud-based 3D modeling using Python.
 - [OctoEverywhere] - Remotely monitor your OctoPrint.

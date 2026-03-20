@@ -390,7 +390,7 @@ Self-Hostable:
 [3D Hubs]: https://www.hubs.com/
 [Beamler]: https://www.beamler.com/
 [Craftcloud]: https://craftcloud3d.com/
-[Jiga]: https://jiga.io
+<!-- [Jiga]: https://jiga.io -->
 [Murtfeldt Additive Solutions]: https://murtfeldt-as.de
 [Rapidobject]: https://www.rapidobject.com/en/
 [Scultpeo]: https://www.sculpteo.com/en/

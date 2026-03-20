@@ -353,7 +353,7 @@ Self-Hostable:
 - [Clara.io] - Cloud-based 3D modeling, animation and rendering.
 - [FilamentProfilesHub](https://filamentprofileshub.com) - Database of community-verified print settings (nozzle temp, bed temp, speed, retraction) for any printer + filament combination.
 - [Filameter] - Filament Inventory Management.
-- [Filwiz](https://filwiz.com/) - AI-powered filament profile generator from TDS, multi-slicer export, inventory tracking, and print troubleshooting.
+- [Filwiz] - AI-powered filament profile generator from TDS, multi-slicer export, inventory tracking, and print troubleshooting.
 - [gcode.ws] - Gcode analyzer.
 - [HelloTriangle] - Cloud-based 3D modeling using Python.
 - [OctoEverywhere] - Remotely monitor your OctoPrint.
@@ -366,6 +366,7 @@ Self-Hostable:
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 [Clara.io]: https://clara.io
 [Filameter]: https://filameter.com
+[Filwiz]: https://filwiz.com/
 [gcode.ws]: https://gcode.ws
 [HelloTriangle]: https://www.hellotriangle.io/
 [OctoEverywhere]: https://octoeverywhere.com
@@ -378,6 +379,7 @@ Self-Hostable:
 - [3D Hubs]
 - [Beamler] - Global industrial 3D printer network.
 - [Craftcloud] - Streamlined 3D Printing Service.
+- [Jiga] - Manufacturing as a service with known machine shops.
 - [Murtfeldt Additive Solutions] - Industrical 3D printing service.
 - [Rapidobject] - 3D printing solution provider.
 - [Scultpeo] - Online 3D printing service.
@@ -389,6 +391,7 @@ Self-Hostable:
 [3D Hubs]: https://www.hubs.com/
 [Beamler]: https://www.beamler.com/
 [Craftcloud]: https://craftcloud3d.com/
+[Jiga]: https://jiga.io
 [Murtfeldt Additive Solutions]: https://murtfeldt-as.de
 [Rapidobject]: https://www.rapidobject.com/en/
 [Scultpeo]: https://www.sculpteo.com/en/

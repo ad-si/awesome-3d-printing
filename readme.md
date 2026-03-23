@@ -152,14 +152,14 @@ A curated list of awesome 3D printing resources.
 
 ## Control Software
 
-- [Kiln] - MCP server for AI agents to control 3D printers. Supports OctoPrint, Moonraker, Bambu Lab, Prusa Link, and Elegoo.
 - [Bambuddy] - Self-hosted print management tool for Bambu Lab printers with real-time monitoring, print archiving, scheduling, and notifications.
+- [Kiln] - MCP server for AI agents to control 3D printers. Supports OctoPrint, Moonraker, Bambu Lab, Prusa Link, and Elegoo.
 - [OctoPrint] - Web interface for 3D printer.
 - [PrintRun] - Pure Python 3d printing host software.
 - [Repetier] - Place, slice, preview and print.
 
-[Kiln]: https://github.com/codeofaxel/Kiln
 [Bambuddy]: https://bambuddy.cool
+[Kiln]: https://github.com/codeofaxel/Kiln
 [OctoPrint]: https://octoprint.org
 [PrintRun]: https://github.com/kliment/Printrun
 [Repetier]: https://www.repetier.com/

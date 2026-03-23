@@ -38,6 +38,7 @@ jobs:
             --accept 403,429
             --exclude 'https://www\.autodesk\.com'
             --exclude 'https://www\.igo3d\.com'
+            --exclude 'https://www\.solidworks\.com'
             --verbose
             --no-progress './**/*.md' './**/*.html' './**/*.rst'
 

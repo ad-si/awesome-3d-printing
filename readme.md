@@ -123,7 +123,7 @@ A curated list of awesome 3D printing resources.
 - [build123d] - 3D CAD design software for python programmers. (open source)
 - [DeclaraCAD] - 3D CAD tool using Python. (open source)
 - [FreeCAD]
-- [OpenSCAD]
+- [OpenSCAD] - 3D CAD tool that describes the 3D model from a script file (open source)
 - [Onshape]
 - [Plasticity]
 - [Rhinoceros 3D] - CAD application software. (commercial)

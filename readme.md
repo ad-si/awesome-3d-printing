@@ -2,6 +2,7 @@
 
 A curated list of awesome 3D printing resources.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for 3D printing workflow orchestration, automated manufacturing management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 <!-- toc -->

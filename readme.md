@@ -157,6 +157,7 @@ A curated list of awesome 3D printing resources.
 - [OctoPrint] - Web interface for 3D printer.
 - [PrintRun] - Pure Python 3d printing host software.
 - [Repetier] - Place, slice, preview and print.
+- [SimplyPrint](Cloud-based platform for remote monitoring, management, and automation of 3D printers.) - Cloud-based platform for remote monitoring, management, and automation of 3D printers.
 
 [Bambuddy]: https://bambuddy.cool
 [Kiln]: https://github.com/codeofaxel/Kiln
@@ -362,6 +363,7 @@ Self-Hostable:
 - [Polyvia3D] - Browser-based 3D file converter, viewer, and repair tool supporting OBJ, STL, GLB, PLY, and 3MF. Runs locally via WebAssembly.
 - [Vectary] - Browser-based 3D modeling.
 - [Vectiler](https://www.halfmaps.io/3d-map-exporter) - Online tool to generate 3D printable map and terrain models from real-world geographic data.
+- [Open Filament Database](https://github.com/OpenFilamentCollective/open-filament-database) - Open, community-driven database of filament materials, colors, and print settings.
   
 
 [3D Box Generator]: https://github.com/javisperez/box-stl-generator

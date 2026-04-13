@@ -157,12 +157,14 @@ A curated list of awesome 3D printing resources.
 - [OctoPrint] - Web interface for 3D printer.
 - [PrintRun] - Pure Python 3d printing host software.
 - [Repetier] - Place, slice, preview and print.
+- [SimplyPrint] - Cloud-based platform for remote monitoring, management, and automation of 3D printers.
 
 [Bambuddy]: https://bambuddy.cool
 [Kiln]: https://github.com/codeofaxel/Kiln
 [OctoPrint]: https://octoprint.org
 [PrintRun]: https://github.com/kliment/Printrun
 [Repetier]: https://www.repetier.com/
+[SimplyPrint]: https://simplyprint.io/
 
 
 ## AMS / Filament Changer

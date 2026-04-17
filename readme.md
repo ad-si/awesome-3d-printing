@@ -364,7 +364,7 @@ Self-Hostable:
 - [Polyvia3D] - Browser-based 3D file converter, viewer, and repair tool supporting OBJ, STL, GLB, PLY, and 3MF. Runs locally via WebAssembly.
 - [Vectary] - Browser-based 3D modeling.
 - [Vectiler](https://www.halfmaps.io/3d-map-exporter) - Online tool to generate 3D printable map and terrain models from real-world geographic data.
-  
+- [Open Filament Database] - Open, community-driven database of filament materials, colors, and print settings.
 
 [3D Box Generator]: https://github.com/javisperez/box-stl-generator
 [BotQueue]: https://github.com/Hoektronics/BotQueue
@@ -376,6 +376,7 @@ Self-Hostable:
 [OctoEverywhere]: https://octoeverywhere.com
 [Polyvia3D]: https://polyvia3d.com
 [Vectary]: https://www.vectary.com/
+[Open Filament Database]: https://github.com/OpenFilamentCollective/open-filament-database
 
 
 ## On Demand 3D Printing Services

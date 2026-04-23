@@ -376,11 +376,11 @@ Self-Hostable:
 [gcode.ws]: https://gcode.ws
 [HelloTriangle]: https://www.hellotriangle.io
 [OctoEverywhere]: https://octoeverywhere.com
+[Open Filament Database]: https://github.com/OpenFilamentCollective/open-filament-database
 [Polyvia3D]: https://polyvia3d.com
+[PROLED3D]: https://proled3d.com
 [Vectary]: https://www.vectary.com
 [Vectiler]: https://www.halfmaps.io/3d-map-exporter
-[Open Filament Database]: https://github.com/OpenFilamentCollective/open-filament-database
-[PROLED3D]: https://proled3d.com
 
 ## On Demand 3D Printing Services
 

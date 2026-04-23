@@ -370,16 +370,16 @@ Self-Hostable:
 [3D Box Generator]: https://github.com/javisperez/box-stl-generator
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 [Clara.io]: https://clara.io
+[FilamentProfilesHub]: https://filamentprofileshub.com
 [Filameter]: https://filameter.com
 [Filwiz]: https://filwiz.com
 [gcode.ws]: https://gcode.ws
 [HelloTriangle]: https://www.hellotriangle.io
 [OctoEverywhere]: https://octoeverywhere.com
 [Polyvia3D]: https://polyvia3d.com
-[Vectary]: https://www.vectary.com/
-[Open Filament Database]: https://github.com/OpenFilamentCollective/open-filament-database
-[FilamentProfilesHub]: https://filamentprofileshub.com
+[Vectary]: https://www.vectary.com
 [Vectiler]: https://www.halfmaps.io/3d-map-exporter
+[Open Filament Database]: https://github.com/OpenFilamentCollective/open-filament-database
 [PROLED3D]: https://proled3d.com
 
 ## On Demand 3D Printing Services

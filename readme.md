@@ -355,7 +355,7 @@ Self-Hostable:
 - [3D Box Generator] - Webapp to generate STL files for boxes of custom size.
 - [BotQueue] - Control your 3D printers over the internet.
 - [Clara.io] - Cloud-based 3D modeling, animation and rendering.
-- [FilamentProfilesHub](https://filamentprofileshub.com) - Database of community-verified print settings (nozzle temp, bed temp, speed, retraction) for any printer + filament combination.
+- [FilamentProfilesHub] - Database of community-verified print settings (nozzle temp, bed temp, speed, retraction) for any printer + filament combination.
 - [Filameter] - Filament Inventory Management.
 - [Filwiz] - AI-powered filament profile generator from TDS, multi-slicer export, inventory tracking, and print troubleshooting.
 - [gcode.ws] - Gcode analyzer.
@@ -363,7 +363,7 @@ Self-Hostable:
 - [OctoEverywhere] - Remotely monitor your OctoPrint.
 - [Polyvia3D] - Browser-based 3D file converter, viewer, and repair tool supporting OBJ, STL, GLB, PLY, and 3MF. Runs locally via WebAssembly.
 - [Vectary] - Browser-based 3D modeling.
-- [Vectiler](https://www.halfmaps.io/3d-map-exporter) - Online tool to generate 3D printable map and terrain models from real-world geographic data.
+- [Vectiler] - Online tool to generate 3D printable map and terrain models from real-world geographic data.
 - [Open Filament Database] - Open, community-driven database of filament materials, colors, and print settings.
 - [PROLED3D] - Generate manufacturable LED channel letter parts from SVG (STL + DXF) for real fabrication.
 
@@ -378,6 +378,8 @@ Self-Hostable:
 [Polyvia3D]: https://polyvia3d.com
 [Vectary]: https://www.vectary.com/
 [Open Filament Database]: https://github.com/OpenFilamentCollective/open-filament-database
+[FilamentProfilesHub]: https://filamentprofileshub.com
+[Vectiler]: https://www.halfmaps.io/3d-map-exporter
 [PROLED3D]: https://proled3d.com
 
 ## On Demand 3D Printing Services

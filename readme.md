@@ -371,9 +371,9 @@ Self-Hostable:
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 [Clara.io]: https://clara.io
 [Filameter]: https://filameter.com
-[Filwiz]: https://filwiz.com/
+[Filwiz]: https://filwiz.com
 [gcode.ws]: https://gcode.ws
-[HelloTriangle]: https://www.hellotriangle.io/
+[HelloTriangle]: https://www.hellotriangle.io
 [OctoEverywhere]: https://octoeverywhere.com
 [Polyvia3D]: https://polyvia3d.com
 [Vectary]: https://www.vectary.com/

@@ -339,6 +339,7 @@ Self-Hostable:
 [NexPrint]: https://nexprint.com/
 [Pinshape]: https://pinshape.com
 [PrintPal]: https://printpal.io/explore
+[Printables]: https://www.printables.com
 [Redpah]: https://redpah.com
 [Sculpteo]: https://www.sculpteo.com/en/
 [Shapeways]: https://www.shapeways.com

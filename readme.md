@@ -90,7 +90,7 @@ A curated list of awesome 3D printing resources.
 [Infimech]: https://infimech.com/
 [Kentstrapper]: https://kentstrapper.com
 [Lulzbot]: https://lulzbot.com/
-[Lumi Industries]: https://www.lumindustries.com/
+[Lumi Industries]: https://3dsolutions.store/
 [MakerBot]: https://www.makerbot.com/
 [Makergear]: https://makergear.com/
 [Monoprice]: https://www.monoprice.com/pages/3d_printers
@@ -108,7 +108,7 @@ A curated list of awesome 3D printing resources.
 [Tiertime]: https://www.tiertime.com/
 [Tronxy]: https://www.tronxy3d.com/
 [Trideo3D]: https://www.trideo3d.com/en
-[TwoTrees]: https://us.twotrees3d.com/
+[TwoTrees]: https://twotrees3d.com/
 [Ultimaker]: https://ultimaker.com
 [VoronDesign]: https://github.com/VoronDesign
 [Wanhao]: https://wanhao.store
@@ -141,7 +141,7 @@ A curated list of awesome 3D printing resources.
 [build123d]: https://github.com/gumyr/build123d
 [DeclaraCAD]: https://declaracad.com
 [FreeCAD]: https://www.freecad.org/
-[Onshape]: https://www.onshape.com/
+[Onshape]: https://www.onshape.com/en/
 [OpenSCAD]: https://openscad.org
 [Plasticity]: https://www.plasticity.xyz/
 [Rhinoceros 3D]: https://www.rhino3d.com
@@ -170,14 +170,12 @@ A curated list of awesome 3D printing resources.
 
 ## AMS / Filament Changer
 
-- [3DChameleon] - Multi-color filament changer for single extruder 3D printers.
 - [AMS] - Bambu Lab Automatic Material System for multi-color printing.
 - [BoxTurtle] - Open source multi-color filament system.
 - [CFS] - Creality Filament System for multi-color printing.
 - [EnragedRabbitProject] - Multi-color addon for Voron 3D printers.
 
-[3DChameleon]: https://www.3dchameleon.com/
-[AMS]: https://us.store.bambulab.com/products/ams-multicolor-printing
+[AMS]: https://bambulab.com/en/ams
 [BoxTurtle]: https://github.com/ArmoredTurtle/BoxTurtle
 [CFS]: https://store.creality.com/products/cfs-creality-filament-system
 [EnragedRabbitProject]: https://github.com/EtteGit/EnragedRabbitProject
@@ -270,8 +268,8 @@ Convert 3D models into G-Code.
 [Kiri:Moto]: https://grid.space/kiri/
 [KISSlicer]: https://www.kisslicer.com
 [MatterControl]: https://github.com/MatterHackers/MatterControl
-[OrcaSlicer]: https://github.com/SoftFever/OrcaSlicer
-[PrusaSlicer]: https://www.prusa3d.com/page/prusaslicer_424/
+[OrcaSlicer]: https://github.com/OrcaSlicer/OrcaSlicer
+[PrusaSlicer]: https://www.prusa3d.com/p/prusaslicer/
 [Slic3r]: https://slic3r.org
 [Strecs3D]: https://github.com/tomohiron907/Strecs3D
 
@@ -312,7 +310,6 @@ Independent:
 - [Pinshape] - Find, share and sell 3D print files.
 - [PrintPal] - Model-sharing + marketplace + AI tool + manufacturing platform.
 - [Redpah]
-- [Repables]
 - [Sculpteo]
 - [Shapeways]
 - [SketchFab]
@@ -332,19 +329,18 @@ Self-Hostable:
 [Cults]: https://cults3d.com
 [Free3D]: https://free3d.com/
 [GrabCAD]: https://grabcad.com
-[MakerOnline]: https://www.makeronline.com/
+[MakerOnline]: https://www.makeronline.com/en/
 [MakeItReal]: https://makeitreal.eufymake.com/
 [MakerRoad]: https://www.makeroad.com/
 [Makerworld]: https://makerworld.com/en
 [MakerRepo]: https://makerrepo.com
 [Manyfold]: https://github.com/manyfold3d/manyfold
 [MyMiniFactory]: https://www.myminifactory.com/
-[NexPrint]: https://www.nexprint.com/
+[NexPrint]: https://nexprint.com/
 [Pinshape]: https://pinshape.com
-[PrintPal]: https://printpal.io
+[PrintPal]: https://printpal.io/explore
 [Printables]: https://www.printables.com
 [Redpah]: https://redpah.com
-[Repables]: https://repables.com
 [Sculpteo]: https://www.sculpteo.com/en/
 [Shapeways]: https://www.shapeways.com
 [SketchFab]: https://sketchfab.com

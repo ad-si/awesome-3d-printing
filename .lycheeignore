@@ -1,0 +1,9 @@
+# Sites that block lychee's request (bot detection / TLS fingerprinting)
+# or have session-based redirect loops, but resolve fine in browsers.
+# Re-test occasionally to drop entries.
+^https://www\.autodesk\.com/
+^https://clara\.io/?$
+^https://mosaicmfg\.com/?$
+^https://www\.solidworks\.com/?$
+^https://nexprint\.com/?$
+^https://iopscience\.iop\.org/

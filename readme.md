@@ -339,7 +339,6 @@ Self-Hostable:
 [NexPrint]: https://nexprint.com/
 [Pinshape]: https://pinshape.com
 [PrintPal]: https://printpal.io/explore
-[Printables]: https://www.printables.com
 [Redpah]: https://redpah.com
 [Sculpteo]: https://www.sculpteo.com/en/
 [Shapeways]: https://www.shapeways.com
@@ -357,6 +356,7 @@ Self-Hostable:
 - [FilamentProfilesHub](https://filamentprofileshub.com) - Database of community-verified print settings (nozzle temp, bed temp, speed, retraction) for any printer + filament combination.
 - [Filameter] - Filament Inventory Management.
 - [Filwiz] - AI-powered filament profile generator from TDS, multi-slicer export, inventory tracking, and print troubleshooting.
+- [Free Universal Construction Kit] - A set of universal connectors to link together popular toy construction systems.
 - [gcode.ws] - Gcode analyzer.
 - [HelloTriangle] - Cloud-based 3D modeling using Python.
 - [OctoEverywhere] - Remotely monitor your OctoPrint.
@@ -370,6 +370,7 @@ Self-Hostable:
 [Clara.io]: https://clara.io
 [Filameter]: https://filameter.com
 [Filwiz]: https://filwiz.com/
+[Free Universal Construction Kit]: https://fffff.at/free-universal-construction-kit/
 [gcode.ws]: https://gcode.ws
 [HelloTriangle]: https://www.hellotriangle.io/
 [OctoEverywhere]: https://octoeverywhere.com

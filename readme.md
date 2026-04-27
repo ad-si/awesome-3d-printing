@@ -79,6 +79,7 @@ A curated list of awesome 3D printing resources.
 [Craftbot]: https://craftbot.com
 [Co Print]: https://coprint3d.com/
 [Bambu Lab]: https://bambulab.com/en
+[Creality]: https://www.creality.com/
 [Dremel]: https://www.dremel.com/us/en/digilab
 [Elegoo]: https://www.elegoo.com/
 [Flashforge]: https://www.flashforge.com
@@ -172,11 +173,13 @@ A curated list of awesome 3D printing resources.
 - [3DChameleon] - Multi-color filament changer for single extruder 3D printers.
 - [AMS] - Bambu Lab Automatic Material System for multi-color printing.
 - [BoxTurtle] - Open source multi-color filament system.
+- [CFS] - Creality Filament System for multi-color printing.
 - [EnragedRabbitProject] - Multi-color addon for Voron 3D printers.
 
 [3DChameleon]: https://www.3dchameleon.com/
 [AMS]: https://us.store.bambulab.com/products/ams-multicolor-printing
 [BoxTurtle]: https://github.com/ArmoredTurtle/BoxTurtle
+[CFS]: https://store.creality.com/products/cfs-creality-filament-system
 [EnragedRabbitProject]: https://github.com/EtteGit/EnragedRabbitProject
 
 

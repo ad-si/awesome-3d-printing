@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ad-si-awesome-3d-printing-badge.png)](https://mseep.ai/app/ad-si-awesome-3d-printing)
+
 # Awesome 3D Printing [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome 3D printing resources.

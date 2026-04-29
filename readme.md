@@ -366,6 +366,7 @@ Self-Hostable:
 - [Vectary] - Browser-based 3D modeling.
 - [Vectiler](https://www.halfmaps.io/3d-map-exporter) - Online tool to generate 3D printable map and terrain models from real-world geographic data.
 - [Open Filament Database] - Open, community-driven database of filament materials, colors, and print settings.
+- [Filament Price Tracker](https://filamentpricetracker.com) - Tracks 3D printing filament prices and price history.
 
 [3D Box Generator]: https://github.com/javisperez/box-stl-generator
 [BotQueue]: https://github.com/Hoektronics/BotQueue

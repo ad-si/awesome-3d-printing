@@ -105,7 +105,7 @@ A curated list of awesome 3D printing resources.
 [Robo3d]: https://robo3d.com
 [Sharebot]: https://www.sharebot.it/en/
 [SToN]: https://ston-3d.com/
-[Tiertime]: https://www.tiertime.com/
+[Tiertime]: https://shop.tiertime.com/
 [Tronxy]: https://www.tronxy3d.com/
 [Trideo3D]: https://www.trideo3d.com/en
 [TwoTrees]: https://twotrees3d.com/
@@ -175,7 +175,7 @@ A curated list of awesome 3D printing resources.
 - [CFS] - Creality Filament System for multi-color printing.
 - [EnragedRabbitProject] - Multi-color addon for Voron 3D printers.
 
-[AMS]: https://bambulab.com/en/ams
+[AMS]: https://store.bambulab.com/products/ams-multicolor-printing
 [BoxTurtle]: https://github.com/ArmoredTurtle/BoxTurtle
 [CFS]: https://store.creality.com/products/cfs-creality-filament-system
 [EnragedRabbitProject]: https://github.com/EtteGit/EnragedRabbitProject

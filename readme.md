@@ -140,7 +140,7 @@ A curated list of awesome 3D printing resources.
 [Blender]: https://www.blender.org/
 [build123d]: https://github.com/gumyr/build123d
 [DeclaraCAD]: https://declaracad.com
-[FreeCAD]: https://www.freecad.org/
+[FreeCAD]: https://github.com/FreeCAD/FreeCAD
 [Onshape]: https://www.onshape.com/en/
 [OpenSCAD]: https://openscad.org
 [Plasticity]: https://www.plasticity.xyz/

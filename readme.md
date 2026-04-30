@@ -79,6 +79,7 @@ A curated list of awesome 3D printing resources.
 [Craftbot]: https://craftbot.com
 [Co Print]: https://coprint3d.com/
 [Bambu Lab]: https://bambulab.com/en
+[Creality]: https://www.creality.com/
 [Dremel]: https://www.dremel.com/us/en/digilab
 [Elegoo]: https://www.elegoo.com/
 [Flashforge]: https://www.flashforge.com
@@ -89,7 +90,7 @@ A curated list of awesome 3D printing resources.
 [Infimech]: https://infimech.com/
 [Kentstrapper]: https://kentstrapper.com
 [Lulzbot]: https://lulzbot.com/
-[Lumi Industries]: https://www.lumindustries.com/
+[Lumi Industries]: https://3dsolutions.store/
 [MakerBot]: https://www.makerbot.com/
 [Makergear]: https://makergear.com/
 [Monoprice]: https://www.monoprice.com/pages/3d_printers
@@ -107,7 +108,7 @@ A curated list of awesome 3D printing resources.
 [Tiertime]: https://www.tiertime.com/
 [Tronxy]: https://www.tronxy3d.com/
 [Trideo3D]: https://www.trideo3d.com/en
-[TwoTrees]: https://us.twotrees3d.com/
+[TwoTrees]: https://twotrees3d.com/
 [Ultimaker]: https://ultimaker.com
 [VoronDesign]: https://github.com/VoronDesign
 [Wanhao]: https://wanhao.store
@@ -123,9 +124,9 @@ A curated list of awesome 3D printing resources.
 - [build123d] - 3D CAD design software for python programmers. (open source)
 - [DeclaraCAD] - 3D CAD tool using Python. (open source)
 - [FreeCAD]
-- [OpenSCAD] - 3D CAD tool that describes the 3D model with code (open source)
+- [OpenSCAD] - 3D CAD tool that describes the 3D model with code. (open source)
 - [Onshape]
-- [Plasticity]
+- [Plasticity] - Solid and surface modeling desktop app. (commercial)
 - [Rhinoceros 3D] - CAD application software. (commercial)
 - [Shapr3D]
 - [Solidworks] - 3D CAD design software. (commercial)
@@ -140,7 +141,7 @@ A curated list of awesome 3D printing resources.
 [build123d]: https://github.com/gumyr/build123d
 [DeclaraCAD]: https://declaracad.com
 [FreeCAD]: https://www.freecad.org/
-[Onshape]: https://www.onshape.com/
+[Onshape]: https://www.onshape.com/en/
 [OpenSCAD]: https://openscad.org
 [Plasticity]: https://www.plasticity.xyz/
 [Rhinoceros 3D]: https://www.rhino3d.com
@@ -169,14 +170,14 @@ A curated list of awesome 3D printing resources.
 
 ## AMS / Filament Changer
 
-- [3DChameleon] - Multi-color filament changer for single extruder 3D printers.
 - [AMS] - Bambu Lab Automatic Material System for multi-color printing.
 - [BoxTurtle] - Open source multi-color filament system.
+- [CFS] - Creality Filament System for multi-color printing.
 - [EnragedRabbitProject] - Multi-color addon for Voron 3D printers.
 
-[3DChameleon]: https://www.3dchameleon.com/
-[AMS]: https://us.store.bambulab.com/products/ams-multicolor-printing
+[AMS]: https://bambulab.com/en/ams
 [BoxTurtle]: https://github.com/ArmoredTurtle/BoxTurtle
+[CFS]: https://store.creality.com/products/cfs-creality-filament-system
 [EnragedRabbitProject]: https://github.com/EtteGit/EnragedRabbitProject
 
 
@@ -267,8 +268,8 @@ Convert 3D models into G-Code.
 [Kiri:Moto]: https://grid.space/kiri/
 [KISSlicer]: https://www.kisslicer.com
 [MatterControl]: https://github.com/MatterHackers/MatterControl
-[OrcaSlicer]: https://github.com/SoftFever/OrcaSlicer
-[PrusaSlicer]: https://www.prusa3d.com/page/prusaslicer_424/
+[OrcaSlicer]: https://github.com/OrcaSlicer/OrcaSlicer
+[PrusaSlicer]: https://www.prusa3d.com/p/prusaslicer/
 [Slic3r]: https://slic3r.org
 [Strecs3D]: https://github.com/tomohiron907/Strecs3D
 
@@ -309,7 +310,6 @@ Independent:
 - [Pinshape] - Find, share and sell 3D print files.
 - [PrintPal] - Model-sharing + marketplace + AI tool + manufacturing platform.
 - [Redpah]
-- [Repables]
 - [Sculpteo]
 - [Shapeways]
 - [SketchFab]
@@ -329,19 +329,18 @@ Self-Hostable:
 [Cults]: https://cults3d.com
 [Free3D]: https://free3d.com/
 [GrabCAD]: https://grabcad.com
-[MakerOnline]: https://www.makeronline.com/
+[MakerOnline]: https://www.makeronline.com/en/
 [MakeItReal]: https://makeitreal.eufymake.com/
 [MakerRoad]: https://www.makeroad.com/
 [Makerworld]: https://makerworld.com/en
 [MakerRepo]: https://makerrepo.com
 [Manyfold]: https://github.com/manyfold3d/manyfold
 [MyMiniFactory]: https://www.myminifactory.com/
-[NexPrint]: https://www.nexprint.com/
+[NexPrint]: https://nexprint.com/
 [Pinshape]: https://pinshape.com
-[PrintPal]: https://printpal.io
+[PrintPal]: https://printpal.io/explore
 [Printables]: https://www.printables.com
 [Redpah]: https://redpah.com
-[Repables]: https://repables.com
 [Sculpteo]: https://www.sculpteo.com/en/
 [Shapeways]: https://www.shapeways.com
 [SketchFab]: https://sketchfab.com
@@ -355,13 +354,16 @@ Self-Hostable:
 - [3D Box Generator] - Webapp to generate STL files for boxes of custom size.
 - [BotQueue] - Control your 3D printers over the internet.
 - [Clara.io] - Cloud-based 3D modeling, animation and rendering.
-- [FilamentProfilesHub] - Database of community-verified print settings (nozzle temp, bed temp, speed, retraction) for any printer + filament combination.
+- [Filament Price Tracker] - Tracks 3D printing filament prices and price history.
+- [FilamentProfilesHub] - Database of community-verified print settings for any printer + filament combination.
 - [Filameter] - Filament Inventory Management.
 - [Filwiz] - AI-powered filament profile generator from TDS, multi-slicer export, inventory tracking, and print troubleshooting.
+- [Free Universal Construction Kit] - A set of universal connectors to link together popular toy construction systems.
 - [gcode.ws] - Gcode analyzer.
 - [HelloTriangle] - Cloud-based 3D modeling using Python.
 - [OctoEverywhere] - Remotely monitor your OctoPrint.
 - [Polyvia3D] - Browser-based 3D file converter, viewer, and repair tool supporting OBJ, STL, GLB, PLY, and 3MF. Runs locally via WebAssembly.
+- [QRCode2STL] - Browser-based generator for 3D printable QR codes, Spotify codes, and text tags.
 - [Vectary] - Browser-based 3D modeling.
 - [Vectiler] - Online tool to generate 3D printable map and terrain models from real-world geographic data.
 - [Open Filament Database] - Open, community-driven database of filament materials, colors, and print settings.
@@ -370,17 +372,21 @@ Self-Hostable:
 [3D Box Generator]: https://github.com/javisperez/box-stl-generator
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 [Clara.io]: https://clara.io
+[Filament Price Tracker]: https://filamentpricetracker.com
 [FilamentProfilesHub]: https://filamentprofileshub.com
 [Filameter]: https://filameter.com
-[Filwiz]: https://filwiz.com
+[Filwiz]: https://filwiz.com/
+[Free Universal Construction Kit]: https://fffff.at/free-universal-construction-kit/
 [gcode.ws]: https://gcode.ws
 [HelloTriangle]: https://www.hellotriangle.io
 [OctoEverywhere]: https://octoeverywhere.com
 [Open Filament Database]: https://github.com/OpenFilamentCollective/open-filament-database
 [Polyvia3D]: https://polyvia3d.com
 [PROLED3D]: https://proled3d.com
-[Vectary]: https://www.vectary.com
+[QRCode2STL]: https://qrcode2stl.printer.tools
+[Vectary]: https://www.vectary.com/
 [Vectiler]: https://www.halfmaps.io/3d-map-exporter
+
 
 ## On Demand 3D Printing Services
 

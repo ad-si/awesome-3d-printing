@@ -354,7 +354,8 @@ Self-Hostable:
 - [3D Box Generator] - Webapp to generate STL files for boxes of custom size.
 - [BotQueue] - Control your 3D printers over the internet.
 - [Clara.io] - Cloud-based 3D modeling, animation and rendering.
-- [FilamentProfilesHub](https://filamentprofileshub.com) - Database of community-verified print settings (nozzle temp, bed temp, speed, retraction) for any printer + filament combination.
+- [Filament Price Tracker] - Tracks 3D printing filament prices and price history.
+- [FilamentProfilesHub] - Database of community-verified print settings for any printer + filament combination.
 - [Filameter] - Filament Inventory Management.
 - [Filwiz] - AI-powered filament profile generator from TDS, multi-slicer export, inventory tracking, and print troubleshooting.
 - [Free Universal Construction Kit] - A set of universal connectors to link together popular toy construction systems.
@@ -370,6 +371,8 @@ Self-Hostable:
 [3D Box Generator]: https://github.com/javisperez/box-stl-generator
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 [Clara.io]: https://clara.io
+[Filament Price Tracker]: https://filamentpricetracker.com
+[FilamentProfilesHub]: https://filamentprofileshub.com
 [Filameter]: https://filameter.com
 [Filwiz]: https://filwiz.com/
 [Free Universal Construction Kit]: https://fffff.at/free-universal-construction-kit/

@@ -365,8 +365,9 @@ Self-Hostable:
 - [Polyvia3D] - Browser-based 3D file converter, viewer, and repair tool supporting OBJ, STL, GLB, PLY, and 3MF. Runs locally via WebAssembly.
 - [QRCode2STL] - Browser-based generator for 3D printable QR codes, Spotify codes, and text tags.
 - [Vectary] - Browser-based 3D modeling.
-- [Vectiler](https://www.halfmaps.io/3d-map-exporter) - Online tool to generate 3D printable map and terrain models from real-world geographic data.
+- [Vectiler] - Online tool to generate 3D printable map and terrain models from real-world geographic data.
 - [Open Filament Database] - Open, community-driven database of filament materials, colors, and print settings.
+- [PROLED3D] - Generate manufacturable LED channel letter parts from SVG (STL + DXF) for real fabrication.
 
 [3D Box Generator]: https://github.com/javisperez/box-stl-generator
 [BotQueue]: https://github.com/Hoektronics/BotQueue
@@ -377,12 +378,14 @@ Self-Hostable:
 [Filwiz]: https://filwiz.com/
 [Free Universal Construction Kit]: https://fffff.at/free-universal-construction-kit/
 [gcode.ws]: https://gcode.ws
-[HelloTriangle]: https://www.hellotriangle.io/
+[HelloTriangle]: https://www.hellotriangle.io
 [OctoEverywhere]: https://octoeverywhere.com
+[Open Filament Database]: https://github.com/OpenFilamentCollective/open-filament-database
 [Polyvia3D]: https://polyvia3d.com
+[PROLED3D]: https://proled3d.com
 [QRCode2STL]: https://qrcode2stl.printer.tools
 [Vectary]: https://www.vectary.com/
-[Open Filament Database]: https://github.com/OpenFilamentCollective/open-filament-database
+[Vectiler]: https://www.halfmaps.io/3d-map-exporter
 
 
 ## On Demand 3D Printing Services

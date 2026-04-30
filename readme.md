@@ -105,7 +105,7 @@ A curated list of awesome 3D printing resources.
 [Robo3d]: https://robo3d.com
 [Sharebot]: https://www.sharebot.it/en/
 [SToN]: https://ston-3d.com/
-[Tiertime]: https://www.tiertime.com/
+[Tiertime]: https://shop.tiertime.com/
 [Tronxy]: https://www.tronxy3d.com/
 [Trideo3D]: https://www.trideo3d.com/en
 [TwoTrees]: https://twotrees3d.com/
@@ -140,7 +140,7 @@ A curated list of awesome 3D printing resources.
 [Blender]: https://www.blender.org/
 [build123d]: https://github.com/gumyr/build123d
 [DeclaraCAD]: https://declaracad.com
-[FreeCAD]: https://www.freecad.org/
+[FreeCAD]: https://github.com/FreeCAD/FreeCAD
 [Onshape]: https://www.onshape.com/en/
 [OpenSCAD]: https://openscad.org
 [Plasticity]: https://www.plasticity.xyz/
@@ -175,7 +175,7 @@ A curated list of awesome 3D printing resources.
 - [CFS] - Creality Filament System for multi-color printing.
 - [EnragedRabbitProject] - Multi-color addon for Voron 3D printers.
 
-[AMS]: https://bambulab.com/en/ams
+[AMS]: https://store.bambulab.com/products/ams-multicolor-printing
 [BoxTurtle]: https://github.com/ArmoredTurtle/BoxTurtle
 [CFS]: https://store.creality.com/products/cfs-creality-filament-system
 [EnragedRabbitProject]: https://github.com/EtteGit/EnragedRabbitProject
@@ -366,6 +366,8 @@ Self-Hostable:
 - [QRCode2STL] - Browser-based generator for 3D printable QR codes, Spotify codes, and text tags.
 - [Vectary] - Browser-based 3D modeling.
 - [Vectiler] - Online tool to generate 3D printable map and terrain models from real-world geographic data.
+- [ThreeDee AI 3D Generator] - Web-based AI tool to generate 3D models from text prompts or a single image.
+- [ThreeDee AI 3D Bust Maker] - Web-based AI tool to generate printable 3D bust models from a single portrait photo.
 - [Open Filament Database] - Open, community-driven database of filament materials, colors, and print settings.
 - [PROLED3D] - Generate manufacturable LED channel letter parts from SVG (STL + DXF) for real fabrication.
 
@@ -384,6 +386,8 @@ Self-Hostable:
 [Polyvia3D]: https://polyvia3d.com
 [PROLED3D]: https://proled3d.com
 [QRCode2STL]: https://qrcode2stl.printer.tools
+[ThreeDee AI 3D Bust Maker]: https://www.threedee.design/products/3d-bust-maker/
+[ThreeDee AI 3D Generator]: https://www.threedee.design/products/ai-3d-generator/
 [Vectary]: https://www.vectary.com/
 [Vectiler]: https://www.halfmaps.io/3d-map-exporter
 

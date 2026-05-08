@@ -360,6 +360,7 @@ Self-Hostable:
 - [Filwiz] - AI-powered filament profile generator from TDS, multi-slicer export, inventory tracking, and print troubleshooting.
 - [Free Universal Construction Kit] - A set of universal connectors to link together popular toy construction systems.
 - [gcode.ws] - Gcode analyzer.
+- [Gridfinity Layout Tool] - Browser-based tool to plan Gridfinity drawer layouts and export STL, STEP, and 3MF files for 3D printing.
 - [HelloTriangle] - Cloud-based 3D modeling using Python.
 - [OctoEverywhere] - Remotely monitor your OctoPrint.
 - [Polyvia3D] - Browser-based 3D file converter, viewer, and repair tool supporting OBJ, STL, GLB, PLY, and 3MF. Runs locally via WebAssembly.
@@ -378,6 +379,7 @@ Self-Hostable:
 [Filwiz]: https://filwiz.com/
 [Free Universal Construction Kit]: https://fffff.at/free-universal-construction-kit/
 [gcode.ws]: https://gcode.ws
+[Gridfinity Layout Tool]: https://gridfinitylayouttool.com
 [HelloTriangle]: https://www.hellotriangle.io
 [OctoEverywhere]: https://octoeverywhere.com
 [Open Filament Database]: https://github.com/OpenFilamentCollective/open-filament-database

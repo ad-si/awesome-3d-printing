@@ -105,7 +105,7 @@ A curated list of awesome 3D printing resources.
 [Robo3d]: https://robo3d.com
 [Sharebot]: https://www.sharebot.it/en/
 [SToN]: https://ston-3d.com/
-[Tiertime]: https://shop.tiertime.com/
+[Tiertime]: https://www.tiertime.com/
 [Tronxy]: https://www.tronxy3d.com/
 [Trideo3D]: https://www.trideo3d.com/en
 [TwoTrees]: https://twotrees3d.com/
@@ -140,7 +140,7 @@ A curated list of awesome 3D printing resources.
 [Blender]: https://www.blender.org/
 [build123d]: https://github.com/gumyr/build123d
 [DeclaraCAD]: https://declaracad.com
-[FreeCAD]: https://github.com/FreeCAD/FreeCAD
+[FreeCAD]: https://www.freecad.org/
 [Onshape]: https://www.onshape.com/en/
 [OpenSCAD]: https://openscad.org
 [Plasticity]: https://www.plasticity.xyz/

@@ -365,6 +365,7 @@ Self-Hostable:
 - [OctoEverywhere] - Remotely monitor your OctoPrint.
 - [Polyvia3D] - Browser-based 3D file converter, viewer, and repair tool supporting OBJ, STL, GLB, PLY, and 3MF. Runs locally via WebAssembly.
 - [QRCode2STL] - Browser-based generator for 3D printable QR codes, Spotify codes, and text tags.
+- [Ritn3D] - Convert a floor plan into a 3D printable house model.
 - [Vectary] - Browser-based 3D modeling.
 - [Vectiler] - Online tool to generate 3D printable map and terrain models from real-world geographic data.
 - [Open Filament Database] - Open, community-driven database of filament materials, colors, and print settings.
@@ -386,6 +387,7 @@ Self-Hostable:
 [Polyvia3D]: https://polyvia3d.com
 [PROLED3D]: https://proled3d.com
 [QRCode2STL]: https://qrcode2stl.printer.tools
+[Ritn3D]: https://www.ritn3d.com
 [Vectary]: https://www.vectary.com/
 [Vectiler]: https://www.halfmaps.io/3d-map-exporter
 

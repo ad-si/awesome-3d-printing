@@ -385,7 +385,7 @@ Self-Hostable:
 [OctoEverywhere]: https://octoeverywhere.com
 [Open Filament Database]: https://github.com/OpenFilamentCollective/open-filament-database
 [Polyvia3D]: https://polyvia3d.com
-[PNGtoSTL]: https://pngtostl.net/samples?utm_source=github_awesome_3d_printing&utm_medium=referral&utm_campaign=sample_gallery&utm_content=resource_list_pr
+[PNGtoSTL]: https://pngtostl.net
 [PROLED3D]: https://proled3d.com
 [QRCode2STL]: https://qrcode2stl.printer.tools
 [Vectary]: https://www.vectary.com/

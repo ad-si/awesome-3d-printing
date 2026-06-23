@@ -159,6 +159,7 @@ A curated list of awesome 3D printing resources.
 - [PrintRun] - Pure Python 3d printing host software.
 - [Repetier] - Place, slice, preview and print.
 - [SimplyPrint] - Cloud-based platform for remote monitoring, management, and automation of 3D printers.
+- [SpoolEase] - Filament manager with weight & location tracking, printer slot configuration, slicer integration, printer monitoring, and NFC-powered automation - running locally and cloud-free.
 
 [Bambuddy]: https://bambuddy.cool
 [Kiln]: https://github.com/codeofaxel/Kiln
@@ -166,6 +167,7 @@ A curated list of awesome 3D printing resources.
 [PrintRun]: https://github.com/kliment/Printrun
 [Repetier]: https://www.repetier.com/
 [SimplyPrint]: https://simplyprint.io/
+[SpoolEase]: https://www.spoolease.io
 
 
 ## AMS / Filament Changer

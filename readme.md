@@ -250,6 +250,7 @@ Open source if not labeled differently.
 
 
 ## Slicers
+- [MetaVision Text-to-CNC](https://github.com/adminmetavision-rgb/text-to-cnc-agent) - AI agent: text prompt → 3D model → G-code in 60s. MCP compatible, x402 micropayments.
 
 Convert 3D models into G-Code.
 

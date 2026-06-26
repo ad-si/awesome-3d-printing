@@ -374,6 +374,7 @@ Self-Hostable:
 - [Vectiler] - Online tool to generate 3D printable map and terrain models from real-world geographic data.
 - [Open Filament Database] - Open, community-driven database of filament materials, colors, and print settings.
 - [PROLED3D] - Generate manufacturable LED channel letter parts from SVG (STL + DXF) for real fabrication.
+- [3D Print Cost & Pricing Calculator] - Calculate the full per-print cost (filament, power, machine wear, failed prints, labor) and a suggested price. Free, runs in the browser.
 
 [3D Box Generator]: https://github.com/javisperez/box-stl-generator
 [BotQueue]: https://github.com/Hoektronics/BotQueue
@@ -392,6 +393,7 @@ Self-Hostable:
 [Polyvia3D]: https://polyvia3d.com
 [PNGtoSTL]: https://pngtostl.net
 [PROLED3D]: https://proled3d.com
+[3D Print Cost & Pricing Calculator]: https://dalil-tech.com/3d-print-cost-calculator
 [QRCode2STL]: https://qrcode2stl.printer.tools
 [Ritn3D]: https://www.ritn3d.com
 [Vectary]: https://www.vectary.com/

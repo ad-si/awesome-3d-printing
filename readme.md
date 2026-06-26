@@ -385,7 +385,7 @@ Self-Hostable:
 [Filwiz]: https://filwiz.com/
 [Free Universal Construction Kit]: https://fffff.at/free-universal-construction-kit/
 [gcode.ws]: https://gcode.ws
-[GCodex]: https://gcodex.tech
+[GCodex]: https://gcodex.tech/
 [Gridfinity Layout Tool]: https://gridfinitylayouttool.com
 [HelloTriangle]: https://www.hellotriangle.io
 [img2stl.art]: https://img2stl.art

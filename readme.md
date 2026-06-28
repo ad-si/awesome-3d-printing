@@ -356,6 +356,7 @@ Self-Hostable:
 - [3D Box Generator] - Webapp to generate STL files for boxes of custom size.
 - [BotQueue] - Control your 3D printers over the internet.
 - [Clara.io] - Cloud-based 3D modeling, animation and rendering.
+- [CovertItAll Filament Calculators] - Free in-browser filament cost, weight and length calculators. No signup.
 - [Filament Price Tracker] - Tracks 3D printing filament prices and price history.
 - [FilamentProfilesHub] - Database of community-verified print settings for any printer + filament combination.
 - [Filameter] - Filament Inventory Management.
@@ -378,6 +379,7 @@ Self-Hostable:
 [3D Box Generator]: https://github.com/javisperez/box-stl-generator
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 [Clara.io]: https://clara.io
+[CovertItAll Filament Calculators]: https://covertitall.com/converters/filament-cost-calculator.html
 [Filament Price Tracker]: https://filamentpricetracker.com
 [FilamentProfilesHub]: https://filamentprofileshub.com
 [Filameter]: https://filameter.com

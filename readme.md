@@ -363,6 +363,7 @@ Self-Hostable:
 - [Filwiz] - AI-powered filament profile generator from TDS, multi-slicer export, inventory tracking, and print troubleshooting.
 - [Free Universal Construction Kit] - A set of universal connectors to link together popular toy construction systems.
 - [gcode.ws] - Gcode analyzer.
+- [GCodex] - Free browser-based G-Code viewer, simulator and analyzer for CNC and 3D printing. No upload, no signup required.
 - [Gridfinity Layout Tool] - Browser-based tool to plan Gridfinity drawer layouts and export STL, STEP, and 3MF files for 3D printing.
 - [HelloTriangle] - Cloud-based 3D modeling using Python.
 - [img2stl.art] - AI-powered image to 3D printable STL converter. Upload a photo and get a ready-to-print STL file in seconds.
@@ -371,6 +372,7 @@ Self-Hostable:
 - [PNGtoSTL] - Browser-based image-to-STL workspace for reliefs, lithophanes, logo badges, and heightmap surfaces, with real downloadable STL examples.
 - [QRCode2STL] - Browser-based generator for 3D printable QR codes, Spotify codes, and text tags.
 - [Ritn3D] - Convert a floor plan into a 3D printable house model.
+- [SimplexGen] - Browser-based AI image-to-3D generator with a full mesh editing toolkit (simplify, smooth, repair, retopology, boolean, UV) and a 3D-print prep editor.
 - [Vectary] - Browser-based 3D modeling.
 - [Vectiler] - Online tool to generate 3D printable map and terrain models from real-world geographic data.
 - [Open Filament Database] - Open, community-driven database of filament materials, colors, and print settings.
@@ -386,6 +388,7 @@ Self-Hostable:
 [Filwiz]: https://filwiz.com/
 [Free Universal Construction Kit]: https://fffff.at/free-universal-construction-kit/
 [gcode.ws]: https://gcode.ws
+[GCodex]: https://gcodex.tech/
 [Gridfinity Layout Tool]: https://gridfinitylayouttool.com
 [HelloTriangle]: https://www.hellotriangle.io
 [img2stl.art]: https://img2stl.art
@@ -396,6 +399,7 @@ Self-Hostable:
 [PROLED3D]: https://proled3d.com
 [QRCode2STL]: https://qrcode2stl.printer.tools
 [Ritn3D]: https://www.ritn3d.com
+[SimplexGen]: https://simplexgen.com
 [Vectary]: https://www.vectary.com/
 [Vectiler]: https://www.halfmaps.io/3d-map-exporter
 

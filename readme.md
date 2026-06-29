@@ -354,6 +354,7 @@ Self-Hostable:
 ## Online Tools
 
 - [3D Box Generator] - Webapp to generate STL files for boxes of custom size.
+- [3D Print Cost & Pricing Calculator] - Calculate the full per-print cost (filament, power, wear, failures, labor) and a suggested price.
 - [BotQueue] - Control your 3D printers over the internet.
 - [Clara.io] - Cloud-based 3D modeling, animation and rendering.
 - [Filament Price Tracker] - Tracks 3D printing filament prices and price history.
@@ -374,9 +375,9 @@ Self-Hostable:
 - [Vectiler] - Online tool to generate 3D printable map and terrain models from real-world geographic data.
 - [Open Filament Database] - Open, community-driven database of filament materials, colors, and print settings.
 - [PROLED3D] - Generate manufacturable LED channel letter parts from SVG (STL + DXF) for real fabrication.
-- [3D Print Cost & Pricing Calculator] - Calculate the full per-print cost (filament, power, machine wear, failed prints, labor) and a suggested price. Free, runs in the browser.
 
 [3D Box Generator]: https://github.com/javisperez/box-stl-generator
+[3D Print Cost & Pricing Calculator]: https://dalil-tech.com/3d-print-cost-calculator
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 [Clara.io]: https://clara.io
 [Filament Price Tracker]: https://filamentpricetracker.com
@@ -393,7 +394,6 @@ Self-Hostable:
 [Polyvia3D]: https://polyvia3d.com
 [PNGtoSTL]: https://pngtostl.net
 [PROLED3D]: https://proled3d.com
-[3D Print Cost & Pricing Calculator]: https://dalil-tech.com/3d-print-cost-calculator
 [QRCode2STL]: https://qrcode2stl.printer.tools
 [Ritn3D]: https://www.ritn3d.com
 [Vectary]: https://www.vectary.com/

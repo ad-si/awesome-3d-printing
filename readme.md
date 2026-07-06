@@ -391,7 +391,7 @@ Self-Hostable:
 [Gridfinity Layout Tool]: https://gridfinitylayouttool.com
 [HelloTriangle]: https://www.hellotriangle.io
 [img2stl.art]: https://img2stl.art
-[MakerX Parametric Generator]: https://makerxdesigns.com/parametric-generator.html
+[MakerX Parametric Generator]: https://makerxdesigns.com/utilities/parametric-generator.html
 [OctoEverywhere]: https://octoeverywhere.com
 [Open Filament Database]: https://github.com/OpenFilamentCollective/open-filament-database
 [Polyvia3D]: https://polyvia3d.com

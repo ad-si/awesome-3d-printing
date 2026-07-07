@@ -45,7 +45,6 @@ A curated list of awesome 3D printing resources.
 - [Flsun]
 - [Formlabs]
 - [HevORT] - Advanced DIY 3D Printer.
-- [innovatiQ]
 - [Infimech]
 - [Kentstrapper]
 - [Lulzbot] - Open hardware 3D printers and accessories.
@@ -86,7 +85,6 @@ A curated list of awesome 3D printing resources.
 [Flsun]: https://flsun3d.com/
 [Formlabs]: https://formlabs.com
 [HevORT]: https://hevort.com/
-[innovatiQ]: https://www.innovatiq.com/
 [Infimech]: https://infimech.com/
 [Kentstrapper]: https://kentstrapper.com
 [Lulzbot]: https://lulzbot.com/
@@ -179,7 +177,7 @@ A curated list of awesome 3D printing resources.
 - [CFS] - Creality Filament System for multi-color printing.
 - [EnragedRabbitProject] - Multi-color addon for Voron 3D printers.
 
-[AMS]: https://bambulab.com/en/ams
+[AMS]: https://eu.store.bambulab.com/products/ams-multicolor-printing
 [BoxTurtle]: https://github.com/ArmoredTurtle/BoxTurtle
 [CFS]: https://store.creality.com/products/cfs-creality-filament-system
 [EnragedRabbitProject]: https://github.com/EtteGit/EnragedRabbitProject
@@ -370,7 +368,6 @@ Self-Hostable:
 - [img2stl.art] - AI-powered image to 3D printable STL converter. Upload a photo and get a ready-to-print STL file in seconds.
 - [OctoEverywhere] - Remotely monitor your OctoPrint.
 - [Polyvia3D] - Browser-based 3D file converter, viewer, and repair tool supporting OBJ, STL, GLB, PLY, and 3MF. Runs locally via WebAssembly.
-- [PNGtoSTL] - Browser-based image-to-STL workspace for reliefs, lithophanes, logo badges, and heightmap surfaces, with real downloadable STL examples.
 - [QRCode2STL] - Browser-based generator for 3D printable QR codes, Spotify codes, and text tags.
 - [Ritn3D] - Convert a floor plan into a 3D printable house model.
 - [SimplexGen] - Browser-based AI image-to-3D generator with a full mesh editing toolkit (simplify, smooth, repair, retopology, boolean, UV) and a 3D-print prep editor.
@@ -395,7 +392,6 @@ Self-Hostable:
 [OctoEverywhere]: https://octoeverywhere.com
 [Open Filament Database]: https://github.com/OpenFilamentCollective/open-filament-database
 [Polyvia3D]: https://polyvia3d.com
-[PNGtoSTL]: https://pngtostl.net
 [PROLED3D]: https://proled3d.com
 [QRCode2STL]: https://qrcode2stl.printer.tools
 [Ritn3D]: https://www.ritn3d.com

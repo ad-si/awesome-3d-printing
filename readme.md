@@ -361,6 +361,7 @@ Self-Hostable:
 - [Filameter] - Filament Inventory Management.
 - [Filwiz] - AI-powered filament profile generator from TDS, multi-slicer export, inventory tracking, and print troubleshooting.
 - [Free Universal Construction Kit] - A set of universal connectors to link together popular toy construction systems.
+- [G-code Cost & Time Analyzer] - Estimates filament used, print time, layer count, and total $ cost from a G-code file using your own material and electricity rates. Runs in-browser, no upload or signup.
 - [gcode.ws] - Gcode analyzer.
 - [GCodex] - Free browser-based G-Code viewer, simulator and analyzer for CNC and 3D printing. No upload, no signup required.
 - [Gridfinity Layout Tool] - Browser-based tool to plan Gridfinity drawer layouts and export STL, STEP, and 3MF files for 3D printing.
@@ -385,6 +386,7 @@ Self-Hostable:
 [Filameter]: https://filameter.com
 [Filwiz]: https://filwiz.com/
 [Free Universal Construction Kit]: https://fffff.at/free-universal-construction-kit/
+[G-code Cost & Time Analyzer]: https://stacksheriff.com/toolbox/gcode-cost-analyzer/
 [gcode.ws]: https://gcode.ws
 [GCodex]: https://gcodex.tech/
 [Gridfinity Layout Tool]: https://gridfinitylayouttool.com

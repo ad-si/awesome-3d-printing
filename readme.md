@@ -321,6 +321,7 @@ Independent:
 Self-Hostable:
 
 - [Manyfold]
+- [PrintStash] - Self-hosted storage and organization system for 3D printing files with automatic tagging, search, and slicer integration.
 
 
 [3D Kitbash]: https://3dkitbash.com
@@ -337,6 +338,7 @@ Self-Hostable:
 [Makerworld]: https://makerworld.com/en
 [MakerRepo]: https://makerrepo.com
 [Manyfold]: https://github.com/manyfold3d/manyfold
+[PrintStash]: https://github.com/xiao-villamor/PrintStash
 [MyMiniFactory]: https://www.myminifactory.com/
 [NexPrint]: https://nexprint.com/
 [Pinshape]: https://pinshape.com

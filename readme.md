@@ -123,6 +123,8 @@ A curated list of awesome 3D printing resources.
 - [Blender] - 3D modeling and sculpting app. (open source)
 - [build123d] - 3D CAD design software for python programmers. (open source)
 - [DeclaraCAD] - 3D CAD tool using Python. (open source)
+- [FluidCAD] - Browser based CAD tool that describes the 3D model
+    with JavaScript. (open source)
 - [FreeCAD]
 - [OpenSCAD] - 3D CAD tool that describes the 3D model with code. (open source)
 - [Onshape]
@@ -141,6 +143,7 @@ A curated list of awesome 3D printing resources.
 [Blender]: https://www.blender.org/
 [build123d]: https://github.com/gumyr/build123d
 [DeclaraCAD]: https://declaracad.com
+[FluidCAD]: https://github.com/Fluid-CAD/FluidCAD
 [FreeCAD]: https://www.freecad.org/
 [Onshape]: https://www.onshape.com/en/
 [OpenSCAD]: https://openscad.org

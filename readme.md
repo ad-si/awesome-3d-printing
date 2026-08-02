@@ -380,6 +380,7 @@ Self-Hostable:
 - [Gridfinity Layout Tool] - Browser-based tool to plan Gridfinity drawer layouts and export STL, STEP, and 3MF files for 3D printing.
 - [HelloTriangle] - Cloud-based 3D modeling using Python.
 - [img2stl.art] - AI-powered image to 3D printable STL converter. Upload a photo and get a ready-to-print STL file in seconds.
+- [Meshdiff] - Compare two versions of a 3D model (STL, 3MF, OBJ) and visualize the differences.
 - [OctoEverywhere] - Remotely monitor your OctoPrint.
 - [Polyvia3D] - Browser-based 3D file converter, viewer, and repair tool supporting OBJ, STL, GLB, PLY, and 3MF. Runs locally via WebAssembly.
 - [PNGtoSTL] - Browser-based image-to-STL workspace for reliefs, lithophanes, logo badges, and heightmap surfaces, with real downloadable STL examples.
@@ -404,6 +405,7 @@ Self-Hostable:
 [Gridfinity Layout Tool]: https://gridfinitylayouttool.com
 [HelloTriangle]: https://www.hellotriangle.io
 [img2stl.art]: https://img2stl.art
+[Meshdiff]: https://meshdiff.com
 [OctoEverywhere]: https://octoeverywhere.com
 [Open Filament Database]: https://github.com/OpenFilamentCollective/open-filament-database
 [Polyvia3D]: https://polyvia3d.com

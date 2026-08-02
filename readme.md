@@ -122,6 +122,9 @@ A curated list of awesome 3D printing resources.
 - [Autodesk Inventor]
 - [Blender] - 3D modeling and sculpting app. (open source)
 - [build123d] - 3D CAD design software for python programmers. (open source)
+- [CaDoodle] - Offline drag-and-drop CAD app for Windows, macOS, Linux,
+    and ChromeOS with boolean operations and STL, SVG, and OBJ export.
+    (open source)
 - [DeclaraCAD] - 3D CAD tool using Python. (open source)
 - [FluidCAD] - Browser based CAD tool that describes the 3D model
     with JavaScript. (open source)
@@ -132,6 +135,8 @@ A curated list of awesome 3D printing resources.
 - [Prompt2CAD] - Browser-based AI CAD tool that turns text prompts into parametric CAD models and exports STEP, DXF, STL, OBJ, and GLB. (freemium)
 - [Rhinoceros 3D] - CAD application software. (commercial)
 - [Shapr3D]
+- [SketchForge] - Browser based 3D modeling tool to shape, combine, refine,
+    import, and export models. (open source)
 - [Solidworks] - 3D CAD design software. (commercial)
 - [SolveSpace] - Minimalist CAD software. (open source)
 - [Tinkercad] - Browser based free app for 3D design, electronics, and coding.
@@ -142,6 +147,7 @@ A curated list of awesome 3D printing resources.
 [Autodesk Inventor]: https://www.autodesk.com/products/inventor/
 [Blender]: https://www.blender.org/
 [build123d]: https://github.com/gumyr/build123d
+[CaDoodle]: https://cadoodlecad.com
 [DeclaraCAD]: https://declaracad.com
 [FluidCAD]: https://github.com/Fluid-CAD/FluidCAD
 [FreeCAD]: https://www.freecad.org/
@@ -151,6 +157,7 @@ A curated list of awesome 3D printing resources.
 [Prompt2CAD]: https://prompt2cad.com
 [Rhinoceros 3D]: https://www.rhino3d.com
 [Shapr3D]: https://www.shapr3d.com/
+[SketchForge]: https://sketchforge3d.com
 [Solidworks]: https://www.solidworks.com/
 [SolveSpace]: https://solvespace.com/index.pl
 [Tinkercad]: https://www.tinkercad.com

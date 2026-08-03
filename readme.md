@@ -172,6 +172,7 @@ A curated list of awesome 3D printing resources.
 - [Repetier] - Place, slice, preview and print.
 - [SimplyPrint] - Cloud-based platform for remote monitoring, management, and automation of 3D printers.
 - [SpoolEase] - Filament manager with weight & location tracking, printer slot configuration, slicer integration, printer monitoring, and NFC-powered automation - running locally and cloud-free.
+- [BambuBar] - Multiplatform (Windows / MacOS) software for monitoring statuses of Bambu (and Klipper / Prusa) devices.
 
 [Bambuddy]: https://bambuddy.cool
 [Kiln]: https://github.com/codeofaxel/Kiln
@@ -180,6 +181,7 @@ A curated list of awesome 3D printing resources.
 [Repetier]: https://www.repetier.com/
 [SimplyPrint]: https://simplyprint.io/
 [SpoolEase]: https://www.spoolease.io
+[BambuBar]: https://github.com/parametryczny/BambuBar/
 
 
 ## AMS / Filament Changer

@@ -368,6 +368,7 @@ Self-Hostable:
 ## Online Tools
 
 - [3D Box Generator] - Webapp to generate STL files for boxes of custom size.
+- [3D Print Cost & Pricing Calculator] - Calculate the full per-print cost (filament, power, wear, failures, labor) and a suggested price.
 - [BotQueue] - Control your 3D printers over the internet.
 - [Clara.io] - Cloud-based 3D modeling, animation and rendering.
 - [Filament Price Tracker] - Tracks 3D printing filament prices and price history.
@@ -393,6 +394,7 @@ Self-Hostable:
 - [PROLED3D] - Generate manufacturable LED channel letter parts from SVG (STL + DXF) for real fabrication.
 
 [3D Box Generator]: https://github.com/javisperez/box-stl-generator
+[3D Print Cost & Pricing Calculator]: https://dalil-tech.com/3d-print-cost-calculator
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 [Clara.io]: https://clara.io
 [Filament Price Tracker]: https://filamentpricetracker.com

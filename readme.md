@@ -377,6 +377,7 @@ Self-Hostable:
 - [Free Universal Construction Kit] - A set of universal connectors to link together popular toy construction systems.
 - [gcode.ws] - Gcode analyzer.
 - [GCodex] - Free browser-based G-Code viewer, simulator and analyzer for CNC and 3D printing. No upload, no signup required.
+- [GearForge] - Browser-based generator for standards-correct involute gears, timing-belt pulleys (GT2/HTD/T5/MXL) and ISO 4156 splines, exported as laser-ready SVG/DXF. Zero dependencies, no signup.
 - [Gridfinity Layout Tool] - Browser-based tool to plan Gridfinity drawer layouts and export STL, STEP, and 3MF files for 3D printing.
 - [HelloTriangle] - Cloud-based 3D modeling using Python.
 - [img2stl.art] - AI-powered image to 3D printable STL converter. Upload a photo and get a ready-to-print STL file in seconds.
@@ -402,6 +403,7 @@ Self-Hostable:
 [Free Universal Construction Kit]: https://fffff.at/free-universal-construction-kit/
 [gcode.ws]: https://gcode.ws
 [GCodex]: https://gcodex.tech/
+[GearForge]: https://1400130-collab.github.io/gearforge/
 [Gridfinity Layout Tool]: https://gridfinitylayouttool.com
 [HelloTriangle]: https://www.hellotriangle.io
 [img2stl.art]: https://img2stl.art

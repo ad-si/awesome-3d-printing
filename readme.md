@@ -367,7 +367,6 @@ Self-Hostable:
 
 ## Online Tools
 
-
 - [3D Box Generator] - Webapp to generate STL files for boxes of custom size.
 - [BotQueue] - Control your 3D printers over the internet.
 - [Clara.io] - Cloud-based 3D modeling, animation and rendering.

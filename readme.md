@@ -421,6 +421,7 @@ Self-Hostable:
 ## On Demand 3D Printing Services
 
 - [3D Hubs]
+- [BaskıUsta] - Turkish FDM 3D printing service with instant STL/3MF quoting and nationwide delivery.
 - [Beamler] - Global industrial 3D printer network.
 - [Craftcloud] - Streamlined 3D Printing Service.
 - [Jiga] - Manufacturing as a service with known machine shops.
@@ -433,6 +434,7 @@ Self-Hostable:
 - [Upside Parts] - Greater Boston 3D printing service offering FDM, SLA and SLS with nationwide shipping.
 
 [3D Hubs]: https://www.hubs.com/
+[BaskıUsta]: https://baskiusta.com
 [Beamler]: https://www.beamler.com/
 [Craftcloud]: https://craftcloud3d.com/
 [Jiga]: https://jiga.io

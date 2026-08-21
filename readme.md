@@ -378,6 +378,7 @@ Self-Hostable:
 - [BotQueue] - Control your 3D printers over the internet.
 - [Clara.io] - Cloud-based 3D modeling, animation and rendering.
 - [Filament Price Tracker] - Tracks 3D printing filament prices and price history.
+- [FilamentHound] - Compare 3D printing filament prices across brands and retailers. Filter filaments based on a number of parameters, with results sorted by price per kilogram. Also helps you find the current lowest priced filaments.
 - [FilamentProfilesHub] - Database of community-verified print settings for any printer + filament combination.
 - [Filameter] - Filament Inventory Management.
 - [Filwiz] - AI-powered filament profile generator from TDS, multi-slicer export, inventory tracking, and print troubleshooting.
@@ -403,6 +404,7 @@ Self-Hostable:
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 [Clara.io]: https://clara.io
 [Filament Price Tracker]: https://filamentpricetracker.com
+[FilamentHound]: https://filamenthound.com
 [FilamentProfilesHub]: https://filamentprofileshub.com
 [Filameter]: https://filameter.com
 [Filwiz]: https://filwiz.com/

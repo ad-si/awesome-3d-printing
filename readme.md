@@ -138,6 +138,8 @@ A curated list of awesome 3D printing resources.
 - [FreeCAD]
 - [OpenSCAD] - 3D CAD tool that describes the 3D model with code. (open source)
 - [Onshape]
+- [PicoGK] - Voxel and signed distance field geometry kernel for
+    computational engineering, with a C# API over OpenVDB. (open source)
 - [Plasticity] - Solid and surface modeling desktop app. (commercial)
 - [Prompt2CAD] - Browser-based AI CAD tool that turns text prompts into parametric CAD models and exports STEP, DXF, STL, OBJ, and GLB. (freemium)
 - [Rhinoceros 3D] - CAD application software. (commercial)
@@ -160,6 +162,7 @@ A curated list of awesome 3D printing resources.
 [FreeCAD]: https://www.freecad.org/
 [Onshape]: https://www.onshape.com/en/
 [OpenSCAD]: https://openscad.org
+[PicoGK]: https://github.com/leap71/PicoGK
 [Plasticity]: https://www.plasticity.xyz/
 [Prompt2CAD]: https://prompt2cad.com
 [Rhinoceros 3D]: https://www.rhino3d.com

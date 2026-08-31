@@ -173,6 +173,7 @@ A curated list of awesome 3D printing resources.
 ## Control Software
 
 - [Bambuddy] - Self-hosted print management tool for Bambu Lab printers with real-time monitoring, print archiving, scheduling, and notifications.
+- [Filament Tracker] - Auto filament tracking and print log for CrealityOS printers (K1/K2/Ender-3 V3 families) with Spoolman sync, thumbnails, monthly stats, and a mobile PWA.
 - [Kiln] - MCP server for AI agents to control 3D printers.
 - [OctoPrint] - Web interface for 3D printer.
 - [PrintRun] - Pure Python 3d printing host software.
@@ -181,6 +182,7 @@ A curated list of awesome 3D printing resources.
 - [SpoolEase] - Filament manager with weight & location tracking, printer slot configuration, slicer integration, printer monitoring, and NFC-powered automation - running locally and cloud-free.
 
 [Bambuddy]: https://bambuddy.cool
+[Filament Tracker]: https://github.com/Anto5314/filament-tracker
 [Kiln]: https://github.com/codeofaxel/Kiln
 [OctoPrint]: https://octoprint.org
 [PrintRun]: https://github.com/kliment/Printrun

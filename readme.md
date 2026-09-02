@@ -425,6 +425,7 @@ Self-Hostable:
 [SimplexGen]: https://simplexgen.com
 [Vectary]: https://www.vectary.com/
 [Vectiler]: https://www.halfmaps.io/3d-map-exporter
+[Image3D AI]: https://www.aiimageto3d.com/
 
 
 ## On Demand 3D Printing Services

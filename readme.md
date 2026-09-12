@@ -392,6 +392,7 @@ Self-Hostable:
 - [Polyvia3D] - Browser-based 3D file converter, viewer, and repair tool supporting OBJ, STL, GLB, PLY, and 3MF. Runs locally via WebAssembly.
 - [PNGtoSTL] - Browser-based image-to-STL workspace for reliefs, lithophanes, logo badges, and heightmap surfaces, with real downloadable STL examples.
 - [QRCode2STL] - Browser-based generator for 3D printable QR codes, Spotify codes, and text tags.
+- [Reents3D STL Viewer] - Browser-based viewer for STL, STEP and IGES files with annotations and PDF reports. Runs locally, no upload, no signup required.
 - [Ritn3D] - Convert a floor plan into a 3D printable house model.
 - [SimplexGen] - Browser-based AI image-to-3D generator with a full mesh editing toolkit (simplify, smooth, repair, retopology, boolean, UV) and a 3D-print prep editor.
 - [Vectary] - Browser-based 3D modeling.
@@ -419,6 +420,7 @@ Self-Hostable:
 [PNGtoSTL]: https://pngtostl.net
 [PROLED3D]: https://proled3d.com
 [QRCode2STL]: https://qrcode2stl.printer.tools
+[Reents3D STL Viewer]: https://viewer.reents3d.de/
 [Ritn3D]: https://www.ritn3d.com
 [SimplexGen]: https://simplexgen.com
 [Vectary]: https://www.vectary.com/

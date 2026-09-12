@@ -377,6 +377,7 @@ Self-Hostable:
 - [3D Box Generator] - Webapp to generate STL files for boxes of custom size.
 - [BotQueue] - Control your 3D printers over the internet.
 - [Clara.io] - Cloud-based 3D modeling, animation and rendering.
+- [FDM Material Advisor] - Free, open-source material advisor for FDM printing: enter a requirements profile and get a reasoned recommendation with trade-off analysis. 38 material types, every value with source and confidence rating. German and English.
 - [Filament Price Tracker] - Tracks 3D printing filament prices and price history.
 - [FilamentProfilesHub] - Database of community-verified print settings for any printer + filament combination.
 - [Filameter] - Filament Inventory Management.
@@ -402,6 +403,7 @@ Self-Hostable:
 [3D Box Generator]: https://github.com/javisperez/box-stl-generator
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 [Clara.io]: https://clara.io
+[FDM Material Advisor]: https://materialberater.reents3d.de/
 [Filament Price Tracker]: https://filamentpricetracker.com
 [FilamentProfilesHub]: https://filamentprofileshub.com
 [Filameter]: https://filameter.com

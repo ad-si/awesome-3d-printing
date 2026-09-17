@@ -174,6 +174,7 @@ A curated list of awesome 3D printing resources.
 
 - [Bambuddy] - Self-hosted print management tool for Bambu Lab printers with real-time monitoring, print archiving, scheduling, and notifications.
 - [Kiln] - MCP server for AI agents to control 3D printers.
+- [KlipperLearn](https://github.com/Agnuxo1/KlipperLearn) - Experimental calibration-evidence toolkit and reviewed OrcaSlicer mode presets.
 - [OctoPrint] - Web interface for 3D printer.
 - [PrintRun] - Pure Python 3d printing host software.
 - [Repetier] - Place, slice, preview and print.

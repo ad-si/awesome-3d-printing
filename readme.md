@@ -456,9 +456,11 @@ Self-Hostable:
 
 - [Microscape] - Minature scale 3D printed architectural models.
 - [iGo3D] - 3D printing online store.
+- [Exantrix] - French marketplace for 3D printing, DTF transfers and custom textile, with a seller API and shop connectors (WooCommerce, PrestaShop, Shopify, Magento).
 
 [Microscape]: https://microscape.us/
 [iGo3D]: https://www.igo3d.com/
+[Exantrix]: https://exantrix.com/en/
 
 
 ## On Demand 3D Printing Price Comparison

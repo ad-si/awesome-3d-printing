@@ -331,6 +331,7 @@ Independent:
 - [Pinshape] - Find, share and sell 3D print files.
 - [PrintPal] - Model-sharing + marketplace + AI tool + manufacturing platform.
 - [Redpah]
+- [RenderHub] - User-Driven 3D Asset Marketplace and Art Gallery
 - [Sculpteo]
 - [Shapeways]
 - [SketchFab]
@@ -364,6 +365,7 @@ Self-Hostable:
 [PrintPal]: https://printpal.io/explore
 [Printables]: https://www.printables.com
 [Redpah]: https://redpah.com
+[RenderHub]: https://renderhub.com
 [Sculpteo]: https://www.sculpteo.com/en/
 [Shapeways]: https://www.shapeways.com
 [SketchFab]: https://sketchfab.com

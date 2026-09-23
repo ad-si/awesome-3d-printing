@@ -136,6 +136,7 @@ A curated list of awesome 3D printing resources.
 - [FluidCAD] - Browser based CAD tool that describes the 3D model
     with JavaScript. (open source)
 - [FreeCAD]
+- [Kiln] - MCP server that lets AI agents design printable parts from a text description, using OpenSCAD locally or AI model generators. (open source, paid tiers)
 - [OpenSCAD] - 3D CAD tool that describes the 3D model with code. (open source)
 - [Onshape]
 - [Plasticity] - Solid and surface modeling desktop app. (commercial)

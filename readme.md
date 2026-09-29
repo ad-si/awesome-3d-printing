@@ -389,6 +389,7 @@ Self-Hostable:
 - [img2stl.art] - AI-powered image to 3D printable STL converter. Upload a photo and get a ready-to-print STL file in seconds.
 - [Meshdiff] - Compare two versions of a 3D model (STL, 3MF, OBJ) and visualize the differences.
 - [OctoEverywhere] - Remotely monitor your OctoPrint.
+- [pic2svg] - Convert PNG/JPG artwork and logos to editable SVG vectors (plus DXF export) for badges, reliefs, and cut-ready templates; free trace and preview, Pro tier for downloads.
 - [Polyvia3D] - Browser-based 3D file converter, viewer, and repair tool supporting OBJ, STL, GLB, PLY, and 3MF. Runs locally via WebAssembly.
 - [PNGtoSTL] - Browser-based image-to-STL workspace for reliefs, lithophanes, logo badges, and heightmap surfaces, with real downloadable STL examples.
 - [QRCode2STL] - Browser-based generator for 3D printable QR codes, Spotify codes, and text tags.
@@ -414,6 +415,7 @@ Self-Hostable:
 [img2stl.art]: https://img2stl.art
 [Meshdiff]: https://meshdiff.com
 [OctoEverywhere]: https://octoeverywhere.com
+[pic2svg]: https://pic2svg.com
 [Open Filament Database]: https://github.com/OpenFilamentCollective/open-filament-database
 [Polyvia3D]: https://polyvia3d.com
 [PNGtoSTL]: https://pngtostl.net

@@ -341,6 +341,10 @@ Self-Hostable:
 
 - [Manyfold]
 - [PrintStash] - Self-hosted storage and organization system for 3D printing files with automatic tagging, search, and slicer integration.
+  
+Desktop:
+
+- [Modelist] - Desktop app for Windows, macOS and Linux that turns local folders into a searchable visual library of STL, 3MF, OBJ, STEP and SCAD files, with archive indexing and duplicate detection.
 
 
 [3D Kitbash]: https://3dkitbash.com
@@ -356,6 +360,7 @@ Self-Hostable:
 [MakerRoad]: https://www.makeroad.com/
 [Makerworld]: https://makerworld.com/en
 [MakerRepo]: https://makerrepo.com
+[Modelist]: https://modelist.app
 [Manyfold]: https://github.com/manyfold3d/manyfold
 [PrintStash]: https://github.com/xiao-villamor/PrintStash
 [MyMiniFactory]: https://www.myminifactory.com/

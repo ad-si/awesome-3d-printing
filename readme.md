@@ -421,6 +421,7 @@ Self-Hostable:
 [QRCode2STL]: https://qrcode2stl.printer.tools
 [Ritn3D]: https://www.ritn3d.com
 [SimplexGen]: https://simplexgen.com
+[SkipTheCAD]: https://skipthecad.com
 [Vectary]: https://www.vectary.com/
 [Vectiler]: https://www.halfmaps.io/3d-map-exporter
 

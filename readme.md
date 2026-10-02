@@ -398,6 +398,7 @@ Self-Hostable:
 - [Vectiler] - Online tool to generate 3D printable map and terrain models from real-world geographic data.
 - [Open Filament Database] - Open, community-driven database of filament materials, colors, and print settings.
 - [PROLED3D] - Generate manufacturable LED channel letter parts from SVG (STL + DXF) for real fabrication.
+- [Free 3D Text Generator](https://avdeb.com/tools/text-to-stl/) - Convert text to 3D-printable STL.
 
 [3D Box Generator]: https://github.com/javisperez/box-stl-generator
 [BotQueue]: https://github.com/Hoektronics/BotQueue

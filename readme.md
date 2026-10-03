@@ -387,6 +387,7 @@ Self-Hostable:
 - [Gridfinity Layout Tool] - Browser-based tool to plan Gridfinity drawer layouts and export STL, STEP, and 3MF files for 3D printing.
 - [HelloTriangle] - Cloud-based 3D modeling using Python.
 - [img2stl.art] - AI-powered image to 3D printable STL converter. Upload a photo and get a ready-to-print STL file in seconds.
+- [Img2STL Model Splitter](https://img2stl.art/split/) - Free browser tool to split an STL, OBJ, or GLB into parts that fit a print bed.
 - [Meshdiff] - Compare two versions of a 3D model (STL, 3MF, OBJ) and visualize the differences.
 - [OctoEverywhere] - Remotely monitor your OctoPrint.
 - [Polyvia3D] - Browser-based 3D file converter, viewer, and repair tool supporting OBJ, STL, GLB, PLY, and 3MF. Runs locally via WebAssembly.

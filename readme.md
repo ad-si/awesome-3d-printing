@@ -376,6 +376,7 @@ Self-Hostable:
 
 - [3D Box Generator] - Webapp to generate STL files for boxes of custom size.
 - [BotQueue] - Control your 3D printers over the internet.
+- [CADProps] - Browser-based STL viewer for inspecting mesh geometry and approximate dimensions; viewing requires no account.
 - [Clara.io] - Cloud-based 3D modeling, animation and rendering.
 - [Filament Price Tracker] - Tracks 3D printing filament prices and price history.
 - [FilamentProfilesHub] - Database of community-verified print settings for any printer + filament combination.
@@ -401,6 +402,7 @@ Self-Hostable:
 
 [3D Box Generator]: https://github.com/javisperez/box-stl-generator
 [BotQueue]: https://github.com/Hoektronics/BotQueue
+[CADProps]: https://www.cadprops.com/tools/stl-viewer/
 [Clara.io]: https://clara.io
 [Filament Price Tracker]: https://filamentpricetracker.com
 [FilamentProfilesHub]: https://filamentprofileshub.com

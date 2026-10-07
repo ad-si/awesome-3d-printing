@@ -375,6 +375,7 @@ Self-Hostable:
 ## Online Tools
 
 - [3D Box Generator] - Webapp to generate STL files for boxes of custom size.
+- [3D MakerBench] - Free browser-based generators for 3D printing (lithophanes, cookie cutters, Gridfinity bins, gears, stencils, NFC tags and more); STL built locally, no signup.
 - [BotQueue] - Control your 3D printers over the internet.
 - [Clara.io] - Cloud-based 3D modeling, animation and rendering.
 - [Filament Price Tracker] - Tracks 3D printing filament prices and price history.
@@ -400,6 +401,7 @@ Self-Hostable:
 - [PROLED3D] - Generate manufacturable LED channel letter parts from SVG (STL + DXF) for real fabrication.
 
 [3D Box Generator]: https://github.com/javisperez/box-stl-generator
+[3D MakerBench]: https://3dmakerbench.com
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 [Clara.io]: https://clara.io
 [Filament Price Tracker]: https://filamentpricetracker.com

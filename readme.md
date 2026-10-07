@@ -61,7 +61,6 @@ A curated list of awesome 3D printing resources.
 - [Makergear]
 - [Monoprice] - Monoprice branded Wanhao printers.
 - [Mosaic] - High-Volume Automated 3D Printing.
-- [Nexum3D] - Delta 3D printers in 3 sizes.
 - [Printcepts] - Innovative printer concepts.
 - [Prusa Research] - 3D printers from Josef Prusa.
 - [QIDI] - Affordable, fast, large scale printers.
@@ -77,7 +76,6 @@ A curated list of awesome 3D printing resources.
 - [TwoTrees]
 - [Ultimaker]
 - [VoronDesign] - Open source 3D printer designs.
-- [Wanhao]
 
 [3D Systems]: https://www.3dsystems.com
 [Anycubic]: https://www.anycubic.com/
@@ -102,7 +100,6 @@ A curated list of awesome 3D printing resources.
 [Makergear]: https://makergear.com/
 [Monoprice]: https://www.monoprice.com/pages/3d_printers
 [Mosaic]: https://mosaicmfg.com
-[Nexum3D]: https://nexum3d.com
 [Printcepts]: https://www.printcepts.com/
 [Prusa Research]: https://www.prusa3d.com
 [QIDI]: https://qidi3d.com
@@ -112,13 +109,12 @@ A curated list of awesome 3D printing resources.
 [Robo3d]: https://robo3d.com
 [Sharebot]: https://www.sharebot.it/en/
 [SToN]: https://ston-3d.com/
-[Tiertime]: https://www.tiertime.com/
+[Tiertime]: https://shop.tiertime.com/
 [Tronxy]: https://www.tronxy3d.com/
 [Trideo3D]: https://www.trideo3d.com/en
 [TwoTrees]: https://twotrees3d.com/
 [Ultimaker]: https://ultimaker.com
 [VoronDesign]: https://github.com/VoronDesign
-[Wanhao]: https://wanhao.store
 
 
 ## CAD Tools
@@ -196,7 +192,7 @@ A curated list of awesome 3D printing resources.
 - [CFS] - Creality Filament System for multi-color printing.
 - [EnragedRabbitProject] - Multi-color addon for Voron 3D printers.
 
-[AMS]: https://bambulab.com/en/ams
+[AMS]: https://us.store.bambulab.com/products/ams-multicolor-printing
 [BoxTurtle]: https://github.com/ArmoredTurtle/BoxTurtle
 [CFS]: https://store.creality.com/products/cfs-creality-filament-system
 [EnragedRabbitProject]: https://github.com/EtteGit/EnragedRabbitProject
@@ -394,7 +390,6 @@ Self-Hostable:
 - [Meshdiff] - Compare two versions of a 3D model (STL, 3MF, OBJ) and visualize the differences.
 - [OctoEverywhere] - Remotely monitor your OctoPrint.
 - [Polyvia3D] - Browser-based 3D file converter, viewer, and repair tool supporting OBJ, STL, GLB, PLY, and 3MF. Runs locally via WebAssembly.
-- [PNGtoSTL] - Browser-based image-to-STL workspace for reliefs, lithophanes, logo badges, and heightmap surfaces, with real downloadable STL examples.
 - [QRCode2STL] - Browser-based generator for 3D printable QR codes, Spotify codes, and text tags.
 - [Ritn3D] - Convert a floor plan into a 3D printable house model.
 - [SimplexGen] - Browser-based AI image-to-3D generator with a full mesh editing toolkit (simplify, smooth, repair, retopology, boolean, UV) and a 3D-print prep editor.
@@ -421,7 +416,6 @@ Self-Hostable:
 [OctoEverywhere]: https://octoeverywhere.com
 [Open Filament Database]: https://github.com/OpenFilamentCollective/open-filament-database
 [Polyvia3D]: https://polyvia3d.com
-[PNGtoSTL]: https://pngtostl.net
 [PROLED3D]: https://proled3d.com
 [QRCode2STL]: https://qrcode2stl.printer.tools
 [Ritn3D]: https://www.ritn3d.com

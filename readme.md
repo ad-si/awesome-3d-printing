@@ -375,7 +375,7 @@ Self-Hostable:
 ## Online Tools
 
 - [3D Box Generator] - Webapp to generate STL files for boxes of custom size.
-- [3D MakerBench] - Free browser-based generators for 3D printing (lithophanes, cookie cutters, Gridfinity bins, gears, stencils, NFC tags and more); STL built locally, no signup.
+- [3D MakerBench] - Browser-based generators for STL files such as lithophanes, cookie cutters, Gridfinity bins and gears.
 - [BotQueue] - Control your 3D printers over the internet.
 - [Clara.io] - Cloud-based 3D modeling, animation and rendering.
 - [Filament Price Tracker] - Tracks 3D printing filament prices and price history.

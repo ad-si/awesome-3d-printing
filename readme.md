@@ -397,6 +397,8 @@ Self-Hostable:
 - [Vectiler] - Online tool to generate 3D printable map and terrain models from real-world geographic data.
 - [Open Filament Database] - Open, community-driven database of filament materials, colors, and print settings.
 - [PROLED3D] - Generate manufacturable LED channel letter parts from SVG (STL + DXF) for real fabrication.
+- [Image3D AI] - All-in-one AI 3D platform that converts images into 3D models using multiple AI models, with built-in texturing, retopology, UV unwrapping, and model splitting tools for 3D printing workflows.
+
 
 [3D Box Generator]: https://github.com/javisperez/box-stl-generator
 [3D MakerBench]: https://3dmakerbench.com
@@ -422,6 +424,7 @@ Self-Hostable:
 [SimplexGen]: https://simplexgen.com
 [Vectary]: https://www.vectary.com/
 [Vectiler]: https://www.halfmaps.io/3d-map-exporter
+[Image3D AI]: https://www.aiimageto3d.com/
 
 
 ## On Demand 3D Printing Services

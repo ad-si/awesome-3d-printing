@@ -142,6 +142,8 @@ A curated list of awesome 3D printing resources.
     import, and export models. (open source)
 - [Solidworks] - 3D CAD design software. (commercial)
 - [SolveSpace] - Minimalist CAD software. (open source)
+- [TinkerApp] - Offline browser-based 3D editor in a single HTML file,
+    with shape editing, boolean operations, and STL import/export.
 - [Tinkercad] - Browser based free app for 3D design, electronics, and coding.
 - [Truck] - Rust based CAD Kernel.
 
@@ -163,6 +165,7 @@ A curated list of awesome 3D printing resources.
 [SketchForge]: https://sketchforge3d.com
 [Solidworks]: https://www.solidworks.com/
 [SolveSpace]: https://solvespace.com/index.pl
+[TinkerApp]: https://github.com/alexanderantonov/tinkerapp
 [Tinkercad]: https://www.tinkercad.com
 [Truck]: https://github.com/ricosjp/truck
 

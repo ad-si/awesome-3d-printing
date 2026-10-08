@@ -323,6 +323,7 @@ Independent:
 - [3D Kitbash] - Premium 3D-printable 3D models of toys.
 - [3D Via]
 - [Astroprint]
+- [CADProps STEP Models] - Free CAD parts and sample files in STEP, STL, and IGES formats, with previews and inspection guides. Licenses are documented per model.
 - [CGtrader]
 - [Cults] - Find, share and sell 3D print files.
 - [Free3D] - Free and premium 3D models.
@@ -347,6 +348,7 @@ Self-Hostable:
 [3D Kitbash]: https://3dkitbash.com
 [3D Via]: https://www.3ds.com/products/3dvia
 [Astroprint]: https://www.astroprint.com/
+[CADProps STEP Models]: https://github.com/cadprobs-a11y/cadprops-step-models
 [CGtrader]: https://www.cgtrader.com/
 [Creality Cloud]: https://www.crealitycloud.com/
 [Cults]: https://cults3d.com

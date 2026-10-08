@@ -125,6 +125,7 @@ A curated list of awesome 3D printing resources.
 - [Autodesk Inventor]
 - [Blender] - 3D modeling and sculpting app. (open source)
 - [build123d] - 3D CAD design software for python programmers. (open source)
+- [caddiff] - Command-line tool that diffs two revisions of a CAD assembly and reports what changed. (open source)
 - [CaDoodle] - Offline drag-and-drop CAD app for Windows, macOS, Linux,
     and ChromeOS with boolean operations and STL, SVG, and OBJ export.
     (open source)
@@ -150,6 +151,7 @@ A curated list of awesome 3D printing resources.
 [Autodesk Inventor]: https://www.autodesk.com/products/inventor/
 [Blender]: https://www.blender.org/
 [build123d]: https://github.com/gumyr/build123d
+[caddiff]: https://github.com/angel291592/caddiff
 [CaDoodle]: https://cadoodlecad.com
 [DeclaraCAD]: https://declaracad.com
 [FluidCAD]: https://github.com/Fluid-CAD/FluidCAD

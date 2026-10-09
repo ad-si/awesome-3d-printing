@@ -280,6 +280,7 @@ Convert 3D models into G-Code.
 - [PolyCut] - Converts SVGs and images into G-Code to use a 3D printer
     as a vinyl cutter, pen plotter, or engraver. (open source)
 - [PrusaSlicer] - Slicer specific to Prusa Printers.
+- [schmelze] - Browser-based modeller and slicer: solids and booleans, STL in, STL/OBJ/glTF and G-code out.
 - [Slic3r] - Open source 3D printing toolbox.
 - [Strecs3D] - Generate optimized infill based on structural analysis.
 
@@ -292,6 +293,7 @@ Convert 3D models into G-Code.
 [OrcaSlicer]: https://github.com/OrcaSlicer/OrcaSlicer
 [PolyCut]: https://github.com/IridiumIO/PolyCut
 [PrusaSlicer]: https://www.prusa3d.com/p/prusaslicer/
+[schmelze]: https://hexenwerkzeug.com/tools/schmelze
 [Slic3r]: https://slic3r.org
 [Strecs3D]: https://github.com/tomohiron907/Strecs3D
 

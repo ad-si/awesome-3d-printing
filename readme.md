@@ -383,6 +383,7 @@ Self-Hostable:
 - [FilamentProfilesHub] - Database of community-verified print settings for any printer + filament combination.
 - [Filameter] - Filament Inventory Management.
 - [Filwiz] - AI-powered filament profile generator from TDS, multi-slicer export, inventory tracking, and print troubleshooting.
+- [Fomrix STL Viewer](https://fomrix.com/stl-viewer) - Free browser-based STL viewer with local file processing, mesh rotation, triangle counts and model-space dimensions; no account required.
 - [Free Universal Construction Kit] - A set of universal connectors to link together popular toy construction systems.
 - [gcode.ws] - Gcode analyzer.
 - [GCodex] - Free browser-based G-Code viewer, simulator and analyzer for CNC and 3D printing. No upload, no signup required.

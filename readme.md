@@ -388,8 +388,8 @@ Self-Hostable:
 - [GCodex] - Free browser-based G-Code viewer, simulator and analyzer for CNC and 3D printing. No upload, no signup required.
 - [Gridfinity Layout Tool] - Browser-based tool to plan Gridfinity drawer layouts and export STL, STEP, and 3MF files for 3D printing.
 - [HelloTriangle] - Cloud-based 3D modeling using Python.
-- [Leviate] - Browser 3D viewer for STL, 3MF, OBJ and more that turns, pans and zooms the model with hand gestures through the webcam.
 - [img2stl.art] - AI-powered image to 3D printable STL converter. Upload a photo and get a ready-to-print STL file in seconds.
+- [Leviate] - Browser 3D viewer for STL, 3MF, OBJ and more that turns, pans and zooms the model with hand gestures through the webcam.
 - [Meshdiff] - Compare two versions of a 3D model (STL, 3MF, OBJ) and visualize the differences.
 - [OctoEverywhere] - Remotely monitor your OctoPrint.
 - [Polyvia3D] - Browser-based 3D file converter, viewer, and repair tool supporting OBJ, STL, GLB, PLY, and 3MF. Runs locally via WebAssembly.
@@ -414,8 +414,8 @@ Self-Hostable:
 [GCodex]: https://gcodex.tech/
 [Gridfinity Layout Tool]: https://gridfinitylayouttool.com
 [HelloTriangle]: https://www.hellotriangle.io
-[Leviate]: https://vladpereverzyev.github.io/leviate/
 [img2stl.art]: https://img2stl.art
+[Leviate]: https://vladpereverzyev.github.io/leviate/
 [Meshdiff]: https://meshdiff.com
 [OctoEverywhere]: https://octoeverywhere.com
 [Open Filament Database]: https://github.com/OpenFilamentCollective/open-filament-database

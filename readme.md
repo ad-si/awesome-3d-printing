@@ -378,6 +378,7 @@ Self-Hostable:
 - [3D Box Generator] - Webapp to generate STL files for boxes of custom size.
 - [3D MakerBench] - Browser-based generators for STL files such as lithophanes, cookie cutters, Gridfinity bins and gears.
 - [BotQueue] - Control your 3D printers over the internet.
+- [CircuitPilot] - Generates 3D-printable enclosures fitted to a PCB (35 templates incl. wearables), exported as STL, alongside the board design.
 - [Clara.io] - Cloud-based 3D modeling, animation and rendering.
 - [Filament Price Tracker] - Tracks 3D printing filament prices and price history.
 - [FilamentProfilesHub] - Database of community-verified print settings for any printer + filament combination.
@@ -403,6 +404,7 @@ Self-Hostable:
 [3D Box Generator]: https://github.com/javisperez/box-stl-generator
 [3D MakerBench]: https://3dmakerbench.com
 [BotQueue]: https://github.com/Hoektronics/BotQueue
+[CircuitPilot]: https://pcbgo.site
 [Clara.io]: https://clara.io
 [Filament Price Tracker]: https://filamentpricetracker.com
 [FilamentProfilesHub]: https://filamentprofileshub.com

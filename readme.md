@@ -61,7 +61,6 @@ A curated list of awesome 3D printing resources.
 - [Makergear]
 - [Monoprice] - Monoprice branded Wanhao printers.
 - [Mosaic] - High-Volume Automated 3D Printing.
-- [Nexum3D] - Delta 3D printers in 3 sizes.
 - [Printcepts] - Innovative printer concepts.
 - [Prusa Research] - 3D printers from Josef Prusa.
 - [QIDI] - Affordable, fast, large scale printers.
@@ -77,7 +76,6 @@ A curated list of awesome 3D printing resources.
 - [TwoTrees]
 - [Ultimaker]
 - [VoronDesign] - Open source 3D printer designs.
-- [Wanhao]
 
 [3D Systems]: https://www.3dsystems.com
 [Anycubic]: https://www.anycubic.com/
@@ -102,7 +100,6 @@ A curated list of awesome 3D printing resources.
 [Makergear]: https://makergear.com/
 [Monoprice]: https://www.monoprice.com/pages/3d_printers
 [Mosaic]: https://mosaicmfg.com
-[Nexum3D]: https://nexum3d.com
 [Printcepts]: https://www.printcepts.com/
 [Prusa Research]: https://www.prusa3d.com
 [QIDI]: https://qidi3d.com
@@ -112,13 +109,12 @@ A curated list of awesome 3D printing resources.
 [Robo3d]: https://robo3d.com
 [Sharebot]: https://www.sharebot.it/en/
 [SToN]: https://ston-3d.com/
-[Tiertime]: https://www.tiertime.com/
+[Tiertime]: https://shop.tiertime.com/
 [Tronxy]: https://www.tronxy3d.com/
 [Trideo3D]: https://www.trideo3d.com/en
 [TwoTrees]: https://twotrees3d.com/
 [Ultimaker]: https://ultimaker.com
 [VoronDesign]: https://github.com/VoronDesign
-[Wanhao]: https://wanhao.store
 
 
 ## CAD Tools
@@ -129,6 +125,7 @@ A curated list of awesome 3D printing resources.
 - [Autodesk Inventor]
 - [Blender] - 3D modeling and sculpting app. (open source)
 - [build123d] - 3D CAD design software for python programmers. (open source)
+- [caddiff] - Command-line tool that diffs two revisions of a CAD assembly and reports what changed. (open source)
 - [CaDoodle] - Offline drag-and-drop CAD app for Windows, macOS, Linux,
     and ChromeOS with boolean operations and STL, SVG, and OBJ export.
     (open source)
@@ -155,6 +152,7 @@ A curated list of awesome 3D printing resources.
 [Autodesk Inventor]: https://www.autodesk.com/products/inventor/
 [Blender]: https://www.blender.org/
 [build123d]: https://github.com/gumyr/build123d
+[caddiff]: https://github.com/angel291592/caddiff
 [CaDoodle]: https://cadoodlecad.com
 [DeclaraCAD]: https://declaracad.com
 [FluidCAD]: https://github.com/Fluid-CAD/FluidCAD
@@ -197,7 +195,7 @@ A curated list of awesome 3D printing resources.
 - [CFS] - Creality Filament System for multi-color printing.
 - [EnragedRabbitProject] - Multi-color addon for Voron 3D printers.
 
-[AMS]: https://bambulab.com/en/ams
+[AMS]: https://us.store.bambulab.com/products/ams-multicolor-printing
 [BoxTurtle]: https://github.com/ArmoredTurtle/BoxTurtle
 [CFS]: https://store.creality.com/products/cfs-creality-filament-system
 [EnragedRabbitProject]: https://github.com/EtteGit/EnragedRabbitProject
@@ -280,6 +278,8 @@ Convert 3D models into G-Code.
 - [KISSlicer] - Cross-platform slicer for STL files.
 - [MatterControl] - 3D printing software.
 - [OrcaSlicer] - Slicer forked from [PrusaSlicer] and [BambuStudio].
+- [PolyCut] - Converts SVGs and images into G-Code to use a 3D printer
+    as a vinyl cutter, pen plotter, or engraver. (open source)
 - [PrusaSlicer] - Slicer specific to Prusa Printers.
 - [Slic3r] - Open source 3D printing toolbox.
 - [Strecs3D] - Generate optimized infill based on structural analysis.
@@ -291,6 +291,7 @@ Convert 3D models into G-Code.
 [KISSlicer]: https://www.kisslicer.com
 [MatterControl]: https://github.com/MatterHackers/MatterControl
 [OrcaSlicer]: https://github.com/OrcaSlicer/OrcaSlicer
+[PolyCut]: https://github.com/IridiumIO/PolyCut
 [PrusaSlicer]: https://www.prusa3d.com/p/prusaslicer/
 [Slic3r]: https://slic3r.org
 [Strecs3D]: https://github.com/tomohiron907/Strecs3D
@@ -376,6 +377,8 @@ Self-Hostable:
 ## Online Tools
 
 - [3D Box Generator] - Webapp to generate STL files for boxes of custom size.
+- [3D MakerBench] - Browser-based generators for STL files such as lithophanes, cookie cutters, Gridfinity bins and gears.
+- [3D Print Estimation Studio] - Webapp to estimate 3D print time, filament weight, and material cost from 3D models.
 - [BotQueue] - Control your 3D printers over the internet.
 - [Clara.io] - Cloud-based 3D modeling, animation and rendering.
 - [Filament Price Tracker] - Tracks 3D printing filament prices and price history.
@@ -391,7 +394,6 @@ Self-Hostable:
 - [Meshdiff] - Compare two versions of a 3D model (STL, 3MF, OBJ) and visualize the differences.
 - [OctoEverywhere] - Remotely monitor your OctoPrint.
 - [Polyvia3D] - Browser-based 3D file converter, viewer, and repair tool supporting OBJ, STL, GLB, PLY, and 3MF. Runs locally via WebAssembly.
-- [PNGtoSTL] - Browser-based image-to-STL workspace for reliefs, lithophanes, logo badges, and heightmap surfaces, with real downloadable STL examples.
 - [QRCode2STL] - Browser-based generator for 3D printable QR codes, Spotify codes, and text tags.
 - [Ritn3D] - Convert a floor plan into a 3D printable house model.
 - [SimplexGen] - Browser-based AI image-to-3D generator with a full mesh editing toolkit (simplify, smooth, repair, retopology, boolean, UV) and a 3D-print prep editor.
@@ -401,6 +403,8 @@ Self-Hostable:
 - [PROLED3D] - Generate manufacturable LED channel letter parts from SVG (STL + DXF) for real fabrication.
 
 [3D Box Generator]: https://github.com/javisperez/box-stl-generator
+[3D MakerBench]: https://3dmakerbench.com
+[3D Print Estimation Studio]: https://thom-x.github.io/3DPrinEstimation
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 [Clara.io]: https://clara.io
 [Filament Price Tracker]: https://filamentpricetracker.com
@@ -417,7 +421,6 @@ Self-Hostable:
 [OctoEverywhere]: https://octoeverywhere.com
 [Open Filament Database]: https://github.com/OpenFilamentCollective/open-filament-database
 [Polyvia3D]: https://polyvia3d.com
-[PNGtoSTL]: https://pngtostl.net
 [PROLED3D]: https://proled3d.com
 [QRCode2STL]: https://qrcode2stl.printer.tools
 [Ritn3D]: https://www.ritn3d.com

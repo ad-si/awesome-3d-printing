@@ -403,7 +403,7 @@ Self-Hostable:
 
 [3D Box Generator]: https://github.com/javisperez/box-stl-generator
 [3D MakerBench]: https://3dmakerbench.com
-[3D Print Estimation Studio](https://thom-x.github.io/3DPrinEstimation/)
+[3D Print Estimation Studio]: https://thom-x.github.io/3DPrinEstimation
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 [Clara.io]: https://clara.io
 [Filament Price Tracker]: https://filamentpricetracker.com

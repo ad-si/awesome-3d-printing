@@ -133,6 +133,8 @@ A curated list of awesome 3D printing resources.
 - [FluidCAD] - Browser based CAD tool that describes the 3D model
     with JavaScript. (open source)
 - [FreeCAD]
+- [mesh2cad] - Command-line tool that converts STL, OBJ, and PLY meshes
+    into editable STEP models with fitted planes and cylinders. (open source)
 - [OpenSCAD] - 3D CAD tool that describes the 3D model with code. (open source)
 - [Onshape]
 - [Plasticity] - Solid and surface modeling desktop app. (commercial)
@@ -156,6 +158,7 @@ A curated list of awesome 3D printing resources.
 [DeclaraCAD]: https://declaracad.com
 [FluidCAD]: https://github.com/Fluid-CAD/FluidCAD
 [FreeCAD]: https://www.freecad.org/
+[mesh2cad]: https://github.com/emirmrkaljevic/mesh2cad
 [Onshape]: https://www.onshape.com/en/
 [OpenSCAD]: https://openscad.org
 [Plasticity]: https://www.plasticity.xyz/

@@ -130,6 +130,9 @@ A curated list of awesome 3D printing resources.
     and ChromeOS with boolean operations and STL, SVG, and OBJ export.
     (open source)
 - [DeclaraCAD] - 3D CAD tool using Python. (open source)
+- [Engineering on Web CAD] - Browser based parametric CAD tool with constrained
+    sketches, assemblies, and technical drawings that exports STL, STEP, IGES,
+    and DXF. (free)
 - [FluidCAD] - Browser based CAD tool that describes the 3D model
     with JavaScript. (open source)
 - [FreeCAD]
@@ -154,6 +157,7 @@ A curated list of awesome 3D printing resources.
 [caddiff]: https://github.com/angel291592/caddiff
 [CaDoodle]: https://cadoodlecad.com
 [DeclaraCAD]: https://declaracad.com
+[Engineering on Web CAD]: https://engineeringonweb.com/cad/?lang=en
 [FluidCAD]: https://github.com/Fluid-CAD/FluidCAD
 [FreeCAD]: https://www.freecad.org/
 [Onshape]: https://www.onshape.com/en/

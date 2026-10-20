@@ -396,6 +396,7 @@ Self-Hostable:
 - [QRCode2STL] - Browser-based generator for 3D printable QR codes, Spotify codes, and text tags.
 - [Ritn3D] - Convert a floor plan into a 3D printable house model.
 - [SimplexGen] - Browser-based AI image-to-3D generator with a full mesh editing toolkit (simplify, smooth, repair, retopology, boolean, UV) and a 3D-print prep editor.
+- [STL Splitter] - Browser-based tool to split large STL and 3MF models into pieces that fit your printer bed, with alignment pins and printer presets. Runs locally, no upload.
 - [STLFixer] - Browser-based STL inspection and repair that processes files locally.
 - [Vectary] - Browser-based 3D modeling.
 - [Vectiler] - Online tool to generate 3D printable map and terrain models from real-world geographic data.
@@ -425,6 +426,7 @@ Self-Hostable:
 [QRCode2STL]: https://qrcode2stl.printer.tools
 [Ritn3D]: https://www.ritn3d.com
 [SimplexGen]: https://simplexgen.com
+[STL Splitter]: https://stlsplitter.com
 [STLFixer]: https://stlfixer.io/
 [Vectary]: https://www.vectary.com/
 [Vectiler]: https://www.halfmaps.io/3d-map-exporter

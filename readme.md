@@ -384,6 +384,7 @@ Self-Hostable:
 - [FilamentProfilesHub] - Database of community-verified print settings for any printer + filament combination.
 - [Filameter] - Filament Inventory Management.
 - [Filwiz] - AI-powered filament profile generator from TDS, multi-slicer export, inventory tracking, and print troubleshooting.
+- [Forgent3D Generators] - Browser-based parametric part generators for Gridfinity bins and baseplates, spur, helical and bevel gears, GT2 pulleys, enclosures and more. Exports STL or STEP, no sign-up.
 - [Free Universal Construction Kit] - A set of universal connectors to link together popular toy construction systems.
 - [gcode.ws] - Gcode analyzer.
 - [GCodex] - Free browser-based G-Code viewer, simulator and analyzer for CNC and 3D printing. No upload, no signup required.
@@ -411,6 +412,7 @@ Self-Hostable:
 [FilamentProfilesHub]: https://filamentprofileshub.com
 [Filameter]: https://filameter.com
 [Filwiz]: https://filwiz.com/
+[Forgent3D Generators]: https://www.forgent3d.com/en/generators
 [Free Universal Construction Kit]: https://fffff.at/free-universal-construction-kit/
 [gcode.ws]: https://gcode.ws
 [GCodex]: https://gcodex.tech/

@@ -28,6 +28,7 @@ A curated list of awesome 3D printing resources.
 - [On Demand 3D Printing Price Comparison](#on-demand-3d-printing-price-comparison)
 - [Technologies](#technologies)
 - [Filaments](#filaments)
+- [Learning](#learning)
 - [Related](#related)
 
 <!-- tocstop -->
@@ -503,6 +504,13 @@ Self-Hostable:
 [Protopasta]: https://proto-pasta.com/
 [SUNLU]: https://store.sunlu.com/
 [eSun]: https://www.esun3d.com/filaments/
+
+
+## Learning
+
+- [SolidCraft CAD] - Guide to SolidCraft, an open-source parametric 3D CAD app written in Rust, covering browser use, desktop downloads and STL/3MF export for printing.
+
+[SolidCraft CAD]: https://solidcraftcad.com/
 
 
 ## Related

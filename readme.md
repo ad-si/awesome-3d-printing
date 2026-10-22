@@ -175,6 +175,7 @@ A curated list of awesome 3D printing resources.
 - [Bambuddy] - Self-hosted print management tool for Bambu Lab printers with real-time monitoring, print archiving, scheduling, and notifications.
 - [Kiln] - MCP server for AI agents to control 3D printers.
 - [OctoPrint] - Web interface for 3D printer.
+- [Polar3D] - Cloud platform for remotely monitoring and controlling 3D printers from a browser or phone, for individual makers, classrooms, and print farms.
 - [PrintRun] - Pure Python 3d printing host software.
 - [Repetier] - Place, slice, preview and print.
 - [SimplyPrint] - Cloud-based platform for remote monitoring, management, and automation of 3D printers.
@@ -183,6 +184,7 @@ A curated list of awesome 3D printing resources.
 [Bambuddy]: https://bambuddy.cool
 [Kiln]: https://github.com/codeofaxel/Kiln
 [OctoPrint]: https://octoprint.org
+[Polar3D]: https://polar3d.com
 [PrintRun]: https://github.com/kliment/Printrun
 [Repetier]: https://www.repetier.com/
 [SimplyPrint]: https://simplyprint.io/

@@ -119,6 +119,7 @@ A curated list of awesome 3D printing resources.
 
 ## CAD Tools
 
+- [3D-Agent] - Desktop AI agent that models printable parts in Blender from text prompts and retopologizes AI-generated meshes. (commercial)
 - [AutoCAD] - 2D and 3D CAD design software. (commercial)
 - [Autodesk Fusion 360] - 3D CAD, CAM, and CAE tool for product design
     and manufacturing. (free for personal / non-commercial use)
@@ -147,6 +148,7 @@ A curated list of awesome 3D printing resources.
 - [Tinkercad] - Browser based free app for 3D design, electronics, and coding.
 - [Truck] - Rust based CAD Kernel.
 
+[3D-Agent]: https://3d-agent.com/blender-ai/3d-printing
 [AutoCAD]: https://www.autodesk.com/products/autocad/overview
 [Autodesk Fusion 360]: https://www.autodesk.com/products/fusion-360/personal
 [Autodesk Inventor]: https://www.autodesk.com/products/inventor/

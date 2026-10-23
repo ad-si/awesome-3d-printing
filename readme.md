@@ -332,6 +332,7 @@ Independent:
 - [Free3D] - Free and premium 3D models.
 - [GrabCAD]
 - [MakerRepo] - Git-based platform to share and collaborate on parametric CAD models.
+- [MolGod Engraved Molecular Models] - Free CC BY-SA chemistry molecule models with the element symbol engraved on every atom.
 - [MyMiniFactory] - 3D print files for tabletop gaming, toys, gadgets.
 - [Pinshape] - Find, share and sell 3D print files.
 - [PrintPal] - Model-sharing + marketplace + AI tool + manufacturing platform.
@@ -361,6 +362,7 @@ Self-Hostable:
 [MakerRoad]: https://www.makeroad.com/
 [Makerworld]: https://makerworld.com/en
 [MakerRepo]: https://makerrepo.com
+[MolGod Engraved Molecular Models]: https://molgod.org/engraved-molecular-models/
 [Manyfold]: https://github.com/manyfold3d/manyfold
 [PrintStash]: https://github.com/xiao-villamor/PrintStash
 [MyMiniFactory]: https://www.myminifactory.com/

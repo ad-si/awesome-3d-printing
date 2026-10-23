@@ -398,6 +398,7 @@ Self-Hostable:
 - [OctoEverywhere] - Remotely monitor your OctoPrint.
 - [Polyvia3D] - Browser-based 3D file converter, viewer, and repair tool supporting OBJ, STL, GLB, PLY, and 3MF. Runs locally via WebAssembly.
 - [QRCode2STL] - Browser-based generator for 3D printable QR codes, Spotify codes, and text tags.
+- [Reents3D STL Viewer] - Browser-based viewer for STL, STEP and IGES files with annotations and PDF reports. Runs locally, no upload, no signup required.
 - [Ritn3D] - Convert a floor plan into a 3D printable house model.
 - [SimplexGen] - Browser-based AI image-to-3D generator with a full mesh editing toolkit (simplify, smooth, repair, retopology, boolean, UV) and a 3D-print prep editor.
 - [STL Splitter] - Browser-based tool to split large STL and 3MF models into pieces that fit your printer bed, with alignment pins and printer presets. Runs locally, no upload.
@@ -428,6 +429,7 @@ Self-Hostable:
 [Polyvia3D]: https://polyvia3d.com
 [PROLED3D]: https://proled3d.com
 [QRCode2STL]: https://qrcode2stl.printer.tools
+[Reents3D STL Viewer]: https://viewer.reents3d.de/
 [Ritn3D]: https://www.ritn3d.com
 [SimplexGen]: https://simplexgen.com
 [STL Splitter]: https://stlsplitter.com

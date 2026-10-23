@@ -132,6 +132,8 @@ A curated list of awesome 3D printing resources.
 - [DeclaraCAD] - 3D CAD tool using Python. (open source)
 - [FluidCAD] - Browser based CAD tool that describes the 3D model
     with JavaScript. (open source)
+- [Forma3D] - iOS and iPadOS 3D modeling and STL/3MF mesh editing app
+    for 3D printing. (commercial)
 - [FreeCAD]
 - [OpenSCAD] - 3D CAD tool that describes the 3D model with code. (open source)
 - [Onshape]
@@ -156,6 +158,7 @@ A curated list of awesome 3D printing resources.
 [CaDoodle]: https://cadoodlecad.com
 [DeclaraCAD]: https://declaracad.com
 [FluidCAD]: https://github.com/Fluid-CAD/FluidCAD
+[Forma3D]: https://forma3d.app
 [FreeCAD]: https://www.freecad.org/
 [Onshape]: https://www.onshape.com/en/
 [OpenSCAD]: https://openscad.org

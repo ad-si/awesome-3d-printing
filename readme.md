@@ -277,6 +277,7 @@ Convert 3D models into G-Code.
 - [BambuStudio] - Slicer specific to Bambu Printers.
 - [CraftWare] - Free slicer for 3D printers.
 - [Cura] - Open source 3D printer / slicing GUI by Ultimaker.
+- [Encrust] - Open source resin slicer for MSLA and SLA printers.
 - [Kiri:Moto] - Web based slicer for 3D printers, CNC mills, and Laser cutters.
 - [KISSlicer] - Cross-platform slicer for STL files.
 - [MatterControl] - 3D printing software.
@@ -290,6 +291,7 @@ Convert 3D models into G-Code.
 [BambuStudio]: https://bambulab.com/en/download/studio
 [CraftWare]: https://craftbot.com/craftware
 [Cura]: https://ultimaker.com/software/ultimaker-cura/
+[Encrust]: https://encrust.app
 [Kiri:Moto]: https://grid.space/kiri/
 [KISSlicer]: https://www.kisslicer.com
 [MatterControl]: https://github.com/MatterHackers/MatterControl
@@ -345,7 +347,7 @@ Independent:
 Self-Hostable:
 
 - [Manyfold]
-- [PrintStash] - Self-hosted library for 3D print files that tracks G-code revisions, slicer settings, and print results, with Moonraker/Klipper printing.
+- [PrintStash] - Self-hosted storage and organization system for 3D printing files with automatic tagging, search, and slicer integration.
 
 
 [3D Kitbash]: https://3dkitbash.com
@@ -362,7 +364,7 @@ Self-Hostable:
 [Makerworld]: https://makerworld.com/en
 [MakerRepo]: https://makerrepo.com
 [Manyfold]: https://github.com/manyfold3d/manyfold
-[PrintStash]: https://www.printstash.org/en/
+[PrintStash]: https://github.com/xiao-villamor/PrintStash
 [MyMiniFactory]: https://www.myminifactory.com/
 [NexPrint]: https://nexprint.com/
 [Pinshape]: https://pinshape.com

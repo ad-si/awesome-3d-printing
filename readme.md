@@ -387,6 +387,7 @@ Self-Hostable:
 - [Filament Price Tracker] - Tracks 3D printing filament prices and price history.
 - [FilamentProfilesHub] - Database of community-verified print settings for any printer + filament combination.
 - [Filameter] - Filament Inventory Management.
+- [FilaStash] - iPhone filament inventory: 3D spool designer, remaining weight, storage locations, label scan, and purchase log (also listed on the App Store as Filatrack).
 - [Filwiz] - AI-powered filament profile generator from TDS, multi-slicer export, inventory tracking, and print troubleshooting.
 - [Free Universal Construction Kit] - A set of universal connectors to link together popular toy construction systems.
 - [gcode.ws] - Gcode analyzer.
@@ -402,6 +403,7 @@ Self-Hostable:
 - [SimplexGen] - Browser-based AI image-to-3D generator with a full mesh editing toolkit (simplify, smooth, repair, retopology, boolean, UV) and a 3D-print prep editor.
 - [STL Splitter] - Browser-based tool to split large STL and 3MF models into pieces that fit your printer bed, with alignment pins and printer presets. Runs locally, no upload.
 - [STLFixer] - Browser-based STL inspection and repair that processes files locally.
+- [Tucked] - iPhone app that turns a photo or dimensions into a custom storage tray or Gridfinity bin and exports STL for 3D printing.
 - [Vectary] - Browser-based 3D modeling.
 - [Vectiler] - Online tool to generate 3D printable map and terrain models from real-world geographic data.
 - [Open Filament Database] - Open, community-driven database of filament materials, colors, and print settings.
@@ -415,6 +417,7 @@ Self-Hostable:
 [Filament Price Tracker]: https://filamentpricetracker.com
 [FilamentProfilesHub]: https://filamentprofileshub.com
 [Filameter]: https://filameter.com
+[FilaStash]: https://littlecreative.agency/filastash/
 [Filwiz]: https://filwiz.com/
 [Free Universal Construction Kit]: https://fffff.at/free-universal-construction-kit/
 [gcode.ws]: https://gcode.ws
@@ -432,6 +435,7 @@ Self-Hostable:
 [SimplexGen]: https://simplexgen.com
 [STL Splitter]: https://stlsplitter.com
 [STLFixer]: https://stlfixer.io/
+[Tucked]: https://tucked.me/
 [Vectary]: https://www.vectary.com/
 [Vectiler]: https://www.halfmaps.io/3d-map-exporter
 

@@ -345,7 +345,7 @@ Independent:
 Self-Hostable:
 
 - [Manyfold]
-- [PrintStash] - Self-hosted library for 3D print files that keeps every model's G-code revisions, slicer settings, and print outcomes together, with Moonraker and Klipper send-to-print and content-hash duplicate detection.
+- [PrintStash] - Self-hosted library for 3D print files that tracks G-code revisions, slicer settings, and print results, with Moonraker/Klipper printing.
 
 
 [3D Kitbash]: https://3dkitbash.com

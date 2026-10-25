@@ -130,6 +130,7 @@ A curated list of awesome 3D printing resources.
     and ChromeOS with boolean operations and STL, SVG, and OBJ export.
     (open source)
 - [DeclaraCAD] - 3D CAD tool using Python. (open source)
+- [DESIGN:OS 3D Blender] - Agent toolkit that lets AI coding agents build 3D-printable models in Blender and checks them with a print production gate before STL/3MF export. (source-available)
 - [FluidCAD] - Browser based CAD tool that describes the 3D model
     with JavaScript. (open source)
 - [FreeCAD]
@@ -155,6 +156,7 @@ A curated list of awesome 3D printing resources.
 [caddiff]: https://github.com/angel291592/caddiff
 [CaDoodle]: https://cadoodlecad.com
 [DeclaraCAD]: https://declaracad.com
+[DESIGN:OS 3D Blender]: https://github.com/jangtrinh/design-os-3d-blender
 [FluidCAD]: https://github.com/Fluid-CAD/FluidCAD
 [FreeCAD]: https://www.freecad.org/
 [Onshape]: https://www.onshape.com/en/

@@ -133,6 +133,9 @@ A curated list of awesome 3D printing resources.
 - [FluidCAD] - Browser based CAD tool that describes the 3D model
     with JavaScript. (open source)
 - [FreeCAD]
+- [nopekit] - Claude Code plugin that checks CAD and 3D-printed designs
+    before you fabricate (watertightness, wall thickness, bed fit, overhangs),
+    where every check must prove it can fail. (open source)
 - [OpenSCAD] - 3D CAD tool that describes the 3D model with code. (open source)
 - [Onshape]
 - [Plasticity] - Solid and surface modeling desktop app. (commercial)
@@ -157,6 +160,7 @@ A curated list of awesome 3D printing resources.
 [DeclaraCAD]: https://declaracad.com
 [FluidCAD]: https://github.com/Fluid-CAD/FluidCAD
 [FreeCAD]: https://www.freecad.org/
+[nopekit]: https://github.com/neuman/nopekit
 [Onshape]: https://www.onshape.com/en/
 [OpenSCAD]: https://openscad.org
 [Plasticity]: https://www.plasticity.xyz/

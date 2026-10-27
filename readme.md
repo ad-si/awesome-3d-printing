@@ -135,6 +135,8 @@ A curated list of awesome 3D printing resources.
 - [FreeCAD]
 - [OpenSCAD] - 3D CAD tool that describes the 3D model with code. (open source)
 - [Onshape]
+- [OwlCAD] - Browser-based parametric CAD for 3D printing with a print check
+    and STL, 3MF, and STEP export. (freemium)
 - [Plasticity] - Solid and surface modeling desktop app. (commercial)
 - [Prompt2CAD] - Browser-based AI CAD tool that turns text prompts into parametric CAD models and exports STEP, DXF, STL, OBJ, and GLB. (freemium)
 - [Rhinoceros 3D] - CAD application software. (commercial)
@@ -159,6 +161,7 @@ A curated list of awesome 3D printing resources.
 [FreeCAD]: https://www.freecad.org/
 [Onshape]: https://www.onshape.com/en/
 [OpenSCAD]: https://openscad.org
+[OwlCAD]: https://owlcad.com
 [Plasticity]: https://www.plasticity.xyz/
 [Prompt2CAD]: https://prompt2cad.com
 [Rhinoceros 3D]: https://www.rhino3d.com

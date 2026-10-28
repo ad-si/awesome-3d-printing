@@ -176,7 +176,7 @@ A curated list of awesome 3D printing resources.
 ## Control Software
 
 - [Bambuddy] - Self-hosted print management tool for Bambu Lab printers with real-time monitoring, print archiving, scheduling, and notifications.
-- [Kiln] - MCP server for AI agents to control 3D printers.
+- [Kiln] - MCP server for AI agents to control 3D printers. Can also design printable parts with OpenSCAD, with Git-style version history.
 - [OctoPrint] - Web interface for 3D printer.
 - [Polar3D] - Cloud platform for remotely monitoring and controlling 3D printers from a browser or phone, for individual makers, classrooms, and print farms.
 - [PrintRun] - Pure Python 3d printing host software.

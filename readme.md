@@ -444,6 +444,7 @@ Self-Hostable:
 - [3D Hubs]
 - [Beamler] - Global industrial 3D printer network.
 - [Craftcloud] - Streamlined 3D Printing Service.
+- [IDEINDING](https://ideinding.de/) - German B2B 3D printing service offering in-house FDM and SLS production, CAD development, and partner-manufactured metal parts.
 - [Jiga] - Manufacturing as a service with known machine shops.
 - [Murtfeldt Additive Solutions] - Industrical 3D printing service.
 - [Rapidobject] - 3D printing solution provider.

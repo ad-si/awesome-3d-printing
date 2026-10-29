@@ -140,6 +140,8 @@ A curated list of awesome 3D printing resources.
 - [Plasticity] - Solid and surface modeling desktop app. (commercial)
 - [Prompt2CAD] - Browser-based AI CAD tool that turns text prompts into parametric CAD models and exports STEP, DXF, STL, OBJ, and GLB. (freemium)
 - [Rhinoceros 3D] - CAD application software. (commercial)
+- [SculptForge] - Digital sculpting app with dynamic topology, voxel remesh,
+    and STL export. (open source)
 - [Shapr3D]
 - [SketchForge] - Browser based 3D modeling tool to shape, combine, refine,
     import, and export models. (open source)
@@ -165,6 +167,7 @@ A curated list of awesome 3D printing resources.
 [Plasticity]: https://www.plasticity.xyz/
 [Prompt2CAD]: https://prompt2cad.com
 [Rhinoceros 3D]: https://www.rhino3d.com
+[SculptForge]: https://sculptforge.app
 [Shapr3D]: https://www.shapr3d.com/
 [SketchForge]: https://sketchforge3d.com
 [Solidworks]: https://www.solidworks.com/

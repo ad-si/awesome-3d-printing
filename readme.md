@@ -399,6 +399,7 @@ Self-Hostable:
 - [img2stl.art] - AI-powered image to 3D printable STL converter. Upload a photo and get a ready-to-print STL file in seconds.
 - [Meshdiff] - Compare two versions of a 3D model (STL, 3MF, OBJ) and visualize the differences.
 - [OctoEverywhere] - Remotely monitor your OctoPrint.
+- [PartFit 3D] - Browser-based STL and 3MF splitter that checks each cut part against a printer's build volume, with local processing and STL/3MF export.
 - [Polyvia3D] - Browser-based 3D file converter, viewer, and repair tool supporting OBJ, STL, GLB, PLY, and 3MF. Runs locally via WebAssembly.
 - [QRCode2STL] - Browser-based generator for 3D printable QR codes, Spotify codes, and text tags.
 - [Ritn3D] - Convert a floor plan into a 3D printable house model.
@@ -428,6 +429,7 @@ Self-Hostable:
 [Meshdiff]: https://meshdiff.com
 [OctoEverywhere]: https://octoeverywhere.com
 [Open Filament Database]: https://github.com/OpenFilamentCollective/open-filament-database
+[PartFit 3D]: https://partfit3d.com/
 [Polyvia3D]: https://polyvia3d.com
 [PROLED3D]: https://proled3d.com
 [QRCode2STL]: https://qrcode2stl.printer.tools

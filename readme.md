@@ -390,6 +390,7 @@ Self-Hostable:
 - [Filament Price Tracker] - Tracks 3D printing filament prices and price history.
 - [FilamentProfilesHub] - Database of community-verified print settings for any printer + filament combination.
 - [Filameter] - Filament Inventory Management.
+- [Filavora] - Free calculators for 3D print cost, filament cost, selling price and printer electricity, in English and German.
 - [Filwiz] - AI-powered filament profile generator from TDS, multi-slicer export, inventory tracking, and print troubleshooting.
 - [Free Universal Construction Kit] - A set of universal connectors to link together popular toy construction systems.
 - [gcode.ws] - Gcode analyzer.
@@ -418,6 +419,7 @@ Self-Hostable:
 [Filament Price Tracker]: https://filamentpricetracker.com
 [FilamentProfilesHub]: https://filamentprofileshub.com
 [Filameter]: https://filameter.com
+[Filavora]: https://filavora.com
 [Filwiz]: https://filwiz.com/
 [Free Universal Construction Kit]: https://fffff.at/free-universal-construction-kit/
 [gcode.ws]: https://gcode.ws

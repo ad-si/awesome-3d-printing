@@ -387,6 +387,7 @@ Self-Hostable:
 - [3D Print Estimation Studio] - Webapp to estimate 3D print time, filament weight, and material cost from 3D models.
 - [BotQueue] - Control your 3D printers over the internet.
 - [Clara.io] - Cloud-based 3D modeling, animation and rendering.
+- [Extrabold Tools] - Free browser-based Gridfinity baseplate generator with live 3D preview, exact-fit sizing, printer-aware splitting, CLICKbase support, and STL and 3MF export.
 - [Filament Price Tracker] - Tracks 3D printing filament prices and price history.
 - [FilamentProfilesHub] - Database of community-verified print settings for any printer + filament combination.
 - [Filameter] - Filament Inventory Management.
@@ -415,6 +416,7 @@ Self-Hostable:
 [3D Print Estimation Studio]: https://thom-x.github.io/3DPrinEstimation
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 [Clara.io]: https://clara.io
+[Extrabold Tools]: https://www.extrabold.tools/
 [Filament Price Tracker]: https://filamentpricetracker.com
 [FilamentProfilesHub]: https://filamentprofileshub.com
 [Filameter]: https://filameter.com

@@ -333,6 +333,7 @@ Independent:
 - [CGtrader]
 - [Cults] - Find, share and sell 3D print files.
 - [Free3D] - Free and premium 3D models.
+- [FreeSTLFiles] - Free 3D printable STL repository and pre-supported Patreon studio releases.
 - [GrabCAD]
 - [MakerRepo] - Git-based platform to share and collaborate on parametric CAD models.
 - [MyMiniFactory] - 3D print files for tabletop gaming, toys, gadgets.
@@ -358,6 +359,7 @@ Self-Hostable:
 [Creality Cloud]: https://www.crealitycloud.com/
 [Cults]: https://cults3d.com
 [Free3D]: https://free3d.com/
+[FreeSTLFiles]: https://freestlfiles.online/
 [GrabCAD]: https://grabcad.com
 [MakerOnline]: https://www.makeronline.com/en/
 [MakeItReal]: https://makeitreal.eufymake.com/

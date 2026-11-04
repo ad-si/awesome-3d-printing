@@ -133,6 +133,7 @@ A curated list of awesome 3D printing resources.
 - [FluidCAD] - Browser based CAD tool that describes the 3D model
     with JavaScript. (open source)
 - [FreeCAD]
+- [Luphra] - Browser-based AI that turns prompts and sketches into editable 3D models and 3D-printable parts. (freemium)
 - [OpenSCAD] - 3D CAD tool that describes the 3D model with code. (open source)
 - [Onshape]
 - [OwlCAD] - Browser-based parametric CAD for 3D printing with a print check
@@ -159,6 +160,7 @@ A curated list of awesome 3D printing resources.
 [DeclaraCAD]: https://declaracad.com
 [FluidCAD]: https://github.com/Fluid-CAD/FluidCAD
 [FreeCAD]: https://www.freecad.org/
+[Luphra]: https://www.luphra.com
 [Onshape]: https://www.onshape.com/en/
 [OpenSCAD]: https://openscad.org
 [OwlCAD]: https://owlcad.com

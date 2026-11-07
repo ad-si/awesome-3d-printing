@@ -405,7 +405,8 @@ Self-Hostable:
 - [SimplexGen] - Browser-based AI image-to-3D generator with a full mesh editing toolkit (simplify, smooth, repair, retopology, boolean, UV) and a 3D-print prep editor.
 - [STL Splitter] - Browser-based tool to split large STL and 3MF models into pieces that fit your printer bed, with alignment pins and printer presets. Runs locally, no upload.
 - [STLFixer] - Browser-based STL inspection and repair that processes files locally.
-- [Vectary] - Browser-based 3D modeling.
+- [Trify3D] - AI-powered photo-to-3D tool with a dedicated photo-to-printable-statue workflow; exports print-ready STL and OBJ, plus a browser STL editor for repair and STL/3MF/PLY conversion.
+- - [Vectary] - Browser-based 3D modeling.
 - [Vectiler] - Online tool to generate 3D printable map and terrain models from real-world geographic data.
 - [Open Filament Database] - Open, community-driven database of filament materials, colors, and print settings.
 - [PROLED3D] - Generate manufacturable LED channel letter parts from SVG (STL + DXF) for real fabrication.
@@ -435,6 +436,7 @@ Self-Hostable:
 [SimplexGen]: https://simplexgen.com
 [STL Splitter]: https://stlsplitter.com
 [STLFixer]: https://stlfixer.io/
+[Trify3D]: https://trify3d.com/photo-to-3d-printable-statue
 [Vectary]: https://www.vectary.com/
 [Vectiler]: https://www.halfmaps.io/3d-map-exporter
 

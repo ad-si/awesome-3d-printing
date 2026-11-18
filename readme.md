@@ -143,6 +143,7 @@ A curated list of awesome 3D printing resources.
 - [Shapr3D]
 - [SketchForge] - Browser based 3D modeling tool to shape, combine, refine,
     import, and export models. (open source)
+- [SolidCraft CAD] - Browser-based AI CAD tool that turns text prompts into parametric 3D models. (freemium)
 - [Solidworks] - 3D CAD design software. (commercial)
 - [SolveSpace] - Minimalist CAD software. (open source)
 - [SOMA] - Desktop app for designing parametric CadQuery models with an AI coding agent, with live 3D preview and STL/STEP export. (open source)
@@ -167,6 +168,7 @@ A curated list of awesome 3D printing resources.
 [Rhinoceros 3D]: https://www.rhino3d.com
 [Shapr3D]: https://www.shapr3d.com/
 [SketchForge]: https://sketchforge3d.com
+[SolidCraft CAD]: https://solidcraftcad.com
 [Solidworks]: https://www.solidworks.com/
 [SolveSpace]: https://solvespace.com/index.pl
 [SOMA]: https://github.com/Kai-Jungsthoefel/SOMA
